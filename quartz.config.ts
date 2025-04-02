@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Austin's Portfolio",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,15 +16,15 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "austinleekelly.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian", ".obsidian/*.*" ,".obsidian/", "_Misc/"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Inter",
+        body: "Roboto",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -81,7 +81,7 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
-        enableSiteMap: true,
+        enableSiteMap: false,
         enableRSS: true,
       }),
       Plugin.Assets(),

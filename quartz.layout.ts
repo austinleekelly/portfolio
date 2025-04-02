@@ -37,12 +37,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+	Component.DesktopOnly(Component.TableOfContents()),
     Component.Explorer(),
+
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Graph({localGraph:{linkDistance:100,fontSize: 0.3,repelForce: 1.5,},globalGraph:{linkDistanc6e:200,repelForce: 4.5,fontSize: 0.3,},}),
   ],
 }
 
