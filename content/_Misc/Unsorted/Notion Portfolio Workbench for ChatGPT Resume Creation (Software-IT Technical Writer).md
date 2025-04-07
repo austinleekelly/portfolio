@@ -1,3 +1,7 @@
+---
+_date created: Wednesday, April 2nd 2025, 12:32:31 pm
+_date modified: Wednesday, April 2nd 2025, 3:31:51 pm
+---
 [[Work MOC]]
 > Copy/Paste and text grabbing (Win+Shift+T with PowerToys) is your friend
 # Highlights
@@ -295,8 +299,5 @@ automation, etc)
 **Obsidian Reference:**
 
 # See Also
-* 
-* 
-* 
 
 # Tags

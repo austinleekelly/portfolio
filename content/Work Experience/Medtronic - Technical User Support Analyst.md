@@ -60,7 +60,7 @@ As a **Technical User Support Analyst** at Medtronic, I played a key role in dep
 
 ## 📜 Applicable Certifications
 * **General**
-	- [[Leadership and Influence (FEMA)]]
+	- [[IS-240B Leadership and Influence (FEMA)]]
 	- [[Project Management (Alison)]]
 - **IT**
 	- [[Advanced Windows Scripting (DHS.gov)]]

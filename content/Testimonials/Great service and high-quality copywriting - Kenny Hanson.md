@@ -8,5 +8,5 @@ tags: [Email-Copywriting, Freelance, Onboarding, SaaS, Testimonial]
 **Kenny Hanson**
 * Founder & CEO
 * 🌐 **Company Website:** [MentorPass | Online Startup Mentors 🚀](https://www.mentorpass.co/)
-* 🎯 **Relevant Role/Experience:** [[MentorPass]]
+* 🎯 **Relevant Role/Experience:** [[Onboarding Email Copywriter for MentorPass]]
 * 💼 **LinkedIn Profile:** [Kenny Hanson](https://www.linkedin.com/in/khanson1)

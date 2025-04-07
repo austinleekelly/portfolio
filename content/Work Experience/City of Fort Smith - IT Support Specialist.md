@@ -92,7 +92,7 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 ## 📜 Applicable Certifications
 
 - **General**
-	- [[Leadership and Influence (FEMA)]]
+	- [[IS-240B Leadership and Influence (FEMA)]]
 	- [[Project Management (Alison)]]
 - **IT**
 	- [[Advanced Windows Scripting (DHS.gov)]]
@@ -101,7 +101,7 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 	- [[Cyber Risk Management for Technicians (DHS.gov)]]
 	- [[Emerging Cyber Security Threats (DHS.gov)]]
 	- [[Foundations of Incident Management (DHS.gov)]]
-	- [[Managing Windows Environments with Group Policy (Global Knowledge)]]
+	- [[M50255 - Managing Windows Environments with Group Policy (Global Knowledge + Microsoft)]]
 	- [[Windows Operating System Security (DHS.gov)]]
 ## 🌟 Relevant Testimonials
 * [[Always maintained a high degree of integrity and professionalism in both his work and communications... - Alie Bahsoon]]

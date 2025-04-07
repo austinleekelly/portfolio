@@ -26,3 +26,7 @@ This portfolio highlights my **experience, projects, and skills**—showcasing h
 You can also explore by [[tags/|tagged content]] or use the search bar near the top.
 
 ✉ If you want to reach out feel free to contact me at theaustinkelly(at)gmail.com
+
+---
+
+🧠 **P.S.** Also, you might be interested in how I built this site: [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)]].

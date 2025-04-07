@@ -12,5 +12,5 @@ tags: [Ecommerce, Freelance, Long-Form-Content, SaaS, Testimonial]
 **Yoni Elbaz**
 * Co-Founder & CEO
 * 🌐 **Company Website:** [Loox Shopify Reviews App - Product Reviews & Referrals](https://loox.app/)
-* 🎯 **Relevant Role/Experience:** [[Loox]]
+* 🎯 **Relevant Role/Experience:** [[Content Writer for Loox]]
 * 💼 **LinkedIn Profile:** [Yoni Elbaz](https://www.linkedin.com/in/yoni-elbaz/)
