@@ -12,4 +12,4 @@ tags: [Beauty-Wellness, Ecommerce, Email-Copywriting, Freelance, Testimonial]
 **Corey Smee**
 * Marketing Success Supervisor
 * 🌐 **Company Website:** [Infrared Saunas | Far-Infrared Saunas | Health Mate Sauna](https://healthmatesauna.com/)
-* 🎯 **Relevant Role/Experience:** [[Ecommerce Email Copywriting for Health Mate Saunas]]
+* 🎯 **Relevant Role/Experience:** [[Ecommerce Email Consulting for Health Mate Saunas]]

@@ -68,11 +68,11 @@ Also worth mentioning, you don't need to know anything about Hugo. You don't eve
 
 ### 🔄 Sync & Backup: Dropbox + FreeFileSync
 
-To prevent disaster (like the time Quartz failed to upload and wiped my local repo due to a lock error), I use:
+To prevent disaster (like the time Quartz failed to upload and wiped my local repo due to a lock error - although that may be to a [nebulous issue surrounding Node](https://github.com/npm/npm/issues/13461)), I use:
 
 - **[Dropbox](https://www.dropbox.com/)** to store my main Obsidian vault
     
-- **[FreeFileSync](https://freefilesync.org/)** to mirror files into the Quartz folder before deploying
+- **[FreeFileSync](https://freefilesync.org/)** for a visual confirmation to mirror files into the Quartz folder before deploying
     
 
 This adds an air gap between my live content and the deploy script - juuust in case.
