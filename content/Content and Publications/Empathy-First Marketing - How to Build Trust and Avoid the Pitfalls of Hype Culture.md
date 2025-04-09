@@ -1,6 +1,7 @@
 ---
 _date created: Wednesday, April 9th 2025, 3:24:37 pm
-_date modified: Wednesday, April 9th 2025, 3:24:47 pm
+_date modified: Wednesday, April 9th 2025, 6:38:19 pm
+tags: [Original, Writing]
 title: "Empathy-First Marketing: How to Build Trust and Avoid the Pitfalls of Hype Culture"
 ---
 In marketing, we’re often told that optimism is key. 
