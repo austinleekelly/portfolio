@@ -7,7 +7,7 @@ tags: [Cert-Cybersecurity, Cert-IT]
 ---
 ## 📌 Summary
 
-_This self-paced training from CISA provides a practical overview of the Continuous Diagnostics and Mitigation (CDM) Program, focusing on enhancing cybersecurity across federal systems. Through five core modules—Overview, Hardware Asset Management, Software Asset Management, Configuration Settings, and Vulnerability Management—students learn how to manage IT assets, reduce vulnerabilities, and strengthen system configurations within civilian government networks._
+_This self-paced training from CISA provides a practical overview of the Continuous Diagnostics and Mitigation (CDM) Program, focusing on enhancing cybersecurity across federal systems. Through five core modules - Overview, Hardware Asset Management, Software Asset Management, Configuration Settings, and Vulnerability Management - students learn how to manage IT assets, reduce vulnerabilities, and strengthen system configurations within civilian government networks._
 
 ## 📂 Certification Overview
 

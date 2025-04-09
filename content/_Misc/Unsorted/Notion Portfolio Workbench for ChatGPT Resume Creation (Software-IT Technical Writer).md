@@ -10,7 +10,7 @@ _date modified: Wednesday, April 2nd 2025, 3:31:51 pm
 
 ## Hello, I’m Austin Kelly.
 
-I bridge the gap between technology and communication—bringing both technical support expertise and clear, effective writing to the table. With over 8 years of experience in IT support and helpdesk roles, I thrive in solving technical challenges, assisting end-users, and improving IT workflows to create seamless experiences.
+I bridge the gap between technology and communication - bringing both technical support expertise and clear, effective writing to the table. With over 8 years of experience in IT support and helpdesk roles, I thrive in solving technical challenges, assisting end-users, and improving IT workflows to create seamless experiences.
 
 My background includes providing tier 1 & 2 support, troubleshooting hardware/software issues, automating workflows with PowerShell, and working with tools like ServiceNow, Active Directory, MDT Imaging, and Group Policy.
 
@@ -140,7 +140,7 @@ As the owner and sole technician of my independent computer repair business duri
 - Built a strong reputation for fast, reliable, and professional IT support, generating repeat customers and referrals.
 - Developed efficient workflows for troubleshooting and repair, reducing service turnaround time.
 
-This experience provided a strong foundation in IT support, problem-solving, and customer communication—skills that directly apply to enterprise IT environments.
+This experience provided a strong foundation in IT support, problem-solving, and customer communication - skills that directly apply to enterprise IT environments.
 
 ### Commercial Property Researcher + IT Administrator at Fort Smith Chamber of Commerce
 Started

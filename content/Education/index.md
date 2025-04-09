@@ -9,14 +9,14 @@ title: 🎓 Education
 
 ---
 ![[uafs.png|150]]
-## University of Arkansas - Fort Smith
+## **University of Arkansas - Fort Smith**
 **B.S. in Information Technology - Networking**  
 **Attended:** September 4th, 2006 – May 11th, 2010  
 **Graduate Cum Laude (3.7 GPA)**  
 
 ---
 
-### 🏆 **Awards & Achievements**
+### 🏆 Awards & Achievements
 - **Dean's List** (4 years) 
 	Consistently recognized for academic excellence throughout my studies.
 - **Outstanding Networking Graduate of the Year**  
@@ -25,7 +25,7 @@ title: 🎓 Education
 Graduated with honors, demonstrating commitment and strong performance throughout my academic career.
 
 ---
-### 👩‍💻 **Capstone Project**
+### 👩‍💻 Capstone Project
 
 **Title:** _Live Streaming Infrastructure for University Robotics Competitions_
 - Designed a comprehensive **video streaming network** for the **university gymnasium** to broadcast robotics competitions, at a time when live streaming technology was still emerging.
@@ -34,5 +34,7 @@ Graduated with honors, demonstrating commitment and strong performance throughou
 - Addressed **network security and load balancing** considerations to maintain stable streams for remote viewers.
 - Presented the project to **faculty and industry professionals**, receiving recognition for its forward-thinking approach and technical depth.
 
-## **Certifications**
+## 🌟 Relevant Testimonials
+* [[Testimonials#"Any organization who is fortunate enough to obtain his talents will be rewarded..."|"Any organization who is fortunate enough to obtain his talents will be rewarded..."]]
+## Certifications
 Below, you’ll find my certifications:  

@@ -98,14 +98,14 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 	- [[Advanced Windows Scripting (DHS.gov)]]
 	- [[Coding 101 (DHS.gov)]]
 	- [[Critical Infrastructure Protection 101 (DHS.gov)]]
-	- [[Cyber Risk Management for Technicians (DHS.gov)]]
+	- [[Cyber Risk Management for Managers (DHS.gov)]]
 	- [[Emerging Cyber Security Threats (DHS.gov)]]
 	- [[Foundations of Incident Management (DHS.gov)]]
 	- [[M50255 - Managing Windows Environments with Group Policy (Global Knowledge + Microsoft)]]
 	- [[Windows Operating System Security (DHS.gov)]]
 ## 🌟 Relevant Testimonials
-* [[Always maintained a high degree of integrity and professionalism in both his work and communications... - Alie Bahsoon]]
-* [[Quick to respond, friendly by nature and efficient in resolving problems... - Jeff Dingman]]
-* [[Always willing to assist in solving any issues we encountered... - John Beard]]
+* [[Testimonials#"Always Maintained a High Degree of Integrity and professionalism..."|"Always maintained a high degree of integrity and professionalism..."]]
+* [[Testimonials#"Quick to respond, friendly by nature and efficient in resolving problems..."|"Quick to respond, friendly by nature and efficient in resolving problems..."]]
+* [[Testimonials#"Always Willing to Assist in Solving Any Issues We encountered..."|"Always willing to assist in solving any issues we encountered..."]]
 ## 🔗 Related Links
  - 🌐 **City Website:** [www.fortsmithar.gov](https://www.fortsmithar.gov)
