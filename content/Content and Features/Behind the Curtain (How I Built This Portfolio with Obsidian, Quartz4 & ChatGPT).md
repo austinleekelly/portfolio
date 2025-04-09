@@ -1,6 +1,7 @@
 ---
 _date created: Friday, April 4th 2025, 4:38:13 pm
-_date modified: Friday, April 4th 2025, 4:49:30 pm
+_date modified: Wednesday, April 9th 2025, 3:21:41 pm
+tags: [Original, Writing]
 ---
 _A fast, flexible, and free alternative to WordPress (with some quirks)_
 

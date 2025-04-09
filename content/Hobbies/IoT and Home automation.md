@@ -30,4 +30,5 @@ I love exploring IoT and making my home smarter through automation. I use tools 
 - **Future Ready:** There's always something new to explore and integrate.
     
 
+---
 In short, IoT and home automation let me create a smarter, more connected space in a way that's both fun and straightforward.

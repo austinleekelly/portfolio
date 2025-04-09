@@ -5,6 +5,17 @@ tags: [Business-Broker, Ecommerce, Freelance, Long-Form-Content, SaaS]
 ---
 
 
+Content I wrote:
+
+* [The Best E-Commerce About Us Page Examples](https://shoptimized.net/the-best-e-commerce-about-us-page-examples/)
+* [How to Write Product Descriptions That Sell: The Ultimate Guide](https://shoptimized.net/how-to-write-product-descriptions-that-sell/)
+* [Does Free Shipping Increase Sales? (Yes, But...)](https://shoptimized.net/does-free-shipping-increase-sales/)
+* [The 5 Step Plan to Becoming One of the Best Shopify Stores](https://shoptimized.net/best-shopify-stores-plan/)
+* [30 Shopify Dropshipping Theme Features That Are a Must-Have [GUIDE]](https://shoptimized.net/shopify-dropshipping-theme/)
+* [19 Ecommerce Remarketing Strategies That WORK](https://shoptimized.net/19-ecommerce-remarketing-strategies-that-work/)
+* [3 Secrets to a Successful Shopify Loyalty Program](https://shoptimized.net/3-secrets-to-a-successful-shopify-loyalty-program/)
+* [3 Killer Ecommerce Promo Codes Best Practices](https://shoptimized.net/3-killer-ecommerce-promo-codes-best-practices/)
+
 
 # [[Business Brokering and Due Diligence]]
 ## 📌 **Project Summary**

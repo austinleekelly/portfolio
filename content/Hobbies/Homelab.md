@@ -30,6 +30,8 @@ My homelab is where I experiment, learn, and push the boundaries of technology. 
 - **Continuous Growth:** From fine-tuning scripts to managing virtual setups, every experiment I feel adds to my tech skillset.
     
 
+---
+
  I may showcasing more in-depth personal projects in the future.
  
 For now, this page is just to describe how my homelab is all about exploring and mastering the tools I’m passionate about, and for me it’s a constant reminder that learning by doing is the most effective way to grow.

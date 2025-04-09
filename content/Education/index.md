@@ -7,8 +7,7 @@ title: 🎓 Education
 > [!info] Info
 >This section highlights my formal education in IT. Near the bottom, you can find my Certifications.
 
----
-![[uafs.png|150]]
+![[uafs.png|100]]
 ## **University of Arkansas - Fort Smith**
 **B.S. in Information Technology - Networking**  
 **Attended:** September 4th, 2006 – May 11th, 2010  
@@ -33,8 +32,9 @@ Graduated with honors, demonstrating commitment and strong performance throughou
 - Researched and selected **software solutions** for encoding, streaming, and content delivery, ensuring reliability and low-latency transmission.
 - Addressed **network security and load balancing** considerations to maintain stable streams for remote viewers.
 - Presented the project to **faculty and industry professionals**, receiving recognition for its forward-thinking approach and technical depth.
-
+---
 ## 🌟 Relevant Testimonials
 * [[Testimonials#"Any organization who is fortunate enough to obtain his talents will be rewarded..."|"Any organization who is fortunate enough to obtain his talents will be rewarded..."]]
+---
 ## Certifications
 Below, you’ll find my certifications:  

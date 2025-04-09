@@ -129,6 +129,8 @@ title: 🌟 Testimonials
 * Customer Success Engineer at Snappy Kraken
 * 🌐 **Company Website:** [Snappy Kraken: Personalized Websites, Original Content, Marketing Automation for financial advisors](https://snappykraken.com/)
 
+#Onboarding #Email-Copywriting #Freelance 
+
 ---
 ### "Someone to create great content for you..."
 

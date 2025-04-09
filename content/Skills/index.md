@@ -3,7 +3,7 @@ _date created: Friday, March 28th 2025, 8:58:30 am
 _date modified: Monday, March 31st 2025, 11:45:43 am
 title: 🛠 Skills
 ---
-> [!info] Info  
+> [!info] What You'll Find Here 
 > This section highlights the range of skills I’ve developed through hands-on experience, certifications, and real-world problem solving. These skills are grouped into key categories to reflect how they align with different roles and domains of work.
 
 ## How to Navigate:
