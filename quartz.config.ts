@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "austinleekelly.github.io",
-    ignorePatterns: ["private", "templates"],
+    ignorePatterns: ["private", "templates","**/private/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

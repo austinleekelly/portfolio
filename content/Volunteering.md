@@ -36,7 +36,7 @@ Drawing from my background in web administration, digital marketing, and IT supp
 My responsibilities included:
 
 - **[[Website and Content Management|Website Management]]:** Designed, updated, and maintained the campaign [[Content Management Software|Wordpress]] website, ensuring it effectively communicated the candidate’s message, policies, and upcoming events.
-- **[[Content Strategy and Planning|Content]] Updates:** Managed blog posts, press releases, and multimedia content to keep supporters informed and engaged.
+- **[[Writing and Marketing#Content Strategy and Planning|Content]] Updates:** Managed blog posts, press releases, and multimedia content to keep supporters informed and engaged.
 - **Technical Support:** Ensured site security, uptime, and responsiveness across desktop and mobile devices.
 - **Digital Strategy Support:** Assisted in crafting an online presence that aligned with the candidate’s values and campaign goals.
 

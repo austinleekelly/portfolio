@@ -27,21 +27,23 @@ As a **Technical User Support Analyst** at Medtronic, I played a key role in dep
 ## 🛠💻 Skills and Tools
 ### 🛠 **Skills**
 - **Soft Skills:** 
-	- [[Adaptability and Learning]]
-	- [[Collaboration and Teamwork]]
-	- [[Customer Service and Communication]]
-	- [[Project Management and Task Prioritization]]
-	- [[Problem Solving and Critical Thinking]]
-	- [[Proofreading and Editing]]  
-	- [[Technical Writing]] and Process Standardization
+	- [[General Skills#Adaptability and Learning|Adaptability and Learning]]
+	- [[General Skills#Collaboration and Teamwork|Collaboration and Teamwork]]
+	- [[General Skills#Customer Service and Communication|Customer Service and Communication]]
+	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
+	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]
+	- [[Writing and Marketing#Proofreading and Editing|Proofreading and Editing]]  
+	- [[General Skills#Process Standardization|Process Standardization]]
 
 - **Technical Skills:** 
-	- [[Documentation and Knowledge Management]]
-	- [[Hardware and Device Management]]
-	- [[Incident Management and Resolution]]
-	- [[Security and Compliance Management]]
-	- [[System Administration]]
-	- [[Technical Writing]]
+	- [[IT Support and Technical Skills#Documentation and Knowledge Management|Documentation and Knowledge Management]]
+	- [[IT Support and Technical Skills#Hardware and Device Management|Hardware and Device Management]]
+	- [[IT Support and Technical Skills#Incident Management and Resolution|Incident Management and Resolution]]
+	- [[IT Support and Technical Skills#IT Systems Integration|IT Systems Integration]]
+	- [[IT Support and Technical Skills#Security and Compliance Management|Security and Compliance Management]]
+	- [[IT Support and Technical Skills#System Administration|System Administration]]
+	- [[IT Support and Technical Skills#Technical Training and Support|Technical Training and Support]]
+	- [[Writing and Marketing#Technical Writing|Technical Writing]]
 
 ### 💻 **Software & Tools**
 - **IT & Helpdesk:**

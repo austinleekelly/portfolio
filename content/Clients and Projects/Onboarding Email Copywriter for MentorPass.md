@@ -52,8 +52,8 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
 
 ### 🛠 **Skills**
 
-- Behavioral [[Email Marketing and Automation]]
-- [[SaaS Onboarding and UX Copywriting]]
+- Behavioral [[Writing and Marketing#Email Marketing and Automation|Email Marketing and Automation]]
+- [[Writing and Marketing#SaaS Onboarding and UX Copywriting|SaaS Onboarding and UX Copywriting]]
 - Customer Retention
 - Funnel Optimization
 - Journey Mapping

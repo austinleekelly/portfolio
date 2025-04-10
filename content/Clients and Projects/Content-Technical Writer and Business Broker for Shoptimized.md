@@ -17,7 +17,7 @@ Content I wrote:
 * [3 Killer Ecommerce Promo Codes Best Practices](https://shoptimized.net/3-killer-ecommerce-promo-codes-best-practices/)
 
 
-# [[Business Brokering and Due Diligence]]
+# [[Business and Ecommerce#Business Brokering and Due Diligence|Business Brokering and Due Dilligence]]
 ## 📌 **Project Summary**
 
 As part of a strategic business transition, I assisted in the sale of the _Shoptimized_ website, a platform offering premium e-commerce solutions for businesses looking to optimize their online stores. My role involved a comprehensive approach to listing the site for sale, conducting due diligence, and acting as the primary point of contact between potential buyers and the seller. This experience not only refined my business and communication skills but also gave me hands-on experience in e-commerce, business negotiation, and the buying/selling process of online assets.
@@ -67,7 +67,7 @@ As part of a strategic business transition, I assisted in the sale of the _Shopt
     
 - Due Diligence & Financial Analysis
     
-- [[Ecommerce Strategy and Optimization]]
+- [[Business and Ecommerce#Ecommerce Strategy and Optimization|Ecommerce Strategy and Optimization]]
     
 - [[Project Management and Task Prioritization]]
     

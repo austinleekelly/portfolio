@@ -35,11 +35,11 @@ As a freelance Social Media Copywriter, I created a series of engaging posts for
 
 ### 🛠 **Skills**
 
-- **[[Copywriting|Social Media Copywriting]]** – Writing engaging, on-brand short-form content.
+- **[[Writing and Marketing#Copywriting|Social Media Copywriting]]** – Writing engaging, on-brand short-form content.
     
-- **[[B2B Messaging]]** – Framing entertainment services in a way that appeals to professional buyers.
+- **[[Writing and Marketing#B2B Messaging|B2B Messaging]]** – Framing entertainment services in a way that appeals to professional buyers.
     
-- **[[Voice & Tone Adaptation]]** – Balancing fun with credibility in promotional content.
+- **[[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Adaptation]]** – Balancing fun with credibility in promotional content.
     
 - **Event Promotion** – Crafting posts that support bookings and inquiries.
     

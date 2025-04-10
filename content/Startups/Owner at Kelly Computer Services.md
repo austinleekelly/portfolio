@@ -54,11 +54,16 @@ As the owner and sole technician of my independent IT repair business during col
 ### 🛠 **Skills**
 
 - **Soft Skills:** 
-	- Client Communication
+	- [[General Skills#Adaptability and Learning|Adaptability and Learning]]
+	- [[General Skills#Client Relationship Management|Client Relationship Management]]
+	- [[General Skills#Customer Service and Communication|Customer Service and Communication]]
+	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]
+	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
 	- Service Coordination
 	- Troubleshooting
 	    
 - **Technical Skills:** 
+	- [[IT Support and Technical Skills#Documentation and Knowledge Management|Documentation and Knowledge Management]]
 	- PC Repair
 	- OS Configuration
 	- Cybersecurity Best Practices

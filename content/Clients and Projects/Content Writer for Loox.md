@@ -35,13 +35,13 @@ As a freelance case study writer, I was tasked with highlighting how a Shopify b
 
 ### 🛠 **Skills**
 
-- **[[Content Writing]]**: Structured, persuasive writing tailored to SaaS marketing.
+- **[[Writing and Marketing#Content Writing|Content Writing]]**: Structured, persuasive writing tailored to SaaS marketing.
     
-- **[[Content Strategy and Planning]]**: Framing product features within real-world business use cases.
+- **[[Writing and Marketing#Content Strategy and Planning|Content Strategy and Planning]]**: Framing product features within real-world business use cases.
     
-- **[[Voice Adaptation]]**: Matching tone and messaging to the client’s branding.
+- **[[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Adaptation]]**: Matching tone and messaging to the client’s branding.
     
-- **[[Customer Journey Mapping]]**: Identifying key touchpoints for conversion and trust-building.
+- **[[Writing and Marketing#Customer Journey Mapping|Customer Journey Mapping]]**: Identifying key touchpoints for conversion and trust-building.
     
 
 ### 💻 **Software & Tools**

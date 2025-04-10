@@ -42,11 +42,11 @@ As a freelance writer for CB Publishing B.V., I crafted over half a dozen articl
 
 ### 🛠 **Skills**
 
-- **[[Content Writing]]:** Crafting engaging and informative articles.
+- **[[Writing and Marketing#Content Writing|Content Writing]]:** Crafting engaging and informative articles.
     
-- **[[SEO and Keyword Research]]**: Utilizing tools and strategies to enhance search engine rankings.
+- **[[Writing and Marketing#SEO and Keyword Research|SEO and Keyword Research]]**: Utilizing tools and strategies to enhance search engine rankings.
     
-- **Voice Adaptation:** Emulating brand or individual tones in writing.
+- **[[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Adaptation]]:** Emulating brand or individual tones in writing.
     
 - **Audience Engagement:** Developing content that resonates with target demographics.
     

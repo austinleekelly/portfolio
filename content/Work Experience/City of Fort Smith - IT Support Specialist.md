@@ -46,23 +46,23 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 ### 🛠**Skills**
 
 - **Soft Skills:** 
-	- [[Adaptability and Learning]]
-	- [[Collaboration and Teamwork]]
-	- [[Customer Service and Communication]]
-	- [[Project Management and Task Prioritization]]
-	- [[Process Standardization]]
-	- [[Problem Solving and Critical Thinking]]
-	- [[Proofreading and Editing]]
-	- Vendor Negotiation
+	- [[General Skills#Adaptability and Learning|Adaptability and Learning]]
+	- [[General Skills#Collaboration and Teamwork|Collaboration and Teamwork]]
+	- [[General Skills#Customer Service and Communication|Customer Service and Communication]]
+	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
+	- [[General Skills#Process Standardization|Process Standardization]]
+	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]
+	- [[Writing and Marketing#Proofreading and Editing|Proofreading and Editing]]
+	- [[Business and Ecommerce#Stakeholder Management|Stakeholder Management]]
     
 - **Technical Skills:** 
-	- [[Documentation and Knowledge Management]]
-	- [[Hardware and Device Management]]
-	- [[Incident Management and Resolution]]
-	- [[Networking and Security]]
-	- [[Security and Compliance Management]]
-	- [[System Administration]]
-	- [[Technical Writing]]
+	- [[IT Support and Technical Skills#Documentation and Knowledge Management|Documentation and Knowledge Management]]
+	- [[IT Support and Technical Skills#Hardware and Device Management|Hardware and Device Management]]
+	- [[IT Support and Technical Skills#Incident Management and Resolution|Incident Management and Resolution]]
+	- [[IT Support and Technical Skills#Networking and Security|Networking and Security]]
+	- [[IT Support and Technical Skills#Security and Compliance Management|Security and Compliance Management]]
+	- [[IT Support and Technical Skills#System Administration|System Administration]]
+	- [[Writing and Marketing#Technical Writing|Technical Writing]]
     
 ### 💻**Software & Tools**
 
@@ -72,7 +72,6 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 	- [[Microsoft Deployment Toolkit (MDT) and Windows Deployment Services (WDS)]]
 	- [[Screenshare and Documentation]]
 	- [[Software Management]] (PDQ Deploy)
-	- [[Technical Writing]] and Process Standardization
 	- [[Ticketing Systems]] (OSTicket, ServiceNow)
 	- [[Windows OS]]
 	- [[Virtualization]]
