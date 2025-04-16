@@ -3,7 +3,7 @@ _date created: Friday, April 4th 2025, 3:39:31 pm
 _date modified: Friday, April 4th 2025, 3:45:38 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-09
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

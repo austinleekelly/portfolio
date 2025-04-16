@@ -3,13 +3,35 @@ _date created: Friday, March 28th 2025, 8:58:30 am
 _date modified: Monday, March 31st 2025, 11:45:43 am
 title: 🛠 Skills
 ---
-> [!info] What You'll Find Here 
-> This section highlights the range of skills I’ve developed through hands-on experience, certifications, and real-world problem solving. These skills are grouped into key categories to reflect how they align with different roles and domains of work.
+> [!info] **What You'll Find Here:**  
+> A categorized overview of my real-world skill sets across business, eCommerce, IT support, technical troubleshooting, writing, and digital marketing—each with hands-on context and examples.
 
 ## How to Navigate:
 
-1. **Browse by Category**: Skills are organized into folders by category. Each category has its own index page (e.g., [[Skills/Business and Ecommerce/|Business and Ecommerce]], [[Skills/IT Support and Technical Skills/|IT Support and Technical Skills]], [[Skills/Writing and Marketing/|Writing and Marketing]]) to help you explore related skills in context.
-    
-2. **Explore by Relevance**: Categories reflect how skills are applied - whether in business operations, technical support, writing, or marketing - so you can quickly find what matters most to your needs or interests.
-    
-3. **Use Search**: You can also use the search bar to locate specific skills, tools, or techniques across categories.
+1. **Browse by Category**: Content is organized into focused categories to help you quickly scan for relevant skills, experience, or tools by domain.
+2. **Use Search**: Looking for something specific? Use the search bar to find keywords, industries, platforms, or project types across all sections.
+
+
+---
+
+## 🛒 [[Business and eCommerce]]  
+> Skills related to product strategy, operations, online selling, customer experience, and marketplace growth.  
+*Examples: Shopify store builds, product launch copy, vendor outreach, customer retention systems*
+
+---
+
+## 💼 [[General Skills]]  
+> Transferable skills that span industries—communication, planning, systems thinking, and adaptability.  
+*Examples: Cross-functional collaboration, task prioritization, research, decision-making frameworks*
+
+---
+
+## 🖥 [[IT Support and Technical Skills]]  
+> Skills from hands-on tech support, troubleshooting, and systems management—grounded in real help desk and service desk experience.  
+*Examples: Windows + Mac troubleshooting, Active Directory, remote support, ticketing systems, endpoint security*
+
+---
+
+## ✍️ [[Writing and Marketing]]  
+> Skills for content creation, conversion-focused copywriting, SEO, and brand messaging—especially in B2B and eCommerce.  
+*Examples: Long-form articles, landing pages, email sequences, ad copy, UX microcopy*

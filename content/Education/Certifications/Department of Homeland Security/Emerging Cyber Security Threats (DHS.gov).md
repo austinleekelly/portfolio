@@ -7,7 +7,7 @@ NICE Framework Domains:
   - Implementation and Operations
   - Oversight and Governance
   - Protection and Defense
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

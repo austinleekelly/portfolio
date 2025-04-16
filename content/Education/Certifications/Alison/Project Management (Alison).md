@@ -41,8 +41,8 @@ _The Diploma in Project Management in Practice provides a comprehensive understa
 
 ## 🚀 Skills Acquired
 ### 🛠 **Core Skills**
-- [[Project Management and Task Prioritization|Project Management]]
-- Risk Management  
+- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
+- Risk Management
 - Procurement  
 - Agile & Lean  
 - Negotiation

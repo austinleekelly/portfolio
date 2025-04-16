@@ -4,7 +4,7 @@ _date modified: Sunday, April 6th 2025, 5:18:02 pm
 Institution:
   - FEMA
 Issue Date: 2017-10-22
-tags: [Cert-Cybersecurity]
+tags: [Cybersecurity]
 ---
 ## 📌 Summary
 

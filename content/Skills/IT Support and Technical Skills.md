@@ -1,6 +1,7 @@
 ---
 _date created: Thursday, April 10th 2025, 1:31:15 pm
 _date modified: Thursday, April 10th 2025, 1:34:26 pm
+title: 🖥 IT Support and Technical Skills
 ---
 ## Documentation and Knowledge Management
 > Creating and maintaining comprehensive documentation to ensure information is easily accessible and systems are understood.
@@ -46,15 +47,9 @@ _date modified: Thursday, April 10th 2025, 1:34:26 pm
 
 ---
 
-## Database Management and Backup Solutions
+## File Management and Backup Solutions
 > Managing and securing databases to ensure data integrity, availability, and efficient backup practices.
 
 ---
-
-## IT Support Tools and Software
-> Using specialized tools and software for managing IT operations, resolving issues, and enhancing service delivery.
-
----
-
 ## Technical Training and Support
 > Providing training and support to end-users, ensuring they have the necessary skills to operate IT systems effectively.

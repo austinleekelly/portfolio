@@ -1,12 +1,13 @@
 ---
 _date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:15:22 pm
-Institution: Department of Homeland Security
+_date modified: Monday, April 14th 2025, 6:10:04 pm
+Institution:
+  - Department of Homeland Security
 Issue Date: 2018-01-04
 NICE Framework Domains:
   - Implementation and Operations
   - Protection and Defense
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT, Windows]
 ---
 ## 📌 Summary
 
@@ -51,7 +52,7 @@ _This course covers the security aspects of Microsoft Windows, including the sec
     
 ### 🗺 **NICE Framework Domains**
 
-- **Implementation and Operation*
+- **Implementation and Operation**
 - **Protection and Defense**
 ## 📜 Certification Details
 

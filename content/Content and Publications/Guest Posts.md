@@ -9,7 +9,7 @@ _date modified: Wednesday, April 9th 2025, 10:49:48 am
 - **MarketingProfs**
 	- [Write Engaging Headlines: A 3-Step Formula | MarketingProfs](https://www.marketingprofs.com/articles/2020/43158/an-easy-three-step-headline-formula-that-grabs-customer-attention-in-just-five-minutes-with-examples)
 - **GrowthRocks**
-	- [Wix vs Wordpress: What's the Better Choice in 2020? - GrowthRocks](https://growthrocks.com/blog/wix-vs-wordpress/)
+	- [Wix vs Wordpress: What's the Better Choice in 2020? - GrowthRocks](https://growthrocks.com/blog/wix-vs-wordpress/) ^17c6ca
 - **ReminMedia**
 	- [Pay-per-click Decoded | Remin Media](https://reminmedia.com/pay-per-click-decoded/)
 	- [Engagement and Content Marketing Decoded | Remin Media](https://reminmedia.com/engagement-and-content-marketing-decoded/)

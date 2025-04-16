@@ -2,7 +2,7 @@
 _date created: Tuesday, April 8th 2025, 3:26:21 pm
 _date modified: Tuesday, April 8th 2025, 5:44:09 pm
 Issue Date: 2020-04-15
-tags: [Cert-Marketing, Cert-PPC-Marketing]
+tags: [Marketing, PPC-Marketing]
 ---
 ## 📌 Summary
 

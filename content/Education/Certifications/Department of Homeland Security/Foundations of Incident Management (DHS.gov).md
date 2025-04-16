@@ -5,7 +5,7 @@ Institution: Department of Homeland Security
 Issue Date: 2018-01-09
 NICE Framework Domains:
   - Protection and Defense
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

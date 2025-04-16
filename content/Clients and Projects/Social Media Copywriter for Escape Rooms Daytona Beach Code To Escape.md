@@ -41,8 +41,6 @@ As a freelance Social Media Copywriter, I created a series of engaging posts for
     
 - **[[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Adaptation]]** – Balancing fun with credibility in promotional content.
     
-- **Event Promotion** – Crafting posts that support bookings and inquiries.
-    
 
 ### 💻 **Software & Tools**
 

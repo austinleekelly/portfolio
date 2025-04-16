@@ -3,11 +3,15 @@ _date created: Wednesday, March 26th 2025, 2:21:53 pm
 _date modified: Friday, March 28th 2025, 5:54:24 pm
 tags: [Economic-Development, Full-Time, IT]
 ---
-As the **Director of Information and Statistics** at the Fort Smith Chamber of Commerce, I played a dual role in managing business development data and providing IT support for a 10-person office.
+## 📌 Summary
 
-I was responsible for facilitating the geographic expansion of major businesses like Mars, Umarex, and Mitsubishi by conducting property research and evaluating feasibility. 
+As the **Director of Information and Statistics** at the Fort Smith Chamber of Commerce, I supported both **business development** and **IT operations** for a 10-person office. 
 
-At the same time, I managed IT infrastructure, supported end-users, and ensured the smooth operation of technology in the office. My work contributed to the successful relocation and expansion of businesses into Fort Smith, fostering economic growth and development in the region.
+I helped national companies like **Mars**, **Umarex**, and **Mitsubishi** explore and expand into the Fort Smith area by conducting property research and compiling data for relocation proposals.
+
+Alongside economic development work, I managed the office’s technology — including systems, servers, end-user support, and vendor coordination. 
+
+My efforts helped bring new businesses to the city and improved day-to-day IT performance in the organization.
 
 ---
 
@@ -17,7 +21,7 @@ At the same time, I managed IT infrastructure, supported end-users, and ensured 
     
 - **📆 Duration:** July 2007 – January 2011
     
-- **🏢 Employment Type:** Full-time
+- **🏢 Employment Type:** Part-time for a year, then full-time
     
 - **📍 Location:** Fort Smith, Arkansas
     
@@ -26,35 +30,34 @@ At the same time, I managed IT infrastructure, supported end-users, and ensured 
 
 ## 🎯 Key Responsibilities
 
-- **Business Development & Commercial Property Research** – _Conducted research and analysis for over 55+ RFPs to assess Fort Smith’s potential as a relocation or expansion site for major companies like Mars, Umarex, and Mitsubishi._
+- **Business Development & Property Research** – Researched 55+ RFPs to help companies evaluate Fort Smith for relocation or expansion, including site availability, infrastructure, and incentives.
     
-- **Site Selection & Evaluation** – _Supported businesses in identifying optimal locations by providing detailed data on available properties, market conditions, and economic incentives._
+- **[[Writing and Marketing#Market Research and Analysis|Site Selection & Evaluation]]** – Provided detailed property data, market trends, and location analysis to support business decisions.
     
-- **Stakeholder Coordination & Data Management** – _Worked with internal and external stakeholders to compile relevant data, ensuring businesses had the information they needed to make expansion decisions._
+- **[[Business and Ecommerce#Stakeholder Management|Stakeholder Coordination]] & Data Management** – Worked closely with company leaders, developers, and government officials to share relevant data for project planning.
     
-- **IT Administration & End-User Support** – _Provided daily technical support for a 10-person office, troubleshooting hardware, software, and network issues._
+- **[[IT Support and Technical Skills#System Administration|IT Administration]] & [[IT Support and Technical Skills#Technical Training and Support|End-User Support]]** – Handled daily support for computers, printers, internet, and software across the office.
     
-- **System & Server Management** – _Administered file services, Microsoft Exchange, and shared network resources to optimize productivity._
+- **[[IT Support and Technical Skills#System Administration|System & Server Management]]** – Maintained file servers, Microsoft Exchange, and shared drives to ensure smooth operations.
     
-- **Vendor & IT Liaison** – _Coordinated with external IT professionals and service providers for system maintenance, upgrades, and troubleshooting._
+- **[[Business and Ecommerce#Stakeholder Management|Vendor & IT Liaison]]** – Coordinated with outside IT vendors for upgrades, system checks, and issue resolution.
     
-- **Hardware & Software Maintenance** – _Installed, configured, and maintained workstations, printers, and office technology._
+- **[[IT Support and Technical Skills#Hardware and Device Management|Hardware]] & [[IT Support and Technical Skills#System Administration|Software Maintenance]]** – Installed and managed devices, operating systems, and office applications.
     
-- **Data Management & Security** – _Ensured secure storage and accessibility of critical files, implementing best practices for data protection._
+- **[[IT Support and Technical Skills#File Management and Backup Solutions|Data Management]] & [[IT Support and Technical Skills#Security and Compliance Management|Security]]** – Backed up critical files and ensured secure access to important documents.
     
 
 ---
 
 ## 🚀 Achievements & Impact
 
-- ✅ **Facilitated Business Growth** – _Played a key role in helping Mars, Umarex, Mitsubishi, and other companies expand into Fort Smith, boosting local employment and diversifying the economy._
+- ✅ **Helped attract major companies** – _Supported expansion of Mars, Umarex, and Mitsubishi into Fort Smith, helping grow the local economy._
     
-- ✅ **Streamlined Site Selection Process** – _Assisted in identifying optimal locations for new facilities, reducing the time required for businesses to make decisions._
+- ✅ **Made site selection easier** – _Provided accurate location data and analysis to shorten decision timelines for relocating companies._
     
-- ✅ **Enhanced IT Infrastructure** – _Improved office IT infrastructure by streamlining file services and enhancing Microsoft Exchange email functionality, reducing downtime and boosting efficiency._
+- ✅ **Improved office IT systems** – _Enhanced file access and email services with better server management and Microsoft Exchange tuning._
     
-- ✅ **Managed Multiple Projects Simultaneously** – _Successfully managed a **10+ active project workload** while ensuring smooth IT operations, demonstrating exceptional multitasking and problem-solving skills._
-    
+- ✅ **Balanced multiple priorities** – _Managed 10+ active business development projects while keeping daily IT needs on track._
 
 ---
 
@@ -75,7 +78,7 @@ At the same time, I managed IT infrastructure, supported end-users, and ensured 
 - **Technical Skills:**
 	- [[IT Support and Technical Skills#Documentation and Knowledge Management|Documentation and Knowledge Management]]
 	- [[IT Support and Technical Skills#Hardware and Device Management|Hardware and Device Management]]
-	- [[Incident Management and Resolution]]
+	- [[IT Support and Technical Skills#Incident Management and Resolution|Incident Management and Resolution]]
 	- [[Business and Ecommerce#Research and Competitive Analysis|Research and Competitive Analysis]]
 	- [[IT Support and Technical Skills#Security and Compliance Management|Security and Compliance Management]]
 	- [[IT Support and Technical Skills#System Administration|System Administration]]
@@ -88,7 +91,7 @@ At the same time, I managed IT infrastructure, supported end-users, and ensured 
 	- State and Local GIS
 - **Project Management:** 
 	- [[Adobe Creative Suite]]
-	- [[Office Suite Software]] (Heavy use of Excel)
+	- [[Microsoft Office Suite and Office 365]] (Heavy use of Excel)
 	- [[Microsoft Sharepoint]]
 	- [[Project-Task managers]]
 - **IT & Helpdesk:** 

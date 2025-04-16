@@ -1,11 +1,46 @@
 ---
 _date created: Friday, March 28th 2025, 8:59:43 am
 _date modified: Monday, March 31st 2025, 11:45:34 am
-title: 💻 Software
+title: 🖥 Software
 ---
-Below, you'll find a categorized list of the software I've use across various roles. You can explore each one for a more detailed breakdown, use cases, and how I apply these tools in my work.
+> [!info] **What You'll Find Here:**  
+> A curated list of software I’ve used in real-world projects across tech support, marketing, automation, and content creation—organized by category with highlights and insights.
 
-#### **How To Navigate:**
+## How to Navigate:
 
-1. **Browse by Category**: Software is grouped into different categories below. Click on a specific software to see details.
-2. **Search Function**: Use the search bar in Obsidian to find a specific software.
+1. **Browse by Category**: Content is organized into focused categories to help you quickly scan for relevant skills, experience, or tools by domain.
+2. **Use Search**: Looking for something specific? Use the search bar to find keywords, industries, platforms, or project types across all sections.
+---
+
+## 🌐 [[Content Management and SEO]]  
+> Website platforms, content managers, and tools to track and optimize site performance.  
+*Examples: WordPress, Webflow, Hotjar, Ahrefs, Screaming Frog*
+
+---
+
+## 📚 [[Documentation and Dev Tools]]  
+> Writing-focused tools, version control, and visual logic documentation.  
+*Examples: GitHub, Obsidian + Dataview, Mermaid.js, Loom*
+
+---
+## ⚙️ [[IT, Security, and Automation Tools]]  
+> Systems management, security, and automation tools for maintaining and optimizing workflows.  
+*Examples: Active Directory, PowerShell, Zapier, Malwarebytes, Windows Defender, PDQ Deploy, TeamViewer, VPN clients*
+
+---
+
+## 📬 [[Marketing Automation and CRM]]  
+> Platforms for email and SMS marketing, CRM, lead gen, and campaign workflows.  
+*Examples: Klaviyo, HubSpot, ActiveCampaign, Lemlist*
+
+---
+
+## ✍️ [[Office and Creative Suites]]  
+> Tools for document creation, creative production, proofreading, and communication.  
+*Examples: Microsoft Office, Google Docs, Grammarly, Adobe Suite, Notion*
+
+---
+
+## ✅ [[Project Management and Collaboration]]  
+> Organizers for managing tasks, communicating with teams, and sharing files.  
+*Examples: Trello, ClickUp, Jira, Monday, Asana*

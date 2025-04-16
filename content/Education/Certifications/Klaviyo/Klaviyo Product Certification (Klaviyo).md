@@ -6,7 +6,7 @@ Certification Link: https://verify.skilljar.com/c/dtoh5taqms3k
 Institution:
   - Klaviyo
 Issue Date: 2022-04-20
-tags: [Cert-Email-Marketing]
+tags: [Email-Marketing]
 ---
 ## 📌 Summary
 

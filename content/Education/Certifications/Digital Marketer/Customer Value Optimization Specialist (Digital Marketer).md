@@ -2,7 +2,7 @@
 _date created: Tuesday, April 8th 2025, 3:26:21 pm
 _date modified: Tuesday, April 8th 2025, 5:44:44 pm
 Issue Date: 2020-03-15
-tags: [Cert-Funnel-Conversion, Cert-Marketing]
+tags: [Funnel-Conversion, Marketing]
 ---
 ## 📌 Summary
 

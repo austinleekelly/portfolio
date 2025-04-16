@@ -4,7 +4,7 @@ _date modified: Saturday, March 29th 2025, 11:36:50 am
 tags: []
 title: 🎓 Education
 ---
-> [!info] Info
+> [!info] **What You'll Find Here:**
 >This section highlights my formal education in IT. Near the bottom, you can find my Certifications.
 
 ![[uafs.png|100]]
@@ -34,7 +34,7 @@ Graduated with honors, demonstrating commitment and strong performance throughou
 - Presented the project to **faculty and industry professionals**, receiving recognition for its forward-thinking approach and technical depth.
 ---
 ## 🌟 Relevant Testimonials
-* [[Testimonials#"Any organization who is fortunate enough to obtain his talents will be rewarded..."|"Any organization who is fortunate enough to obtain his talents will be rewarded..."]]
----
+![[Testimonials#^fad4af]]
+
 ## Certifications
 Below, you’ll find my certifications:  

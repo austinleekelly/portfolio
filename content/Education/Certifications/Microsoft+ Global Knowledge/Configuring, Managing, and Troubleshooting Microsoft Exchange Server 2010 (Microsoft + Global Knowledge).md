@@ -5,7 +5,7 @@ Institution:
   - Global Knowledge
   - Microsoft
 Issue Date: 2011-09-30
-tags: [Cert-IT]
+tags: [IT]
 ---
 ## 📌 Summary
 

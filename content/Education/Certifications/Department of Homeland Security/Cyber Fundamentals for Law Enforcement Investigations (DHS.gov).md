@@ -6,7 +6,7 @@ Issue Date: 2017-12-29
 NICE Framework Domains:
   - Cyberspace Intelligence
   - Investigation
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

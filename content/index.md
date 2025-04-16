@@ -1,7 +1,7 @@
 ---
 _date created: Wednesday, March 26th 2025, 5:25:11 pm
-_date modified: Friday, March 28th 2025, 8:43:05 am
-title: 👋 Austin Kelly
+_date modified: Tuesday, April 15th 2025, 2:41:16 pm
+title: Austin Kelly
 ---
 # **👋 Welcome!**
 
@@ -17,7 +17,7 @@ This portfolio highlights my **experience, projects, and skills** - showcasing h
 - 💼 **[[Clients and Projects/index|Freelance & Consulting]]** – Various projects and business ventures in content, technology, and strategy.
 - 📜 **[[Education/Certifications/index|Certifications & Training]]** – Industry-recognized credentials and courses.
 - 🎓 **[[Education/index|Education]]** – Academic background and relevant coursework.
-- ⭐ **[[Testimonials|Testimonials]]** – Insights from colleagues, clients, and collaborators.
+- ⭐ **[[Testimonials]]** – Insights from colleagues, clients, and collaborators.
 - 📢 **[[Volunteering|Community & Volunteer Work]]** – Contributions to education, mentorship, and advocacy.
 - 🛠️ **[[Skills/index|Skills & Expertise]]** – Technical, analytical, and creative problem-solving abilities.
 - 💻 **[[Software/index|Tools & Technology]]** – Platforms, programming, and automation tools.

@@ -5,5 +5,5 @@ Institution: Hubspot
 Issue Date: 03-10-2022
 Role:
   - Content Writer
-tags: [Cert-Marketing]
+tags: [Marketing]
 ---

@@ -4,7 +4,11 @@ _date modified: Saturday, March 29th 2025, 2:06:26 pm
 tags: [IT, Owner]
 ---
 ## 📌 Summary
-As the owner and sole technician of my independent IT repair business during college, I delivered hands-on technical support to residential and small business clients. I handled everything from PC troubleshooting to network setup and data recovery, all while managing operations, customer service, and marketing. This role sharpened my problem-solving skills, built my technical foundation, and taught me how to deliver clear, customer-friendly support in high-stress tech scenarios.
+As the owner and sole technician of my independent IT repair business during college, I delivered hands-on technical support to residential and small business clients. 
+
+I handled everything from PC troubleshooting to network setup and data recovery, all while managing operations, customer service, and marketing. 
+
+This role sharpened my problem-solving skills, built my technical foundation, and taught me how to deliver clear, customer-friendly support in high-stress tech scenarios.
 
 ---
 
@@ -55,19 +59,27 @@ As the owner and sole technician of my independent IT repair business during col
 
 - **Soft Skills:** 
 	- [[General Skills#Adaptability and Learning|Adaptability and Learning]]
+    
 	- [[General Skills#Client Relationship Management|Client Relationship Management]]
-	- [[General Skills#Customer Service and Communication|Customer Service and Communication]]
-	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]
-	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
-	- Service Coordination
-	- Troubleshooting
 	    
+	- [[General Skills#Customer Service and Communication|Customer Service and Communication]]
+	    
+	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]
+	    
+	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
+		    
 - **Technical Skills:** 
 	- [[IT Support and Technical Skills#Documentation and Knowledge Management|Documentation and Knowledge Management]]
-	- PC Repair
-	- OS Configuration
-	- Cybersecurity Best Practices
-	- Network Setup
+    
+	- [[IT Support and Technical Skills#Hardware and Device Management|PC Repair]]
+	    
+	- [[IT Support and Technical Skills#System Administration|OS Configuration]]
+	    
+	- [[IT Support and Technical Skills#Security and Compliance Management|Cybersecurity Best Practices]]
+	    
+	- [[IT Support and Technical Skills#Networking and Security|Network Setup]]
+	    
+	- [[IT Support and Technical Skills#Incident Management and Resolution|Troubleshooting]]
 	    
 ### 💻 **Software & Tools**
 

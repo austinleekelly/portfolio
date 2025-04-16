@@ -4,7 +4,7 @@ _date modified: Sunday, April 6th 2025, 6:08:10 pm
 Institution:
   - Google
 Issue Date: 2017-07-10
-tags: [Cert-Marketing]
+tags: [Marketing]
 ---
 ## 📌 Summary
 

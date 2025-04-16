@@ -1,11 +1,13 @@
 ---
 _date created: Friday, March 28th 2025, 10:13:05 am
-_date modified: Friday, March 28th 2025, 10:13:18 am
+_date modified: Saturday, April 12th 2025, 4:56:14 pm
+Client Contact: 
 title: 🛒 Business and Ecommerce
 ---
 I leverage strategic thinking, data analysis, and operational efficiency to drive business growth, optimize e-commerce platforms, and support complex transactions. My experience spans **business brokering**, **ecommerce optimization**, **project management**, and more.
 
-> **What You'll Find Here:** A mix of business development, ecommerce strategy, vendor relations, and project management—focused on driving performance and success.
+> [!info] What You'll Find Here:
+> A mix of business development, ecommerce strategy, vendor relations, and project management—focused on driving performance and success.
 
 ## Business Brokering and Due Diligence
 > Conducting thorough business evaluations and negotiations, ensuring smooth transactions and risk mitigation.

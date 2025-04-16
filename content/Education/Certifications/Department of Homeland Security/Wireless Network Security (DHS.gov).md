@@ -5,7 +5,7 @@ Institution: Department of Homeland Security
 Issue Date: 2018-01-04
 NICE Framework Domains:
   - Implementation and Operations
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

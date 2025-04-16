@@ -1,7 +1,8 @@
 ---
 _date created: Wednesday, March 26th 2025, 2:50:33 pm
-_date modified: Tuesday, April 8th 2025, 6:41:24 pm
+_date modified: Thursday, April 10th 2025, 5:29:23 pm
 tags: [Writing]
+title: ✍ Writing and Journaling
 ---
 ## Writing & Journaling: A Path to Clarity and Discipline
 

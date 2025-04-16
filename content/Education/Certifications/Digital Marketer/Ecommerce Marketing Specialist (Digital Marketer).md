@@ -2,7 +2,7 @@
 _date created: Tuesday, April 8th 2025, 3:26:21 pm
 _date modified: Tuesday, April 8th 2025, 5:45:01 pm
 Issue Date: 2020-04-15
-tags: [Cert-Ecommerce, Cert-Marketing]
+tags: [Ecommerce, Marketing]
 ---
 ## 📌 Summary
 

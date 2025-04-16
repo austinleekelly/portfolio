@@ -4,25 +4,47 @@ _date modified: Friday, March 28th 2025, 5:56:00 pm
 tags: [Full-Time, Healthcare, IT]
 ---
 ## 📌 Summary
-As a **Technical User Support Analyst** at Medtronic, I played a key role in deploying, maintaining, and troubleshooting end-point systems for the remote sales team. My work involved resolving complex hardware and software issues, optimizing IT processes, and ensuring seamless operations through collaboration with local and global IT teams.
+As a **Technical User Support Analyst** at Medtronic, I helped manage, troubleshoot, and maintain endpoint systems for the remote sales team. 
+
+My role involved resolving complex hardware and software issues, improving IT processes, and working with both local and global IT teams to keep operations running smoothly.
+
+---
 
 ## 📂 Role Overview
-- **💼 Company:** Medtronic  
-- **📆 Duration:** April 2018 – February 2019  
-- **🏢 Employment Type:** Full-time  
-- **📍 Location:** Memphis, TN  
+
+- **💼 Company:** Medtronic
+    
+- **📆 Duration:** April 2018 – February 2019
+    
+- **🏢 Employment Type:** Full-time
+    
+- **📍 Location:** Memphis, TN
+    
+
+---
 
 ## 🎯 Key Responsibilities
-- **Customer Support & Troubleshooting** – Provided end-user support for computing hardware, software, and account administration.  
-- **Collaboration with IT Teams** – Partnered with local and global IT teams to support overlapping technologies and resolve technical issues.  
-- **Service Management & Issue Resolution** – Managed break-fix and service requests through ServiceNow, ensuring timely and efficient resolutions.  
-- **Process Improvements** – Identified inefficiencies and led process improvement initiatives to enhance IT support operations.  
-- **Training & Support** – Delivered hands-on technical training and support for field sales systems, equipping the sales team with the necessary tools and knowledge to stay productive.  
+
+- **Customer Support & Troubleshooting** – Provided support for hardware, software, and account issues, ensuring users had the tools they needed to stay productive.
+    
+- **Collaboration with IT Teams** – Worked closely with local and global IT teams to address technical challenges and support overlapping systems.
+    
+- **Service Management & Issue Resolution** – Used ServiceNow to track and resolve service requests, ensuring quick resolutions for critical issues.
+    
+- **Process Improvements** – Identified areas where IT processes could be more efficient and led projects to improve operations.
+    
+- **Training & Support** – Provided hands-on technical training for the sales team, helping them get the most out of their field sales systems.
+    
+
+---
 
 ## 🚀 Achievements & Impact
-- ✅ **Optimized IT Deployment with Automation** – Developed a **menu-driven PowerShell automation script** that replicated internal legacy tools, reducing deployment time by **20 minutes per machine**, improving efficiency in system setup and updates.  
-- ✅ **Enhanced Service & Issue Resolution** – Acted as a **liaison between end-users and national IT teams**, facilitating effective troubleshooting and improving response times for critical technical issues.  
-- ✅ **Strengthened Operational Efficiency** – Implemented automation to reduce manual interventions, increasing system uptime and allowing the sales team to focus on core business operations.  
+
+- ✅ **Automated IT Deployment** – Developed a PowerShell automation script that sped up system setup and updates by 20 minutes per machine, improving deployment efficiency.
+    
+- ✅ **Improved Service & Issue Resolution** – Served as the liaison between end-users and IT teams, which improved troubleshooting and response times for technical issues.
+    
+- ✅ **Increased Operational Efficiency** – Introduced automation tools that reduced manual tasks, improving system uptime and allowing the sales team to focus on business tasks.
 
 ## 🛠💻 Skills and Tools
 ### 🛠 **Skills**
@@ -47,17 +69,17 @@ As a **Technical User Support Analyst** at Medtronic, I played a key role in dep
 
 ### 💻 **Software & Tools**
 - **IT & Helpdesk:**
-	- [[Anti-Virus]]
+	- [[Security and Antivirus Tools]]
 	- [[Microsoft Deployment Toolkit (MDT) and Windows Deployment Services (WDS)]]
 	- [[Ticketing Systems]] (ServiceNow)
 	- [[Windows OS]]
 	- [[VPNs]]
 
 - **Offered Support For:**
-	- [[Office Suite Software]]
+	- [[Microsoft Office Suite and Office 365]]
 	- Proprietary medical software
 
-- **[[Scripting Languages]] & Automation
+- **[[Scripting Languages]] & Automation**
 	- PowerShell  
 
 ## 📜 Applicable Certifications

@@ -13,7 +13,7 @@ My homelab is where I experiment, learn, and push the boundaries of technology. 
 - **Docker & Containerization:** I’m constantly experimenting with Docker to streamline application deployment and testing different container setups.
     
 - **Scripting & PowerShell:** Automating tasks with scripts is my jam - whether it’s for file mirroring, maintenance or more complex workflows.
-    
+     ^9c375a
 - **Security & Surveillance:** Integrating security systems and surveillance solutions in my setup gives me hands-on experience with modern security technologies for peace of mind.
     
 - **Virtualization & Storage Management:** With Hyper-V and other virtualization tools, I build and manage virtual servers and storage solutions, learning as I optimize each environment.

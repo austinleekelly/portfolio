@@ -2,7 +2,7 @@
 _date created: Tuesday, April 8th 2025, 3:26:21 pm
 _date modified: Tuesday, April 8th 2025, 5:45:20 pm
 Issue Date: 2020-04-15
-tags: [Cert-Marketing, Cert-Social-Media]
+tags: [Marketing, Social-Media]
 ---
 ## 📌 Summary
 

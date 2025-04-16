@@ -5,7 +5,7 @@ Certification ID: "583736"
 Institution:
   - SMstudy
 Issue Date: 2017-11-01
-tags: [Cert-Marketing]
+tags: [Marketing]
 ---
 ## 📌 Summary
 

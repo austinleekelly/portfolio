@@ -4,42 +4,58 @@ _date modified: Friday, March 28th 2025, 5:54:31 pm
 tags: [Full-Time, Government, IT]
 ---
 ## 📌 Summary
-As an IT Support Specialist for the City of Fort Smith, I provided enterprise-level technical support to over 1,000 city employees across 1,200+ devices. I played a key role in improving IT operations by implementing automated deployment solutions, leading large-scale IT projects, and optimizing support processes to reduce downtime and improve overall efficiency.
+
+As an IT Support Specialist for the City of Fort Smith, I supported over 1,000 employees and managed more than 1,200 devices across departments. 
+
+I improved system reliability, sped up deployments, and reduced downtime by using tools like PDQ Deploy, MDT, and WDS. 
+
+I also led IT projects, managed vendor contracts, and helped standardize support processes to improve efficiency.
+
+---
+
 ## 📂 Role Overview
 
-- **💼 Company:** City of Fort Smith    
-- **📆 Duration:** January 2011 – April 2018    
-- **🏢 Employment Type:** Full-time    
-- **📍 Location:** Fort Smith, Arkansas    
+- **💼 Company:** City of Fort Smith
+    
+- **📆 Duration:** January 2011 – April 2018
+    
+- **🏢 Employment Type:** Full-time
+    
+- **📍 Location:** Fort Smith, Arkansas
+    
+
+---
+
 ## 🎯 Key Responsibilities
 
-- **Enterprise IT Support & Troubleshooting** – _Provided verbal and written technical support for 1,000+ employees across city departments, resolving 500+ IT incidents annually, including hardware, software, and network issues._
+- **Technical Support & Troubleshooting** – Delivered IT support for over 1,000 city employees. Resolved more than 500 support requests each year, including issues with hardware, software, and network systems.
     
-- **Automated Deployment & Imaging Solutions** – _Led the implementation of PDQ Deploy and Microsoft Deployment Toolkit (MDT), streamlining OS imaging and software installations to expedite workstation deployments across the organization._
+- **System Deployment & Automation** – Used PDQ Deploy and Microsoft Deployment Toolkit (MDT) to automate software installs and operating system imaging, reducing setup time for new computers.
     
-- **Disaster Recovery & System Restoration** – _Developed Windows Deployment Services (WDS) workflows that reduced system recovery time from over 4 hours to 30 minutes per incident, significantly minimizing downtime during disaster recovery._
+- **Disaster Recovery Planning** – Built custom Windows Deployment Services (WDS) workflows to restore systems quickly. Reduced recovery time from over 4 hours to just 30 minutes.
     
-- **Project Coordination & Vendor Management** – _Coordinated IT projects involving internal staff, city employees, and over 30 vendors, ensuring the successful completion of initiatives while negotiating contracts for hardware, software, and services._
+- **Project & Vendor Coordination** – Led IT projects and worked with over 30 hardware and software vendors. Negotiated contracts and made sure projects were delivered on time and within budget.
     
-- **Process Automation & Documentation** – _Standardized IT support processes, which improved the efficiency of repetitive tasks and reduced administrative time spent on troubleshooting and support documentation._
+- **Process Improvement & Documentation** – Created step-by-step guides and automated scripts to reduce repetitive tasks. This helped the IT team work faster and lowered support request resolution times.
     
-- **Hardware & Network Infrastructure Support** – _Supported the setup, maintenance, and troubleshooting of city-wide IT infrastructure, including desktops, laptops, printers, and networked systems._
+- **Infrastructure Maintenance** – Set up, maintained, and fixed desktops, laptops, printers, and network devices used across city departments.
     
-- **Security & Compliance** – _Ensured compliance with IT security policies, contributed to system updates, patch management, and assisted with endpoint protection strategies._
+- **Security & Compliance** – Helped enforce IT security policies. Managed system updates, applied patches, and supported endpoint protection tools.
     
+
+---
 
 ## 🚀 Achievements & Impact
 
-- ✅ **Reduced disaster recovery time** from over 4 hours to 30 minutes per incident by optimizing WDS workflows, minimizing downtime during IT emergencies.
+- ✅ Cut recovery time during system outages by 85% using automated WDS workflows.
     
-- ✅ **Streamlined deployment processes** by leading the implementation of PDQ Deploy and MDT, significantly improving deployment speed and accuracy.
+- ✅ Improved computer deployment speed and accuracy with PDQ Deploy and MDT.
     
-- ✅ **Improved IT response time and service efficiency** by implementing standardized troubleshooting workflows, resulting in quicker service ticket resolutions.
+- ✅ Reduced average ticket resolution time by streamlining support workflows.
     
-- ✅ **Successfully negotiated vendor contracts** with 30+ service providers, optimizing procurement processes for hardware, software, and services, and achieving more cost-effective agreements.
+- ✅ Managed 30+ vendor relationships and saved costs through better contract negotiation.
     
-- ✅ **Created and maintained IT documentation** that improved onboarding for new IT staff and enhanced the user experience for end-users.
-    
+- ✅ Wrote and maintained IT documentation to support training and reduce knowledge gaps.
 
 ## 🛠💻 Skills and Tools
 
@@ -68,7 +84,7 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 
 - **IT & Helpdesk:** 
 	- [[Active Directory]]
-	- [[Anti-Virus]]
+	- [[Security and Antivirus Tools]]
 	- [[Microsoft Deployment Toolkit (MDT) and Windows Deployment Services (WDS)]]
 	- [[Screenshare and Documentation]]
 	- [[Software Management]] (PDQ Deploy)
@@ -79,7 +95,7 @@ As an IT Support Specialist for the City of Fort Smith, I provided enterprise-le
 
 - **Offered Support For:** 
 	* [[Adobe Creative Suite]]
-	- [[Office Suite Software]]
+	- [[Microsoft Office Suite and Office 365]]
 	- Miscellaneous local government/municipal proprietary software
     
 - **[[Scripting Languages]] & Automation:** 

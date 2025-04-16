@@ -5,7 +5,7 @@ Institution: Department of Homeland Security
 Issue Date: 2017-12-27
 NICE Framework Domains:
   - Design and Development
-tags: [Cert-Agile, Cert-Cybersecurity, Cert-IT]
+tags: [Agile, Cybersecurity, IT]
 ---
 ## 📌 Summary
 

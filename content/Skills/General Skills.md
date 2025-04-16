@@ -1,10 +1,11 @@
 ---
 _date created: Thursday, April 10th 2025, 2:04:52 pm
 _date modified: Thursday, April 10th 2025, 2:05:20 pm
+title: 💼 General Skills
 ---
-## Adaptability and Learning
 
-^6f9c14
+
+## Adaptability and Learning
 
 > Quickly adjusting to new environments, tools, and methodologies to stay ahead of industry changes and enhance productivity.
 

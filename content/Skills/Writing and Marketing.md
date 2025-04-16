@@ -1,13 +1,15 @@
 ---
 _date created: Thursday, April 10th 2025, 12:42:19 pm
 _date modified: Thursday, April 10th 2025, 12:42:25 pm
-title: 🎯 Writing and Marketing
+title: ✍ Writing and Marketing
 ---
-I craft content that delivers results, combining strategic thinking with technical expertise. With proven experience in **B2B messaging**, **SEO**, **technical writing**, and **email marketing**.
+I create high-impact content that blends strategic thinking with technical execution - supporting both user needs and business goals. 
 
-I transform complex ideas into clear, engaging content that drives business growth and enhances user experiences.
+My experience spans **B2B messaging**, **SEO**, **technical writing**, and **email marketing**, with a strong focus on clarity, user experience, and performance metrics.
 
-> [!info] **What You'll Find Here:** Content strategy, copywriting, SEO optimization, technical documentation, and email automation—all focused on delivering measurable outcomes.
+> [!info] **What You'll Find Here:**  
+> Core writing and marketing competencies across strategy, copy, SEO, documentation, and email—demonstrating an ability to drive engagement, leads, and revenue.
+
 ## Content Strategy and Planning
 > Developing a holistic approach to content, aligning strategy with business goals and audience needs.
 
@@ -38,10 +40,14 @@ I transform complex ideas into clear, engaging content that drives business grow
 ### SaaS Onboarding and UX Copywriting
 > Creating clear, user-friendly copy that simplifies the onboarding process and enhances the user experience.
 
+💼 **Relevant Work:** [[tags/ux|Tag: UX]]
+
 ---
 
 ### Landing Page Copywriting
 > Writing persuasive, conversion-optimized landing pages that drive action and lead generation.
+> 
+> 💼**Relevant Work:** [[]]
 
 ---
 
@@ -72,6 +78,8 @@ I transform complex ideas into clear, engaging content that drives business grow
 
 ## Technical Writing
 > Writing user guides, manuals, and other technical documentation that simplify complex concepts for end-users.
+> 
+> **Sample Document:** [[Whisper GUI - A User-Friendly Tool for Fast Transcriptions]]
 
 ---
 

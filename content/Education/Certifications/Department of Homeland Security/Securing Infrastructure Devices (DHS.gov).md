@@ -6,7 +6,7 @@ Issue Date: 2017-12-29
 NICE Framework Domains:
   - Implementation and Operations
   - Protection and Defense
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

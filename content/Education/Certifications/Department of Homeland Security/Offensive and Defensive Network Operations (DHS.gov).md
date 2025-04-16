@@ -6,7 +6,7 @@ Issue Date: 2017-12-28
 NICE Framework Domains:
   - Cyberspace Effects
   - Protection and Defense
-tags: [Cert-Cybersecurity, Cert-IT]
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 
