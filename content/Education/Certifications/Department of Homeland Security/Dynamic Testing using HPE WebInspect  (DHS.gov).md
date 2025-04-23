@@ -1,11 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:38:13 pm
+created: Friday, April 4th 2025, 4:36:04 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ### 📌 Summary
 

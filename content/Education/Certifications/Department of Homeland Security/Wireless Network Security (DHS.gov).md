@@ -1,11 +1,13 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Friday, April 4th 2025, 4:15:57 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-04
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,15 +26,15 @@ _This course provides an overview of Wi-Fi networking technologies, focusing on 
 
 ## 🎯 Key Learning Outcomes
 
-- **Wi-Fi vs. Other Wireless Technologies** – _Understand the difference between Wi-Fi and other wireless communication technologies._
+- **Wi-Fi vs. Other Wireless Technologies** - _Understand the difference between Wi-Fi and other wireless communication technologies._
     
-- **802.11 Protocols** – _Identify the major protocols in the 802.11 family and their roles in network security._
+- **802.11 Protocols** - _Identify the major protocols in the 802.11 family and their roles in network security._
     
-- **RF Properties & Wi-Fi Design** – _Learn how radio frequency (RF) properties affect Wi-Fi network operation and design._
+- **RF Properties and Wi-Fi Design** - _Learn how radio frequency (RF) properties affect Wi-Fi network operation and design._
     
-- **Enterprise Wi-Fi Networks & CAPWAP** – _Understand the operation of enterprise Wi-Fi networks and the evolution of the Control and Provisioning of Wireless Access Points (CAPWAP) protocol._
+- **Enterprise Wi-Fi Networks and CAPWAP** - _Understand the operation of enterprise Wi-Fi networks and the evolution of the Control and Provisioning of Wireless Access Points (CAPWAP) protocol._
     
-- **Wi-Fi Security & Monitoring** – _Learn about Wi-Fi security methods and how to develop a Wi-Fi security monitoring plan._
+- **Wi-Fi Security and Monitoring** - _Learn about Wi-Fi security methods and how to develop a Wi-Fi security monitoring plan._
     
 
 ## 🚀 Skills Acquired
@@ -44,11 +46,11 @@ _This course provides an overview of Wi-Fi networking technologies, focusing on 
 - **Soft Skills:** Network services, technical support, systems administration
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Wi-Fi Security Protocols** – _Learn to implement Wi-Fi security and develop monitoring plans._
+- **Wi-Fi Security Protocols** - _Learn to implement Wi-Fi security and develop monitoring plans._
     
-- **Enterprise Wi-Fi Systems** – _Understand and manage enterprise Wi-Fi networks and protocols like CAPWAP._
+- **Enterprise Wi-Fi Systems** - _Understand and manage enterprise Wi-Fi networks and protocols like CAPWAP._
     
 ### 🗺 **NICE Framework Domains**
 

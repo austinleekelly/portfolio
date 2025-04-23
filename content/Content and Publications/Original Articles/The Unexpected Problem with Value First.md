@@ -1,7 +1,9 @@
 ---
-_date created: Wednesday, April 9th 2025, 2:59:25 pm
-_date modified: Wednesday, April 9th 2025, 3:21:26 pm
-tags: [Original, Writing]
+created: Wednesday, April 9th 2025, 2:59:25 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Original
+  - Writing
 ---
 
 In business today, one of the most significant barriers to success isn’t the lack of good ideas or solutions, but the lack of trust. 

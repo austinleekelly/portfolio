@@ -1,10 +1,11 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Saturday, April 5th 2025, 3:04:11 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Master Class Management
 Issue Date: 2017-10-03
-tags: [Cert-Management]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Cert-Management
 ---
 ## 📌 Summary
 
@@ -23,11 +24,11 @@ The **Master Certificate in Business Management** is a comprehensive program off
 
 ## 🎯 Key Learning Outcomes
 
-- **Leadership & Organizational Management** – _Develop skills to lead teams and manage organizational structures effectively._
+- **Leadership and Organizational Management** - _Develop skills to lead teams and manage organizational structures effectively._
     
-- **Team Dynamics & Conflict Resolution** – _Understand team management principles and strategies for resolving conflicts within the workplace._
+- **Team Dynamics and Conflict Resolution** - _Understand team management principles and strategies for resolving conflicts within the workplace._
     
-- **Financial & Operations Management** – _Gain insights into financial oversight and operational strategies to enhance business efficiency._
+- **Financial and Operations Management** - _Gain insights into financial oversight and operational strategies to enhance business efficiency._
     
 
 ## 🚀 Skills Acquired
@@ -53,11 +54,11 @@ The **Master Certificate in Business Management** is a comprehensive program off
     - Foster adaptability to navigate the dynamic business environment.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Management Software** – _Familiarity with tools used for project and team management._
+- **Management Software** - _Familiarity with tools used for project and team management._
     
-- **Financial Analysis Tools** – _Understanding of software utilized for budgeting and financial forecasting._
+- **Financial Analysis Tools** - _Understanding of software utilized for budgeting and financial forecasting._
     
 
 ## 📜 Certification Details

@@ -1,11 +1,13 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Monday, April 14th 2025, 6:09:36 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Global Knowledge
   - Microsoft
 Issue Date: 2016-08-26
-tags: [IT, Windows]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - IT
+  - Windows
 ---
 ## 📌 Summary
 
@@ -28,13 +30,13 @@ The **Managing Windows Environments with Group Policy (M50255)** course provides
 
 ## 🎯 Key Learning Outcomes
 
-- **GPO Architecture & Management** – _Design and manage a scalable Group Policy infrastructure using Windows tools and PowerShell._
+- **GPO Architecture and Management** - _Design and manage a scalable Group Policy infrastructure using Windows tools and PowerShell._
      ^5cfefd
-- **Security & Compliance** – _Use GPOs to implement security policies, auditing, and application control via AppLocker._
+- **Security and Compliance** - _Use GPOs to implement security policies, auditing, and application control via AppLocker._
     
-- **User & Computer Environment Configuration** – _Customize desktop settings, redirect folders, and configure preferences._
+- **User and Computer Environment Configuration** - _Customize desktop settings, redirect folders, and configure preferences._
     
-- **Software Deployment** – _Assign and publish software packages across the network using GPOs._
+- **Software Deployment** - _Assign and publish software packages across the network using GPOs._
     
 
 ## 🚀 Skills Acquired
@@ -62,15 +64,15 @@ The **Managing Windows Environments with Group Policy (M50255)** course provides
     - Troubleshoot user and system issues related to policy enforcement.
         
 
-#### 💻 **Tools & Technologies**
+#### 💻 **Tools and Technologies**
 
-- **Group Policy Management Console (GPMC)** – _Used for managing GPOs across AD environments._
+- **Group Policy Management Console (GPMC)** - _Used for managing GPOs across AD environments._
     
-- **Windows PowerShell & DSC** – _Scripting and automation tools for managing Group Policy._
+- **Windows PowerShell and DSC** - _Scripting and automation tools for managing Group Policy._
      ^ab4680
-- **Security Compliance Manager** – _Used to apply Microsoft security baselines._
+- **Security Compliance Manager** - _Used to apply Microsoft security baselines._
     
-- **AppLocker & Windows Defender** – _Application and endpoint security via policy._
+- **AppLocker and Windows Defender** - _Application and endpoint security via policy._
     
 
 ## 📜 Certification Details

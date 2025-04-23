@@ -1,11 +1,12 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Saturday, April 5th 2025, 3:31:12 pm
 Certification ID: "583736"
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - SMstudy
 Issue Date: 2017-11-01
-tags: [Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -24,20 +25,20 @@ The **Certified Digital Marketing Associate** course by SMstudy provides a found
 
 ## 🎯 Key Learning Outcomes
 
-- **Understanding Digital Marketing Channels** – Gain insights into various digital marketing channels and their applications.​
+- **Understanding Digital Marketing Channels** - Gain insights into various digital marketing channels and their applications.​
     
-- **Digital Marketing Framework** – Learn the foundational framework that aids in selecting effective marketing channels.
+- **Digital Marketing Framework** - Learn the foundational framework that aids in selecting effective marketing channels.
     
-- **Key Digital Marketing Concepts** – Familiarize with essential concepts and terminologies in digital marketing.​
+- **Key Digital Marketing Concepts** - Familiarize with essential concepts and terminologies in digital marketing.​
     
 
 ## 📘 Curriculum Overview
 
-- **Introduction to Digital Marketing** – Overview of digital marketing and its significance.​
+- **Introduction to Digital Marketing** - Overview of digital marketing and its significance.​
     
-- **Digital Marketing Channels** – Detailed study of channels such as email marketing, web analytics, search marketing, and social media.
+- **Digital Marketing Channels** - Detailed study of channels such as email marketing, web analytics, search marketing, and social media.
     
-- **Digital Marketing Framework** – Understanding the structure and strategy behind effective digital marketing.​
+- **Digital Marketing Framework** - Understanding the structure and strategy behind effective digital marketing.​
     
 
 ## 🚀 Skills Acquired
@@ -57,13 +58,13 @@ The **Certified Digital Marketing Associate** course by SMstudy provides a found
     - Strategic planning for selecting appropriate marketing channels.​
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Email Marketing Tools** – Introduction to platforms used for email campaigns.​
+- **Email Marketing Tools** - Introduction to platforms used for email campaigns.​
     
-- **Web Analytics Tools** – Basic understanding of tools for analyzing website traffic and user behavior.​
+- **Web Analytics Tools** - Basic understanding of tools for analyzing website traffic and user behavior.​
     
-- **Social Media Platforms** – Familiarity with major social media channels and their marketing potential.​
+- **Social Media Platforms** - Familiarity with major social media channels and their marketing potential.​
     
 
 ## 📜 Certification Details

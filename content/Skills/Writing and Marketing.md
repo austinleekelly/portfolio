@@ -1,6 +1,6 @@
 ---
-_date created: Thursday, April 10th 2025, 12:42:19 pm
-_date modified: Thursday, April 10th 2025, 12:42:25 pm
+created: Thursday, April 10th 2025, 12:42:19 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: ✍ Writing and Marketing
 ---
 I create high-impact content that blends strategic thinking with technical execution - supporting both user needs and business goals. 
@@ -12,6 +12,8 @@ My experience spans **B2B messaging**, **SEO**, **technical writing**, and **ema
 
 ## Content Strategy and Planning
 > Developing a holistic approach to content, aligning strategy with business goals and audience needs.
+
+
 
 ---
 
@@ -79,7 +81,7 @@ My experience spans **B2B messaging**, **SEO**, **technical writing**, and **ema
 ## Technical Writing
 > Writing user guides, manuals, and other technical documentation that simplify complex concepts for end-users.
 > 
-> **Sample Document:** [[Whisper GUI - A User-Friendly Tool for Fast Transcriptions]]
+> **Sample Document:** [[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions]]
 
 ---
 

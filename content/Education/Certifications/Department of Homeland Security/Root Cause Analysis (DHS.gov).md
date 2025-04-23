@@ -1,11 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 6:12:47 pm
+created: Friday, April 4th 2025, 6:10:12 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-09
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,13 +26,13 @@ _The Root Cause Analysis course provides an in-depth look at how to conduct root
 
 ## 🎯 Key Learning Outcomes
 
-- **Root Cause Analysis Techniques** – _Learn the different approaches, methods, and techniques available for conducting root cause analysis of cyber security incidents._
+- **Root Cause Analysis Techniques** - _Learn the different approaches, methods, and techniques available for conducting root cause analysis of cyber security incidents._
     
-- **Incident Management Benefit** – _Understand how root cause analysis supports other processes in the overall incident management lifecycle (response, prevention, and detection)._
+- **Incident Management Benefit** - _Understand how root cause analysis supports other processes in the overall incident management lifecycle (response, prevention, and detection)._
     
-- **Root Cause Analysis Execution** – _Recognize when, why, and how to perform root cause analysis effectively._
+- **Root Cause Analysis Execution** - _Recognize when, why, and how to perform root cause analysis effectively._
     
-- **Industry Analysis Diagrams & Taxonomies** – _Differentiate between the various industry-standard analysis diagrams and taxonomies presented in the course._
+- **Industry Analysis Diagrams and Taxonomies** - _Differentiate between the various industry-standard analysis diagrams and taxonomies presented in the course._
     
 
 ## 🚀 Skills Acquired
@@ -42,9 +44,9 @@ _The Root Cause Analysis course provides an in-depth look at how to conduct root
 - **Soft Skills:** Problem-solving, analytical thinking, decision-making
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Root Cause Analysis Models** – _Familiarity with various models and techniques for analyzing cyber security incidents._
+- **Root Cause Analysis Models** - _Familiarity with various models and techniques for analyzing cyber security incidents._
     
 
 ### 🗺 **NICE Framework Domains**

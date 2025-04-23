@@ -1,10 +1,10 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:51:27 pm
-_date modified: Tuesday, April 8th 2025, 7:07:15 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 tags: []
 title: 🧠 Reading and Learning
 ---
-## Reading & Learning: Leveling Up Your Mindset
+## Reading and Learning: Leveling Up Your Mindset
 
 I’ve always been passionate about reading and learning. To me, it’s like leveling up your mindset - gaining new perspectives, absorbing valuable lessons, and improving your approach to life. 
 
@@ -32,7 +32,7 @@ Understanding how they view life and the principles that drive them helps me see
 
 ### Favorite Books
 
-#### **Self-Improvement & Mindset:**
+#### **Self-Improvement and Mindset:**
 
 - **The Magic of Thinking Big**  
     A classic on setting ambitious goals and thinking with a growth mindset.
@@ -47,7 +47,7 @@ Understanding how they view life and the principles that drive them helps me see
     A strategic approach to thinking ahead in both business and life.
     
 
-#### **Business & Marketing:**
+#### **Business and Marketing:**
 
 - **$100 Startup**  
     Insights on how to start small businesses with little capital and maximize returns.
@@ -67,13 +67,13 @@ Understanding how they view life and the principles that drive them helps me see
 - **How to Win Friends and Influence People**  
     Timeless advice on building strong, meaningful relationships.
     
-- **Cashvertising & Scientific Advertising**  
+- **Cashvertising and Scientific Advertising**  
     Two powerful books on the psychology behind advertising and selling.
     
 - **Adweek Copywriting Handbook**  
     A deep dive into the art of persuasive copywriting.
     
-- **Wizard of Ads & Boron Letters**  
+- **Wizard of Ads and Boron Letters**  
     Classic marketing insights and advertising strategies.
     
 - **Ogilvy on Advertising**  
@@ -92,7 +92,7 @@ Understanding how they view life and the principles that drive them helps me see
     Strategies for overcoming procrastination and focusing on your most important tasks.
     
 
-#### **Philosophy & Psychology:**
+#### **Philosophy and Psychology:**
 
 - **Nietzsche**  
     Exploring his profound ideas on personal strength, power, and individuality.

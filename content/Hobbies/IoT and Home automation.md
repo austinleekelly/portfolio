@@ -1,10 +1,11 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:51:27 pm
-_date modified: Tuesday, April 8th 2025, 7:07:23 pm
-tags: [IT]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - IT
 title: 🤖 IoT and Home automation
 ---
-## IoT & Home Automation: Smarter Living Made Simple
+## IoT and Home Automation: Smarter Living Made Simple
 
 I love exploring IoT and making my home smarter through automation. I use tools like HomeAssistant to connect and control various devices. Here's what I'm into:
 
@@ -12,7 +13,7 @@ I love exploring IoT and making my home smarter through automation. I use tools 
 
 - **HomeAssistant:** My main hub for automating everything in my home.
     
-- **Zigbee Devices & Hubs:** I experiment with sensors, lights, and other devices that use Zigbee.
+- **Zigbee Devices and Hubs:** I experiment with sensors, lights, and other devices that use Zigbee.
     
 - **Customized Automation:** Setting up simple or complex routines to make my home work the way I like.
     

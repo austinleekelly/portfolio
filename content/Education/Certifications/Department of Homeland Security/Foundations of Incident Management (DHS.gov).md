@@ -1,11 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:11:26 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-09
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,11 +26,11 @@ _The Foundations of Incident Management course introduces key concepts of incide
 
 ## 🎯 Key Learning Outcomes
 
-- **Incident Management Fundamentals** – _Understand the role of incident management and how it fits within the broader security ecosystem._
+- **Incident Management Fundamentals** - _Understand the role of incident management and how it fits within the broader security ecosystem._
     
-- **Incident Handling Lifecycle** – _Learn the steps involved in incident handling from preparation to response._
+- **Incident Handling Lifecycle** - _Learn the steps involved in incident handling from preparation to response._
     
-- **Triage vs. Analysis** – _Distinguish between incident triage and analysis for effective incident resolution._
+- **Triage vs. Analysis** - _Distinguish between incident triage and analysis for effective incident resolution._
     
 
 ## 🚀 Skills Acquired
@@ -40,9 +42,9 @@ _The Foundations of Incident Management course introduces key concepts of incide
 - **Soft Skills:** Preparedness, organizational coordination for incident management
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Incident Management Tools** – _Tools to assist with the identification, tracking, and response to security incidents._
+- **Incident Management Tools** - _Tools to assist with the identification, tracking, and response to security incidents._
     
 ### 🗺 **NICE Framework Domains**
 

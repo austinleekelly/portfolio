@@ -1,10 +1,16 @@
 ---
-_date created: Tuesday, April 15th 2025, 1:35:18 pm
-_date modified: Tuesday, April 15th 2025, 6:44:02 pm
-tags: [Copywriting, Ecommerce, Marketing, SaaS, Testimonial, UX]
+created: Tuesday, April 15th 2025, 1:35:18 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Copywriting
+  - Ecommerce
+  - Marketing
+  - SaaS
+  - Testimonial
+  - UX
 ---
 # 🛍️ Who Spends What  
-**Ecommerce Market Analytics SaaS for Shopify Agencies & Developers**  
+**Ecommerce Market Analytics SaaS for Shopify Agencies and Developers**  
 *Solo project | Market validation, UX design, backend prototyping*
 
 ---
@@ -33,7 +39,7 @@ Freelancers, agencies, and app founders waste countless hours targeting Shopify 
 
 ---
 
-## 🔥 Validation & Traction
+## 🔥 Validation and Traction
 Even pre-launch, I had:
 - 💰 **Two agencies** willing to pay **$500/month** for early access
 - 🤝 One **investor** offering funding in exchange for equity
@@ -51,19 +57,19 @@ Although the feedback was strong, I made the decision to pause:
 
 ## 💬 Customer Quotes from the Landing Page
 > “WhoSpendsWhat shows me what stores are using my competitor’s apps. As a Shopify software founder…this fits my needs exactly..”  
-> *– [[Long Form Content and Technical Writer for Shoptimized|Bradley Long, Shoptimized Founder]]* 
+> *- [[Long Form Content and Technical Writer for Shoptimized|Bradley Long, Shoptimized Founder]]* 
 
-> “This is an invaluable tool. Instead of casting a big net, this lets me spearfish for prospects – drastically decreasing my time spent prospecting.”  
-> *– [[Cold Email Campaign for ZenOKR|Sud Parasar, Founder of ZenOKR]]
+> “This is an invaluable tool. Instead of casting a big net, this lets me spearfish for prospects - drastically decreasing my time spent prospecting.”  
+> *- [[Cold Email Campaign for ZenOKR|Sud Parasar, Founder of ZenOKR]]
 
 ---
 
 ## 🧠 Skills Demonstrated
-- Product research & market positioning  
-- UX writing & landing page copy  
+- Product research and market positioning  
+- UX writing and landing page copy  
 - Figma UI prototyping  
 - Early backend scripting with Python  
-- Customer validation & outbound messaging  
+- Customer validation and outbound messaging  
 - Founder-style problem solving and initiative  
 
 ---

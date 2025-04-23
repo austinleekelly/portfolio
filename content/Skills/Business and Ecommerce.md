@@ -1,7 +1,6 @@
 ---
-_date created: Friday, March 28th 2025, 10:13:05 am
-_date modified: Saturday, April 12th 2025, 4:56:14 pm
-Client Contact: 
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: 🛒 Business and Ecommerce
 ---
 I leverage strategic thinking, data analysis, and operational efficiency to drive business growth, optimize e-commerce platforms, and support complex transactions. My experience spans **business brokering**, **ecommerce optimization**, **project management**, and more.

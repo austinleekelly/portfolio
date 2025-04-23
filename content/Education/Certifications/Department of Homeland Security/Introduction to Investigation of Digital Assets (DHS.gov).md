@@ -1,12 +1,14 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:12:24 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Cyberspace Effects
   - Investigation
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -25,11 +27,11 @@ _The Introduction to Investigation of Digital Assets course provides an overview
 
 ## 🎯 Key Learning Outcomes
 
-- **Digital Investigation Process** – _Gain a foundational understanding of the digital investigation process._
+- **Digital Investigation Process** - _Gain a foundational understanding of the digital investigation process._
     
-- **Tools & Criteria** – _Learn the tools and criteria used for digital investigations and how to select the appropriate ones._
+- **Tools and Criteria** - _Learn the tools and criteria used for digital investigations and how to select the appropriate ones._
     
-- **Policies & Procedures** – _Understand the policies and procedures involved in digital investigations and how to document them._
+- **Policies and Procedures** - _Understand the policies and procedures involved in digital investigations and how to document them._
     
 
 ## 🚀 Skills Acquired
@@ -41,9 +43,9 @@ _The Introduction to Investigation of Digital Assets course provides an overview
 - **Soft Skills:** Writing investigative procedures and reports
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Digital Investigation Tools** – _Tools for digital media analysis, collection, and forensic analysis._
+- **Digital Investigation Tools** - _Tools for digital media analysis, collection, and forensic analysis._
     
 ### 🗺 **NICE Framework Domains**
 

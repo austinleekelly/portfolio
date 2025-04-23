@@ -1,12 +1,13 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Saturday, April 5th 2025, 3:42:20 pm
 Certification ID: m4rjz3x8eqyv
 Certification Link: https://verify.skilljar.com/c/m4rjz3x8eqyv
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Klaviyo
 Issue Date: 2022-05-20
-tags: [Email-Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Email-Marketing
 ---
 ## 📌 Summary
 
@@ -23,11 +24,11 @@ The **Klaviyo Partner Certification** is tailored for agencies, consultants, and
 
 ## 🎯 Key Learning Outcomes
 
-- **Partner Resources & Tools** – _Gain proficiency in utilizing partner-specific tools and resources to support client success._
+- **Partner Resources and Tools** - _Gain proficiency in utilizing partner-specific tools and resources to support client success._
     
-- **Client Positioning Strategies** – _Develop strategies to effectively position Klaviyo's solutions to prospects and clients._
+- **Client Positioning Strategies** - _Develop strategies to effectively position Klaviyo's solutions to prospects and clients._
     
-- **Skill Enhancement Techniques** – _Learn methods to upskill teams, ensuring the delivery of high-quality services using Klaviyo._
+- **Skill Enhancement Techniques** - _Learn methods to upskill teams, ensuring the delivery of high-quality services using Klaviyo._
     
 
 ## 🚀 Skills Acquired
@@ -51,13 +52,13 @@ The **Klaviyo Partner Certification** is tailored for agencies, consultants, and
     - Manage client relationships to foster trust and long-term partnerships.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Klaviyo Partner Portal** – _Centralized platform for accessing partner resources, training, and support._
+- **Klaviyo Partner Portal** - _Centralized platform for accessing partner resources, training, and support._
     
-- **Klaviyo Marketing Automation** – _Tools for creating and managing email and SMS marketing campaigns._
+- **Klaviyo Marketing Automation** - _Tools for creating and managing email and SMS marketing campaigns._
     
-- **Integration Platforms** – _Experience with integrating Klaviyo with e-commerce and other marketing platforms._
+- **Integration Platforms** - _Experience with integrating Klaviyo with e-commerce and other marketing platforms._
     
 
 ## 📜 Certification Details

@@ -1,6 +1,6 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:36:11 pm
-_date modified: Tuesday, April 15th 2025, 1:13:21 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:08:01 pm
 tags: [Email-Marketing, Freelance, Onboarding, SaaS, UX]
 ---
 ## 📌 Summary
@@ -27,7 +27,7 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
 - **Worked closely with product and CX teams** to align email timing with user behavior and app flow.
     
 
-## 🚀 Achievements & Impact
+## 🚀 Achievements and Impact
 
 - ✅ **Integrated email triggers** with platform actions:
     
@@ -39,7 +39,7 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
         
     - `Book Call` → “How to Prepare” email
         
-    - `Call Accepted` & `Complete Call` → Confirmation, Review Request
+    - `Call Accepted` and `Complete Call` → Confirmation, Review Request
         
     - `Book 2nd Call` → “Compound Value” email to build habit
         

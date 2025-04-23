@@ -1,10 +1,11 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Sunday, April 6th 2025, 5:10:56 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - FEMA
 Issue Date: 2017-10-22
-tags: [Cert-Management]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Cert-Management
 ---
 ## 📌 Summary
 
@@ -21,15 +22,15 @@ The **IS-240.B: Leadership and Influence** course, provided by the Federal Emerg
 
 ## 🎯 Key Learning Outcomes
 
-- **Leadership Fundamentals** – Understand the core principles of leadership and how they apply to emergency management. ​
+- **Leadership Fundamentals** - Understand the core principles of leadership and how they apply to emergency management. ​
     
-- **Self-Awareness** – Recognize the importance of self-knowledge and personal development in effective leadership. 
+- **Self-Awareness** - Recognize the importance of self-knowledge and personal development in effective leadership. 
     
-- **Change Management** – Learn strategies to facilitate and manage change within an organization.
+- **Change Management** - Learn strategies to facilitate and manage change within an organization.
     
-- **Trust Building** – Develop techniques for building and rebuilding trust among team members and stakeholders. ​
+- **Trust Building** - Develop techniques for building and rebuilding trust among team members and stakeholders. ​
     
-- **Personal Influence and Political Savvy** – Enhance skills in using personal influence and understanding organizational politics to achieve goals.
+- **Personal Influence and Political Savvy** - Enhance skills in using personal influence and understanding organizational politics to achieve goals.
 
 ## 🚀 Skills Acquired
 
@@ -52,11 +53,11 @@ The **IS-240.B: Leadership and Influence** course, provided by the Federal Emerg
     - Navigate organizational dynamics with political awareness and tact.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Leadership Assessment Tools** – Utilize self-assessment instruments to evaluate leadership behaviors and competencies.​
+- **Leadership Assessment Tools** - Utilize self-assessment instruments to evaluate leadership behaviors and competencies.​
     
-- **Change Management Frameworks** – Apply structured approaches to transitioning individuals, teams, and organizations to desired states.​
+- **Change Management Frameworks** - Apply structured approaches to transitioning individuals, teams, and organizations to desired states.​
     
 
 ## 📜 Certification Details

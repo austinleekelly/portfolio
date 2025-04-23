@@ -1,11 +1,14 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 3:59:08 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-27
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
-tags: [Agile, Cybersecurity, IT]
+tags:
+  - Agile
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,11 +27,11 @@ _This course is tailored for executives and managers who wish to deepen their un
 
 ## 🎯 Key Learning Outcomes
 
-- **Software Assurance Practices & Challenges** – _Learn about current practices and challenges in software assurance._
+- **Software Assurance Practices and Challenges** - _Learn about current practices and challenges in software assurance._
     
-- **Software Supply Chain Risk Management** – _Gain insights into managing risks within the software supply chain._
+- **Software Supply Chain Risk Management** - _Gain insights into managing risks within the software supply chain._
     
-- **Agile Methods & Software Trustworthiness** – _Understand agile methods and the importance of adopting software trustworthiness._
+- **Agile Methods and Software Trustworthiness** - _Understand agile methods and the importance of adopting software trustworthiness._
     
 
 ## 🚀 Skills Acquired
@@ -40,11 +43,11 @@ _This course is tailored for executives and managers who wish to deepen their un
 - **Soft Skills:** Strategic planning, executive-level decision-making
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Software Assurance Resources** – _Utilize resources to address software security challenges._
+- **Software Assurance Resources** - _Utilize resources to address software security challenges._
     
-- **Risk Management Frameworks** – _Apply frameworks for managing software supply chain risks._
+- **Risk Management Frameworks** - _Apply frameworks for managing software supply chain risks._
     
 ### 🗺 **NICE Framework Domains**
 

@@ -1,8 +1,10 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:43:49 pm
+created: Tuesday, April 8th 2025, 5:04:42 pm
 Issue Date: 2020-03-15
-tags: [Email-Marketing, Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Email-Marketing
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -53,7 +55,7 @@ The **Email Marketing Mastery** course, offered by DigitalMarketer, provides a c
     - Foster creativity in crafting engaging email content.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Email Marketing Platforms:** Gain proficiency in using platforms such as Mailchimp, Constant Contact, or similar for email campaigns.​
     

@@ -1,10 +1,14 @@
 ---
-_date created: Tuesday, April 15th 2025, 6:44:37 pm
-_date modified: Tuesday, April 15th 2025, 6:47:58 pm
-tags: [Copywriting, Long-Form-Content, Marketing, Sales-Copywriter]
+created: Tuesday, April 15th 2025, 6:44:37 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Copywriting
+  - Long-Form-Content
+  - Marketing
+  - Sales-Copywriter
 title: 🖋️ Niches and Industries I've Written About
 ---
-# 🖋️ Niches & Industries I've Written About
+# 🖋️ Niches and Industries I've Written About
 
 Over the years, I’ve written for a wide range of industries - from SaaS startups to niche eCommerce brands to personal development creators. Below is a categorized snapshot of the verticals I’ve worked in.
 
@@ -71,7 +75,7 @@ Created funnels and prospecting assets for:
 
 Helped individual creators and microbusinesses refine their message and build authority, including:
 
-- Business & life coaches
+- Business and life coaches
 - Content creators
 - Influencers and personal brands
 

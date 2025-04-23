@@ -1,8 +1,10 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:44:50 pm
+created: Tuesday, April 8th 2025, 4:53:04 pm
 Issue Date: 2020-03-15
-tags: [Copywriting, Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Copywriting
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -51,7 +53,7 @@ The **Copywriting Mastery** course, offered by DigitalMarketer, provides a compr
     - Foster creativity in developing unique and compelling copy.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Copywriting Frameworks:** Gain proficiency in using established frameworks and templates for crafting persuasive messages.​
     

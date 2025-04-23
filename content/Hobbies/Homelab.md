@@ -1,7 +1,8 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:50:08 pm
-_date modified: Wednesday, April 9th 2025, 11:10:11 am
-tags: [IT]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - IT
 title: 🏠 Homelab
 ---
 ## My Homelab Setup: A Playground for Automation and Virtualization
@@ -10,13 +11,13 @@ My homelab is where I experiment, learn, and push the boundaries of technology. 
 
 ### Key Interests
 
-- **Docker & Containerization:** I’m constantly experimenting with Docker to streamline application deployment and testing different container setups.
+- **Docker and Containerization:** I’m constantly experimenting with Docker to streamline application deployment and testing different container setups.
     
-- **Scripting & PowerShell:** Automating tasks with scripts is my jam - whether it’s for file mirroring, maintenance or more complex workflows.
+- **Scripting and PowerShell:** Automating tasks with scripts is my jam - whether it’s for file mirroring, maintenance or more complex workflows.
      ^9c375a
-- **Security & Surveillance:** Integrating security systems and surveillance solutions in my setup gives me hands-on experience with modern security technologies for peace of mind.
+- **Security and Surveillance:** Integrating security systems and surveillance solutions in my setup gives me hands-on experience with modern security technologies for peace of mind.
     
-- **Virtualization & Storage Management:** With Hyper-V and other virtualization tools, I build and manage virtual servers and storage solutions, learning as I optimize each environment.
+- **Virtualization and Storage Management:** With Hyper-V and other virtualization tools, I build and manage virtual servers and storage solutions, learning as I optimize each environment.
     
 - **General Automation:** Always on the lookout for new ways to automate processes, enhancing both reliability and performance across my home devices.
     

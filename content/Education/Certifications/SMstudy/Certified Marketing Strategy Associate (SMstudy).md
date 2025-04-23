@@ -1,11 +1,12 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Saturday, April 5th 2025, 3:31:21 pm
 Certification ID: "583736"
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - SMstudy
 Issue Date: 2017-11-01
-tags: [Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -24,11 +25,11 @@ The **Certified Marketing Strategy Associate** course by SMstudy offers a founda
 
 ## 🎯 Key Learning Outcomes
 
-- **Fundamentals of Marketing Strategy** – _Gain insights into the core principles and processes that define effective marketing strategies._
+- **Fundamentals of Marketing Strategy** - _Gain insights into the core principles and processes that define effective marketing strategies._
     
-- **Sales and Marketing Alignment** – _Understand how marketing strategies integrate with overall sales objectives to drive organizational success._
+- **Sales and Marketing Alignment** - _Understand how marketing strategies integrate with overall sales objectives to drive organizational success._
     
-- **Framework Application** – _Learn to apply standardized frameworks to manage and optimize marketing efforts across various channels._
+- **Framework Application** - _Learn to apply standardized frameworks to manage and optimize marketing efforts across various channels._
     
 
 ## 📘 Curriculum Overview
@@ -65,13 +66,13 @@ The curriculum encompasses:
     - Analytical skills for assessing marketing strategies
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **SMstudy® Guide** – _Utilized as the primary resource for understanding and applying marketing strategies._
+- **SMstudy® Guide** - _Utilized as the primary resource for understanding and applying marketing strategies._
     
-- **Case Studies** – _Engagement with real-world scenarios to contextualize theoretical knowledge._
+- **Case Studies** - _Engagement with real-world scenarios to contextualize theoretical knowledge._
     
-- **Online Learning Platforms** – _Access to video lectures, study guides, and chapter tests for comprehensive learning._
+- **Online Learning Platforms** - _Access to video lectures, study guides, and chapter tests for comprehensive learning._
     
 
 ## 📜 Certification Details

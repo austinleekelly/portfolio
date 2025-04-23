@@ -1,7 +1,10 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:40:22 pm
-_date modified: Wednesday, April 9th 2025, 12:13:26 pm
-tags: [Freelance, Sales-Copywriter, Social-Media]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Freelance
+  - Sales-Copywriter
+  - Social-Media
 ---
 ## 📌 Summary
 
@@ -20,33 +23,33 @@ As a freelance Social Media Copywriter, I created a series of engaging posts for
 
 ## 🎯 Key Responsibilities
 
-- **Social Media Copywriting** – Wrote multiple short-form captions and post copy tailored to Facebook and Instagram, designed to drive interest in corporate events and private bookings.
+- **Social Media Copywriting** - Wrote multiple short-form captions and post copy tailored to Facebook and Instagram, designed to drive interest in corporate events and private bookings.
     
-- **Brand Tone Alignment** – Maintained a voice that blended playful, clever messaging with professionalism to appeal to both company leaders and local audiences.
+- **Brand Tone Alignment** - Maintained a voice that blended playful, clever messaging with professionalism to appeal to both company leaders and local audiences.
     
-- **Value Proposition Framing** – Highlighted how escape rooms serve as effective team-building tools by promoting communication, problem-solving, and collaboration.
+- **Value Proposition Framing** - Highlighted how escape rooms serve as effective team-building tools by promoting communication, problem-solving, and collaboration.
     
-- **Call-to-Action Optimization** – Integrated soft CTAs to encourage booking inquiries while keeping copy conversational and non-pushy.
+- **Call-to-Action Optimization** - Integrated soft CTAs to encourage booking inquiries while keeping copy conversational and non-pushy.
     
-- **Event Promotion** – Created timely and evergreen post variations that could be reused to support seasonal outreach or special offers.
+- **Event Promotion** - Created timely and evergreen post variations that could be reused to support seasonal outreach or special offers.
     
 
 ## 🛠💻 Skills and Tools
 
 ### 🛠 **Skills**
 
-- **[[Writing and Marketing#Copywriting|Social Media Copywriting]]** – Writing engaging, on-brand short-form content.
+- **[[Writing and Marketing#Copywriting|Social Media Copywriting]]** - Writing engaging, on-brand short-form content.
     
-- **[[Writing and Marketing#B2B Messaging|B2B Messaging]]** – Framing entertainment services in a way that appeals to professional buyers.
+- **[[Writing and Marketing#B2B Messaging|B2B Messaging]]** - Framing entertainment services in a way that appeals to professional buyers.
     
-- **[[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Adaptation]]** – Balancing fun with credibility in promotional content.
+- **[[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Adaptation]]** - Balancing fun with credibility in promotional content.
     
 
-### 💻 **Software & Tools**
+### 💻 **Software and Tools**
 
 - Google Docs
     
-- Facebook & Instagram Post Templates
+- Facebook and Instagram Post Templates
     
 - Client Brand Guide (Internal)
     

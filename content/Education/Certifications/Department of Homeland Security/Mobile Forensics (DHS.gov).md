@@ -1,11 +1,13 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Friday, April 4th 2025, 4:13:57 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-29
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Investigation
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,11 +26,11 @@ _The Mobile Forensics course provides an in-depth overview of mobile forensics, 
 
 ## 🎯 Key Learning Outcomes
 
-- **Mobile Devices in Investigations** – _Understand the impact of mobile devices in modern investigations._
+- **Mobile Devices in Investigations** - _Understand the impact of mobile devices in modern investigations._
     
-- **iOS Architecture Basics** – _Learn the fundamental filesystem, operating system, and security architecture of iOS devices._
+- **iOS Architecture Basics** - _Learn the fundamental filesystem, operating system, and security architecture of iOS devices._
     
-- **Acquisition & Analysis Techniques** – _Master tools and techniques for acquiring and analyzing data from iOS devices._
+- **Acquisition and Analysis Techniques** - _Master tools and techniques for acquiring and analyzing data from iOS devices._
     
 
 ## 🚀 Skills Acquired
@@ -40,11 +42,11 @@ _The Mobile Forensics course provides an in-depth overview of mobile forensics, 
 - **Soft Skills:** Attention to detail, analytical thinking
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Forensic Tools** – _Tools and techniques for acquiring data from iOS devices._
+- **Forensic Tools** - _Tools and techniques for acquiring data from iOS devices._
     
-- **iOS Devices** – _Understanding the architecture and forensically sound analysis of iOS devices._
+- **iOS Devices** - _Understanding the architecture and forensically sound analysis of iOS devices._
     
 ### 🗺 **NICE Framework Domains**
 

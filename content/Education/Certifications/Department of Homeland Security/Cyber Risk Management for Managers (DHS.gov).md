@@ -1,13 +1,15 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:08:53 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-09
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
   - Oversight and Governance
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -26,11 +28,11 @@ _The Fundamentals of Cyber Risk Management course provides an introduction to ma
 
 ## 🎯 Key Learning Outcomes
 
-- **Cyber Risk Management Concepts** – _Learn the foundational concepts of managing cyber risks in a business environment._
+- **Cyber Risk Management Concepts** - _Learn the foundational concepts of managing cyber risks in a business environment._
     
-- **Risk Assessment Methodologies** – _Understand risk assessment techniques and analysis frameworks to evaluate risks._
+- **Risk Assessment Methodologies** - _Understand risk assessment techniques and analysis frameworks to evaluate risks._
     
-- **Mitigation Strategies & Response** – _Identify security controls and strategies to mitigate risks and ensure proper response and recovery._
+- **Mitigation Strategies and Response** - _Identify security controls and strategies to mitigate risks and ensure proper response and recovery._
     
 
 ## 🚀 Skills Acquired
@@ -42,11 +44,11 @@ _The Fundamentals of Cyber Risk Management course provides an introduction to ma
 - **Soft Skills:** Strategic thinking, problem-solving, decision-making
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Risk Management Tools** – _Technologies used to assess, analyze, and manage cyber risks._
+- **Risk Management Tools** - _Technologies used to assess, analyze, and manage cyber risks._
     
-- **Security Controls** – _Tools and frameworks to mitigate cybersecurity risks._
+- **Security Controls** - _Tools and frameworks to mitigate cybersecurity risks._
     
 ### 🗺 **NICE Framework Domains**
 

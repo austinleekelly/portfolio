@@ -1,11 +1,12 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Saturday, April 5th 2025, 3:31:41 pm
 Certification ID: "597909"
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - SMstudy
 Issue Date: 2017-10-31
-tags: [Cert-Management]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Cert-Management
 ---
 ## 📌 Summary
 
@@ -22,11 +23,11 @@ The **Scrum Fundamentals Certified (SFC™)** course, offered by SCRUMstudy, pro
 
 ## 🎯 Key Learning Outcomes
 
-- **Scrum Framework Understanding** – Gain insights into the principles and processes of Scrum, including roles, events, and artifacts.
+- **Scrum Framework Understanding** - Gain insights into the principles and processes of Scrum, including roles, events, and artifacts.
     
-- **Scrum Implementation** – Learn how to apply Scrum practices to enhance project delivery and team collaboration. 
+- **Scrum Implementation** - Learn how to apply Scrum practices to enhance project delivery and team collaboration. 
     
-- **Agile Mindset Adoption** – Develop an Agile mindset to adapt to changing project requirements and improve responsiveness. ​
+- **Agile Mindset Adoption** - Develop an Agile mindset to adapt to changing project requirements and improve responsiveness. ​
     
 
 ## 🚀 Skills Acquired
@@ -48,9 +49,9 @@ The **Scrum Fundamentals Certified (SFC™)** course, offered by SCRUMstudy, pro
     - Commitment to continuous learning and professional development.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Scrum Framework** – A lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. 
+- **Scrum Framework** - A lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. 
     
 
 ## 📜 Certification Details

@@ -1,6 +1,6 @@
 ---
-_date created: Friday, March 28th 2025, 8:59:43 am
-_date modified: Monday, March 31st 2025, 11:45:34 am
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: 🖥 Software
 ---
 > [!info] **What You'll Find Here:**  

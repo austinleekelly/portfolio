@@ -1,6 +1,28 @@
 ---
-_date created: Thursday, April 3rd 2025, 5:20:27 pm
-_date modified: Thursday, April 3rd 2025, 5:24:36 pm
+created: Thursday, April 3rd 2025, 5:20:27 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+Skills Utilized:
+  - Adaptability and Learning
+  - Collaboration and Teamwork
+  - Customer Service and Communication
+  - Cybersecurity
+  - Documentation and Knowledge Management
+  - Hardware and Device Management
+  - Incident Management and Resolution
+  - Networking and Security
+  - Problem Solving and Critical Thinking
+  - Project Management and Task Prioritization
+  - System Administration
+Software:
+  - Active Directory
+  - Security and Antivirus Tools
+  - ServiceNow
+  - Windows OS
+tags:
+  - Cybersecurity
+  - First-Level-Support
+  - IT-Support
+  - System-Administration
 ---
 ## 📌 Summary
 
@@ -14,7 +36,7 @@ During this role, I gained foundational experience in IT troubleshooting, system
 
 - **💼 Company:** Rheem Manufacturing
     
-- **📆 Duration:** May 2008 – July 2008
+- **📆 Duration:** May 2008 - July 2008
     
 - **🏢 Employment Type:** Part-time
     
@@ -25,26 +47,26 @@ During this role, I gained foundational experience in IT troubleshooting, system
 
 ## 🎯 Key Responsibilities
 
-- **Computer Setup** – Assisted in imaging and installing software on personal computers for end users, ensuring systems were ready for deployment.
+- **Computer Setup** - Assisted in imaging and installing software on personal computers for end users, ensuring systems were ready for deployment.
     
-- **Server Assistance** – Supported the setup and configuration of server infrastructure, learning about the deployment of network systems.
+- **Server Assistance** - Supported the setup and configuration of server infrastructure, learning about the deployment of network systems.
     
-- **1st Level Help Desk Support** – Provided troubleshooting for MS Office and software issues, delivering user-friendly solutions to ensure minimal downtime.
+- **1st Level Help Desk Support** - Provided troubleshooting for MS Office and software issues, delivering user-friendly solutions to ensure minimal downtime.
     
-- **Network Administration Observation** – Observed and assisted with network administration tasks, gaining knowledge of network management, system configurations, and problem resolution.
+- **Network Administration Observation** - Observed and assisted with network administration tasks, gaining knowledge of network management, system configurations, and problem resolution.
     
-- **Cybersecurity Fundamentals** – Gained exposure to basic cybersecurity practices and learned about securing network systems, user data, and preventing potential threats.
+- **Cybersecurity Fundamentals** - Gained exposure to basic cybersecurity practices and learned about securing network systems, user data, and preventing potential threats.
     
 
 ---
 
-## 🚀 Achievements & Impact
+## 🚀 Achievements and Impact
 
-- ✅ **Practical IT Experience** – Assisted with PC setup, server configuration, and 1st level support, honing my technical troubleshooting skills.
+- ✅ **Practical IT Experience** - Assisted with PC setup, server configuration, and 1st level support, honing my technical troubleshooting skills.
     
-- ✅ **Cybersecurity Knowledge** – Acquired a strong understanding of cybersecurity fundamentals, including best practices for securing IT systems and networks.
+- ✅ **Cybersecurity Knowledge** - Acquired a strong understanding of cybersecurity fundamentals, including best practices for securing IT systems and networks.
     
-- ✅ **Enhanced Problem-Solving Skills** – Provided efficient user support, applying critical thinking to resolve technical issues and improve operational efficiency.
+- ✅ **Enhanced Problem-Solving Skills** - Provided efficient user support, applying critical thinking to resolve technical issues and improve operational efficiency.
     
 
 ---
@@ -84,11 +106,11 @@ During this role, I gained foundational experience in IT troubleshooting, system
     - [[Writing and Marketing#Technical Writing|Technical Writing]]
         
 
-### 💻 **Software & Tools**
+### 💻 **Software and Tools**
 
-- **IT & Helpdesk:**
+- **IT and Helpdesk:**
     
-    - [[Active Directory]]
+    - [[IT, Security, and Automation Tools#^9975c7|Active Directory]]
         
     - [[Security and Antivirus Tools]]
         

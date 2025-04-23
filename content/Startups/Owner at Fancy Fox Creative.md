@@ -1,7 +1,45 @@
 ---
-_date created: Monday, April 14th 2025, 12:27:06 pm
-_date modified: Wednesday, April 16th 2025, 8:54:32 am
-tags: [Freelance, Owner, Technical-Writing, UX, Web-Design]
+created: Monday, April 14th 2025, 12:27:06 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+Skills Utilized:
+  - Adaptability and Learning
+  - Client Relationship Management
+  - Conversion Rate Optimization (CRO)
+  - Copywriting
+  - End User Training and Support
+  - Problem Solving and Critical Thinking
+  - Project Management and Task Prioritization
+  - SEO
+  - Team Management and Training
+  - Theme Customization
+  - Web Design
+  - WordPress Site Building
+Software:
+  - Adobe Photoshop
+  - Canva
+  - cPanel
+  - Divi
+  - Elementor
+  - FTP
+  - Notepad++
+  - phpMyAdmin
+  - Trello
+  - WooCommerce
+  - WordPress
+  - Yoast
+tags:
+  - Client-Management
+  - Content-Strategy
+  - Copywriting
+  - Ecommerce
+  - Knowledge-Management
+  - Owner
+  - Project-Management
+  - Technical-Writing
+  - UX
+  - Web-Design
+  - Web-Development
+YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 
@@ -17,77 +55,85 @@ My work focused on creating clean, functional websites tailored to each client�
 
 - **💼 Company:** Fancy Fox Creative
     
-- **📆 Duration:** March 2011 – August 2018
+- **📆 Duration:** March 2011 - August 2018
     
 - **🏢 Employment Type:** Self-Employed
     
-- **📍 Location:** Fort Smith, Arkansas (Remote & On-Site)
+- **📍 Location:** Fort Smith, Arkansas (Remote and On-Site)
     
 
 ---
 
 ## 🎯 Key Responsibilities
 
-- **WordPress Website Design & Development** – Built custom WordPress websites for clients, including local service providers, eCommerce stores, and nonprofits.
+- **WordPress Website Design and Development** - Built custom WordPress websites for clients, including local service providers, eCommerce stores, and nonprofits.
     
-- **Theme Customization & UX Design** – Modified themes and templates to match client branding, improve user experience, and ensure mobile responsiveness.
+- **Theme Customization and UX Design** - Modified themes and templates to match client branding, improve user experience, and ensure mobile responsiveness.
     
-- **Copywriting & Content Strategy** – Wrote homepage content, product/service descriptions, and refined brand voice across web pages.
+- **Copywriting and Content Strategy** - Wrote homepage content, product/service descriptions, and refined brand voice across web pages.
     
-- **Client Training & Documentation** – Provided clients with training on managing their websites, including creating videos, walkthroughs, and written documentation.
+- **Client Training and Documentation** - Provided clients with training on managing their websites, including creating videos, walkthroughs, and written documentation.
     
-- **Website Maintenance & Security** – Maintained plugins, backups, and core updates to ensure the long-term performance and security of websites.
+- **Website Maintenance and Security** - Maintained plugins, backups, and core updates to ensure the long-term performance and security of websites.
     
-- **Subcontractor Management** – Coordinated with remote developers for custom plugin configurations and PHP integrations when necessary.
+- **Subcontractor Management** - Coordinated with remote developers for custom plugin configurations and PHP integrations when necessary.
     
 
 ---
 
-## 🚀 Achievements & Impact
+## 🚀 Achievements and Impact
 
-- ✅ **Launched 10+ Client Websites** – Delivered professional websites that supported fundraising, eCommerce, and service bookings.
+- ✅ **Launched 10+ Client Websites** - Delivered professional websites that supported fundraising, eCommerce, and service bookings.
     
-- ✅ **End-to-End Creative Ownership** – Managed the entire process in-house, from design and development to copywriting and final delivery.
+- ✅ **End-to-End Creative Ownership** - Managed the entire process in-house, from design and development to copywriting and final delivery.
     
-- ✅ **Client Education & Retention** – Trained clients to manage their websites confidently, leading to strong relationships and ongoing support contracts.
+- ✅ **Client Education and Retention** - Trained clients to manage their websites confidently, leading to strong relationships and ongoing support contracts.
     
-- ✅ **Scalable Processes** – Developed reusable templates, onboarding materials, and standard operating procedures (SOPs), which reduced development time and improved workflow.
+- ✅ **Scalable Processes** - Developed reusable templates, onboarding materials, and standard operating procedures (SOPs), which reduced development time and improved workflow.
 
 ---
 
-## 🛠💻 Skills and Tools
+## 🛠 Skills
 
-### 🛠 **Skills**
+- Adaptability and Learning
+- Client Relationship Management
+- Conversion Rate Optimization (CRO)
+- Copywriting
+- End User Training and Support
+- Problem Solving and Critical Thinking
+- Project Management and Task Prioritization
+- SEO
+- Team Management and Training
+- Theme Customization
+- Web Design
+- WordPress Site Building
+%%
+```dataview
+list file.frontmatter["Skills Utilized"]
+where file.path = this.file.path
+sort asc
+```
+%%
 
-- **Soft Skills:**  
-	- [[General Skills#Client Relationship Management|Client Relationship Management]]  
-	- [[General Skills#Copywriting and Messaging|Copywriting and Messaging]]  
-	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]  
-	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]  
-	- [[General Skills#Adaptability and Learning|Adaptability and Learning]]  
+---
+## 💻 Software and Tools
 
-- **Technical Skills:**  
-	- [[Web and Design Skills#Web Design and Layout|Web Design and Layout]]  
-	- [[Web and Design Skills#WordPress Site Building|WordPress Site Building]]  
-	- [[Web and Design Skills#Theme Customization and CSS|Theme Customization and CSS]]  
-	- [[Web and Design Skills#Client Training and Documentation|Client Training and Documentation]]  
-	- [[Writing and Marketing#SEO Optimization|SEO Performance and Tuning]]
-
-### 💻 **Software & Tools**
-
-- **CMS & Web:**  
-	- WordPress
-		- [[Content Management and SEO#^e7bf5c|Yoast]]
-	- Elementor / WPBakery / Divi (varied per client)  
-	- WooCommerce  
-	- cPanel / FTP / phpMyAdmin  
-
-- **Creative:**  
-	- Canva  
-	- Adobe Photoshop  
-
-- **Productivity & Management:**  
-	- Trello  
-	- Google Workspace  
-	- Slack (for team/client communication)  
-	- Notepad++ / Sublime Text  
+- Adobe Photoshop
+- Canva
+- cPanel
+- Divi
+- Elementor
+- FTP
+- Notepad++
+- phpMyAdmin
+- Trello
+- WooCommerce
+- WordPress
+- Yoast
+%%
+```dataview
+list file.frontmatter["Software"]
+where file.path = this.file.path
+sort asc
+``` 
+%%

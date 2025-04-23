@@ -1,13 +1,15 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:13:22 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
   - Implementation and Operations
   - Investigation
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -26,11 +28,11 @@ _The Mobile and Device Security course introduces the basics of mobile device te
 
 ## 🎯 Key Learning Outcomes
 
-- **Mobile Device Technology** – _Understand the components and architectures of mobile devices and how to secure them._
+- **Mobile Device Technology** - _Understand the components and architectures of mobile devices and how to secure them._
     
-- **Threats & Remediation** – _Learn about historical and current mobile device threats and methods for remediation._
+- **Threats and Remediation** - _Learn about historical and current mobile device threats and methods for remediation._
     
-- **Forensic Investigations** – _Gain foundational knowledge for conducting mobile device forensic investigations._
+- **Forensic Investigations** - _Gain foundational knowledge for conducting mobile device forensic investigations._
     
 
 ## 🚀 Skills Acquired
@@ -42,11 +44,11 @@ _The Mobile and Device Security course introduces the basics of mobile device te
 - **Soft Skills:** Problem-solving, critical thinking
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Mobile Devices** – _Understanding how different mobile devices operate and how to secure them._
+- **Mobile Devices** - _Understanding how different mobile devices operate and how to secure them._
     
-- **Forensic Tools** – _Key tools for conducting mobile device forensic investigations._
+- **Forensic Tools** - _Key tools for conducting mobile device forensic investigations._
     
 ### 🗺 **NICE Framework Domains**
 

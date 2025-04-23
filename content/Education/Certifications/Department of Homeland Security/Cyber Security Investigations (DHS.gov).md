@@ -1,13 +1,15 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:03:46 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-29
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Cyberspace Effects
   - Investigation
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -26,11 +28,11 @@ _The Cyber Security Investigations course introduces foundational concepts of cy
 
 ## 🎯 Key Learning Outcomes
 
-- **Forensics Collection & Analysis** – _Understand how to integrate forensic collection and analysis into organizational security protocols._
+- **Forensics Collection and Analysis** - _Understand how to integrate forensic collection and analysis into organizational security protocols._
     
-- **Forensic Process Concepts** – _Learn the methodologies and best practices involved in forensic investigations._
+- **Forensic Process Concepts** - _Learn the methodologies and best practices involved in forensic investigations._
     
-- **Evidence Collection Techniques** – _Apply techniques for evidence collection, triage, and incident response according to best practices._
+- **Evidence Collection Techniques** - _Apply techniques for evidence collection, triage, and incident response according to best practices._
     
 
 ## 🚀 Skills Acquired
@@ -42,11 +44,11 @@ _The Cyber Security Investigations course introduces foundational concepts of cy
 - **Soft Skills:** Analytical thinking, attention to detail, problem-solving
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Forensic Tools** – _Technologies used for evidence collection, analysis, and incident response._
+- **Forensic Tools** - _Technologies used for evidence collection, analysis, and incident response._
     
-- **Log Analysis Tools** – _Tools used for reviewing logs during cyber security investigations._
+- **Log Analysis Tools** - _Tools used for reviewing logs during cyber security investigations._
     
 ### 🗺 **NICE Framework Domains**
 

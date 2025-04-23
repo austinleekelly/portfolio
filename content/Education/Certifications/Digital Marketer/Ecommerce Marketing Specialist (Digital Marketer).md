@@ -1,8 +1,10 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:45:01 pm
+created: Tuesday, April 8th 2025, 3:42:06 pm
 Issue Date: 2020-04-15
-tags: [Ecommerce, Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Ecommerce
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -52,7 +54,7 @@ The **Ecommerce Marketing Mastery** course, offered by DigitalMarketer, provides
     - Foster creativity in developing marketing campaigns and promotions.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Ecommerce Platforms:** Gain proficiency in using popular ecommerce platforms for online sales.​
     

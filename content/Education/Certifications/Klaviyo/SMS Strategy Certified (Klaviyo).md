@@ -1,12 +1,13 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Saturday, April 5th 2025, 5:12:41 pm
 Certification ID: wxppy3k2zjbd
 Certification Link: https://verify.skilljar.com/c/wxppy3k2zjbd
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Klaviyo
 Issue Date: 2022-05-25
-tags: [Email-Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Email-Marketing
 ---
 ## 📌 Summary
 
@@ -23,13 +24,13 @@ The **Klaviyo SMS Strategy Certified** credential is designed for professionals 
 
 ## 🎯 Key Learning Outcomes
 
-- **Omnichannel Integration** – Learn to incorporate SMS into broader marketing strategies for cohesive customer experiences. ​
+- **Omnichannel Integration** - Learn to incorporate SMS into broader marketing strategies for cohesive customer experiences. ​
     
-- **Subscriber Acquisition** – Develop effective tactics to grow your SMS subscriber list. ​
+- **Subscriber Acquisition** - Develop effective tactics to grow your SMS subscriber list. ​
     
-- **Personalization with Keywords** – Utilize keywords to deliver personalized SMS content.
+- **Personalization with Keywords** - Utilize keywords to deliver personalized SMS content.
     
-- **Segmentation and Automation** – Create targeted segments and automate SMS flows to enhance engagement.
+- **Segmentation and Automation** - Create targeted segments and automate SMS flows to enhance engagement.
     
 
 ## 🚀 Skills Acquired
@@ -53,11 +54,11 @@ The **Klaviyo SMS Strategy Certified** credential is designed for professionals 
     - Analyze SMS campaign performance to inform decision-making.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Klaviyo SMS Marketing** – Leverage Klaviyo's platform to design and manage SMS campaigns.​
+- **Klaviyo SMS Marketing** - Leverage Klaviyo's platform to design and manage SMS campaigns.​
     
-- **Analytics Tools** – Assess SMS campaign metrics to optimize strategies.​
+- **Analytics Tools** - Assess SMS campaign metrics to optimize strategies.​
     
 
 ## 📜 Certification Details

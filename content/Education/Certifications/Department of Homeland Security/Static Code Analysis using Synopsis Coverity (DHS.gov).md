@@ -1,11 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 6:32:20 pm
+created: Friday, April 4th 2025, 6:29:04 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-27
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,11 +26,11 @@ _The Static Code Analysis using Synopsis Coverity course provides an introductio
 
 ## 🎯 Key Learning Outcomes
 
-- **Static Code Analysis Integration** – _Learn the benefits of incorporating static code analysis tools like Coverity into the software development process._
+- **Static Code Analysis Integration** - _Learn the benefits of incorporating static code analysis tools like Coverity into the software development process._
     
-- **Coverity Features for CWE Removal** – _Identify key features of the Coverity tool that can help combat Common Weakness Enumeration (CWE) and improve code quality._
+- **Coverity Features for CWE Removal** - _Identify key features of the Coverity tool that can help combat Common Weakness Enumeration (CWE) and improve code quality._
     
-- **Pre-deployment Code Vulnerability Identification** – _Understand how to use static code analysis to identify vulnerabilities early in the development cycle, prior to deployment._
+- **Pre-deployment Code Vulnerability Identification** - _Understand how to use static code analysis to identify vulnerabilities early in the development cycle, prior to deployment._
     
 
 ## 🚀 Skills Acquired
@@ -40,9 +42,9 @@ _The Static Code Analysis using Synopsis Coverity course provides an introductio
 - **Soft Skills:** Problem-solving, critical thinking, attention to detail
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Coverity** – _Proficient in using Coverity for static code analysis and vulnerability identification._
+- **Coverity** - _Proficient in using Coverity for static code analysis and vulnerability identification._
     
 
 ### 🗺 **NICE Framework Domains**

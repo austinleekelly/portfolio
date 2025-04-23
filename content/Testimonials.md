@@ -1,7 +1,8 @@
 ---
-_date created: Friday, March 28th 2025, 9:05:15 am
-_date modified: Wednesday, April 9th 2025, 11:26:18 am
-tags: [Testimonial]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Testimonial
 title: 🌟 Testimonials
 ---
 > [!info] What You'll Find Here  
@@ -35,6 +36,8 @@ title: 🌟 Testimonials
 > 
 > He is a great asset for any organization that hires him or acquires his services.”
 
+^6ea008
+
 **[Alie Bahsoon](https://www.linkedin.com/in/alie-bahsoon-a451205/)** - Senior Purchasing Manager at the [City of Fort Smith](https://www.fortsmithar.gov/) 
 
 <br>
@@ -42,11 +45,15 @@ title: 🌟 Testimonials
 >[!success]- "Always willing to assist in solving any issues we encountered..."
 > “Austin is a consummate IT professional, always willing to assist in solving any issues we encountered. Not only did he provide solutions to every challenge presented but did do so in a friendly supportive manner and was a pleasure to work with during his time with us at the City of Fort Smith. A tremendous asset to any organization."
 
+^7e720f
+
 **[John Beard](https://www.linkedin.com/in/john-beard-86792a62/)** - Cross-Connection Control Coordinator at the [City of Fort Smith](https://www.fortsmithar.gov/) 
 <br><br>
 
  >[!success]- "Quick to respond, friendly by nature and efficient in resolving problems..."
 > Austin is a go-getter and always conscientious about providing quick, reliable customer service. As part of a team of IT gurus in our organization, he was often called to solve tech issues for end users. He is quick to respond, friendly by nature and efficient in resolving problems.”
+
+^7e895e
 
 **[Jeff Dingman](https://www.linkedin.com/in/jdingman/)** - Deputy City Administrator at the [City of Fort Smith](https://www.fortsmithar.gov/) 
 
@@ -84,7 +91,7 @@ title: 🌟 Testimonials
 * [[Work Experience/index|IT Work Experience Overview]]
 ---
 
-## 📝 Writing & Marketing
+## 📝 Writing and Marketing
 
 > Below you'll find feedback from individuals and organizations where I’ve worked in a writing or marketing role, particularly in content creation, copywriting, and email marketing.
 
@@ -135,27 +142,33 @@ title: 🌟 Testimonials
 > 
 > If you’re looking for someone to work with on that basis, then I highly, highly recommend Austin.”
 
-**[Bradley Long](https://www.linkedin.com/in/bradleylong-cmo/)** - Co-Founder & CEO at [Shoptimized](https://shoptimized.net/)
+^421b58
+
+**[Bradley Long](https://www.linkedin.com/in/bradleylong-cmo/)** - Co-Founder and CEO at [Shoptimized](https://shoptimized.net/)
 
 <br>
 
 > [!success]- "Content that he provides is of exceptional quality..."
 > “I’ve worked with Austin for about a year now, he is great to work alongside with and it’s a joy to have his positive energy reflecting back in all that he does. The content that he provides is of exceptional quality and all built around specific keywords. We’re confident his work contributed to consistent growth for us. Thank you Austin in all of your efforts helping to drive organic traffic to our site.”
 
+^0a9971
+
 **[George Beard](https://www.linkedin.com/in/george-beard2022/)** - Co-Founder of [Shoptimized](https://shoptimized.net/)
 
 ---
 
-### 📄  [[Case Study Content Writer for Loox]]
+### 📄  [[Loox Case Study - Content Marketing for Shopify App]]
 
 > [!success]- "Did a phenomenal job crafting a case study..."
 > “Austin did a phenomenal job crafting a case study for us.
 > 
-> I feel confident sending it out to on-the-fence prospects – and I have no doubt that it will be a great sales driver for Loox.
+> I feel confident sending it out to on-the-fence prospects - and I have no doubt that it will be a great sales driver for Loox.
 > 
-> If you’ve already made some customers happy – let Austin create a case study that turns that relationship into a sales-generating asset…that gets you even more customers.”
+> If you’ve already made some customers happy - let Austin create a case study that turns that relationship into a sales-generating asset…that gets you even more customers.”
 
-**[Yoni Elbaz](https://www.linkedin.com/in/yoni-elbaz/)** - Co-Founder & CEO of [Loox](https://loox.app/)
+^911ba0
+
+**[Yoni Elbaz](https://www.linkedin.com/in/yoni-elbaz/)** - Co-Founder and CEO of [Loox](https://loox.app/)
 
 ---
 ### 🧭✍ [[Onboarding UX Email Copywriter for MentorPass]]
@@ -163,12 +176,16 @@ title: 🌟 Testimonials
 > [!success]- "Great service and high-quality copywriting..."
 > “Austin gave us really great service and high-quality copywriting for our activation email flows. The pricing was also very fair. His communication was excellent, and the turnaround time was really good. Looking forward to working with him again on future projects.”
 
-**[Kenny Hanson](https://www.linkedin.com/in/khanson1)** - Founder & CEO of [MentorPass | Online Startup Mentors 🚀](https://www.mentorpass.co/)
+^3cf232
+
+**[Kenny Hanson](https://www.linkedin.com/in/khanson1)** - Founder and CEO of [MentorPass | Online Startup Mentors 🚀](https://www.mentorpass.co/)
 
 ---
 ### ✍  [[Long-form Content Writer for C.B. Publishing B.V.]]
 > [!success]- "Very high-quality writing, takes the research very seriously, and is very easy to work with..."
 > “Austin delivers very high-quality writing, takes the research very seriously, and is very easy to work with. We hired him for SEO articles and so far the quality has been outstanding. We plan to continue working with him into the future, so I was even reluctant to post this, hands-off, he’s ours :)”
+
+^6170b5
 
 **Charles Black** - Founder at [[Long-form Content Writer for C.B. Publishing B.V.|C.B. Publishing B.V.]]
 
@@ -193,16 +210,16 @@ title: 🌟 Testimonials
 
 ^361cd6
 
-**Alex Gaston** - Founder & CEO of  [CreatorPilot](https://www.creatorpilot.com/) ^0a13be
+**Alex Gaston** - Founder and CEO of  [CreatorPilot](https://www.creatorpilot.com/) ^0a13be
 
 ---
 ### 🧭 [[Onboarding UX Consulting for OutreachBin]]
 > [!success]- "Super deep insights..."
-> “I’ve been super hard at work on my product. I realized I kinda had the curse of most founders – ‘too much knowledge’. I hopped on a call with Austin – I started to get clarity on what clients to double-down on. I got that and more. Super deep insights on how to get social proof to gain a massive amount of trust from on-the-fence prospects. Great stuff Austin!”
+> “I’ve been super hard at work on my product. I realized I kinda had the curse of most founders - ‘too much knowledge’. I hopped on a call with Austin - I started to get clarity on what clients to double-down on. I got that and more. Super deep insights on how to get social proof to gain a massive amount of trust from on-the-fence prospects. Great stuff Austin!”
 
 ^f2b495
 
-**Abdul Mukati** - Founder & CEO of [OutreachBin](https://outreachbin.com/) ^842221
+**Abdul Mukati** - Founder and CEO of [OutreachBin](https://outreachbin.com/) ^842221
 
 ---
 ### 📈  [[Sales Page Copywriter for Purity Woods Inc]]
@@ -234,22 +251,22 @@ title: 🌟 Testimonials
 > 
 > I’ve worked with him for a number of months now, and I’ve been lucky enough to get a behind-the-scenes look at how he delivers the outstanding client results he’s known for.
 > 
-> What really stands out to me is his crystal-clear understanding of the process from start to finish. You’d expect someone with his analytical mind would be difficult to work with, but the opposite is true – he’s friendly, professional and committed to making things happen.
+> What really stands out to me is his crystal-clear understanding of the process from start to finish. You’d expect someone with his analytical mind would be difficult to work with, but the opposite is true - he’s friendly, professional and committed to making things happen.
 > 
-> I’ve worked with dozens of businesses, and I know this for sure: people with deep knowledge of what it takes to create sustainable business growth with email marketing are rare. That’s the kind of competence you build through years of “in the trenches” experience – and that’s exactly what Austin brings to the table.
+> I’ve worked with dozens of businesses, and I know this for sure: people with deep knowledge of what it takes to create sustainable business growth with email marketing are rare. That’s the kind of competence you build through years of “in the trenches” experience - and that’s exactly what Austin brings to the table.
 > 
 > If you’re looking for a genuine email marketing specialist to take your business to the next level, then look no further. With Austin in your corner, you’ll get what you’re after!”
 
 **John Clancy** - Operations Analyst at Action BV
 
 ---
-### 👨‍💻 Key Takeaways for Clients & Recruiters
+### 👨‍💻 Key Takeaways for Clients and Recruiters
 
 - **Versatile Skill Set**: I bring a unique blend of technical expertise and creative writing experience across industries including IT, SaaS, eCommerce, and digital marketing. My portfolio demonstrates my ability to tackle both technical and creative challenges with precision.
     
 - **Proven Business Impact**: My work has directly contributed to measurable business growth-whether it's improving customer retention, boosting SEO rankings, increasing conversion rates, or enhancing onboarding experiences.
     
-- **Effective Collaboration & Communication**: Known for a proactive, team-oriented approach, I seamlessly integrate into teams to deliver results. My clear communication and ability to understand both technical and business needs have consistently led to successful outcomes.
+- **Effective Collaboration and Communication**: Known for a proactive, team-oriented approach, I seamlessly integrate into teams to deliver results. My clear communication and ability to understand both technical and business needs have consistently led to successful outcomes.
     
 - **Strategic Problem-Solving**: Whether it's IT troubleshooting or creating high-converting content, I’m driven by finding innovative solutions to complex problems. My ability to break down challenges into actionable steps ensures clarity and efficiency in every project.
     

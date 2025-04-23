@@ -1,8 +1,10 @@
 ---
-_date created: Friday, April 4th 2025, 4:38:13 pm
-_date modified: Wednesday, April 16th 2025, 9:38:18 am
-tags: [Original, Writing]
-title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)
+created: Friday, April 4th 2025, 4:38:13 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Original
+  - Writing
+title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)
 ---
 _A fast, flexible, and free alternative to WordPress (with some quirks)_
 
@@ -68,7 +70,7 @@ Also worth mentioning, you don't need to know anything about Hugo. You don't eve
 
 ---
 
-### 🔄 Sync & Backup: Dropbox + FreeFileSync
+### 🔄 Sync and Backup: Dropbox + FreeFileSync
 
 To prevent disaster (like the time Quartz failed to upload and wiped my local repo due to a lock error - although that may be to a [nebulous issue surrounding Node](https://github.com/npm/npm/issues/13461)), I use:
 
@@ -81,7 +83,7 @@ This adds an air gap between my live content and the deploy script - just in cas
 
 ---
 
-### 🤖 ChatGPT: Creative Partner & Debugging Assistant
+### 🤖 ChatGPT: Creative Partner and Debugging Assistant
 
 Even though, truthfully, AI put a dent in my freelance writing clientele in unforeseen ways...It's hard to shy away from AI. [**ChatGPT**](https://chat.openai.com/) helped shape this project in many ways:
 
@@ -158,7 +160,7 @@ Hopefully, future versions of Quartz will find a way to bridge that gap.
 |Plugin/security bloat|Minimal surface area|
 |Drag-and-drop CMS|Full control in plain text|
 |Slower dynamic load|Blazing fast static HTML|
-|Frequent updates|Stable & lean with fewer moving parts|
+|Frequent updates|Stable and lean with fewer moving parts|
 
 ^1bb531
 

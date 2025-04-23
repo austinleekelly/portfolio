@@ -1,12 +1,14 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 5:43:10 pm
+created: Friday, April 4th 2025, 5:24:22 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-04
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Cyberspace Intelligence
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -25,13 +27,13 @@ _The Introduction to Threat Hunting Teams course introduces foundational concept
 
 ## 🎯 Key Learning Outcomes
 
-- **Threat Hunting Fundamentals** – _Define what threat hunting means, how teams hunt, and how it differs from incident response or pen testing._
+- **Threat Hunting Fundamentals** - _Define what threat hunting means, how teams hunt, and how it differs from incident response or pen testing._
     
-- **Team Dynamics & Strategy** – _Understand how team goals influence hunting methods and outcomes._
+- **Team Dynamics and Strategy** - _Understand how team goals influence hunting methods and outcomes._
     
-- **Threat Analysis Interpretation** – _Recognize and interpret various sources of cyber threat data._
+- **Threat Analysis Interpretation** - _Recognize and interpret various sources of cyber threat data._
     
-- **Threat Modeling** – _Understand three types of threat models and explain one in detail._
+- **Threat Modeling** - _Understand three types of threat models and explain one in detail._
     
 
 ## 🚀 Skills Acquired
@@ -43,9 +45,9 @@ _The Introduction to Threat Hunting Teams course introduces foundational concept
 - **Soft Skills:** Team-based investigation, analytical thinking, decision making
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Threat Intelligence Resources** – _Cyber threat landscape interpretation tools and frameworks._
+- **Threat Intelligence Resources** - _Cyber threat landscape interpretation tools and frameworks._
     
 
 ### 🗺 **NICE Framework Domains**

@@ -1,7 +1,13 @@
 ---
-_date created: Monday, April 7th 2025, 3:48:01 pm
-_date modified: Tuesday, April 15th 2025, 1:13:44 pm
-tags: [Ecommerce, Email-Marketing, Freelance, Onboarding, SaaS, UX]
+created: Monday, April 7th 2025, 3:48:01 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Ecommerce
+  - Email-Marketing
+  - Freelance
+  - Onboarding
+  - SaaS
+  - UX
 ---
 ## 📌 Summary
 
@@ -24,15 +30,15 @@ As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting 
 
 ## 🎯 Key Responsibilities
 
-- **Email Series Strategy & Execution** – Wrote a sequenced onboarding email series (Welcome → Funnel Template Highlights → Feature Overview → Trial Reminder) aimed at improving user activation and retention.
+- **Email Series Strategy and Execution** - Wrote a sequenced onboarding email series (Welcome → Funnel Template Highlights → Feature Overview → Trial Reminder) aimed at improving user activation and retention.
     
-- **Voice & Tone Matching** – Emulated the founder’s confident, straight-talking style with informal phrasing and no-fluff clarity to build trust quickly with users.
+- **Voice and Tone Matching** - Emulated the founder’s confident, straight-talking style with informal phrasing and no-fluff clarity to build trust quickly with users.
     
-- **Feature Education via Copy** – Highlighted high-value platform features like drag-and-drop funnel building, page templates, upsell/downsell flows, and integrations - all broken down in digestible, benefit-driven messaging.
+- **Feature Education via Copy** - Highlighted high-value platform features like drag-and-drop funnel building, page templates, upsell/downsell flows, and integrations - all broken down in digestible, benefit-driven messaging.
     
-- **Sample Funnel Promotion** – Introduced pre-built funnel options to reduce setup friction and inspire users with clear use-case examples.
+- **Sample Funnel Promotion** - Introduced pre-built funnel options to reduce setup friction and inspire users with clear use-case examples.
     
-- **Action-Oriented CTAs** – Directed users toward specific actions like importing a funnel, watching walkthroughs, or scheduling a call, without overwhelming them.
+- **Action-Oriented CTAs** - Directed users toward specific actions like importing a funnel, watching walkthroughs, or scheduling a call, without overwhelming them.
     
 
 ---
@@ -43,7 +49,7 @@ As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting 
 
 - [[Writing and Marketing#Email Marketing and Automation|Email Marketing and Automation]]
     
-- [[Writing and Marketing#Voice and Tone Adaptation|Voice & Tone Matching]]
+- [[Writing and Marketing#Voice and Tone Adaptation|Voice and Tone Matching]]
     
 - [[Writing and Marketing#SaaS Onboarding and UX Copywriting|Feature Education via Copy]]
     
@@ -52,7 +58,7 @@ As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting 
 - [[Writing and Marketing#Conversion Rate Optimization (CRO)|Action-Oriented CTAs]]
     
 
-### 💻 Software & Tools
+### 💻 Software and Tools
 
 - Google Docs
     

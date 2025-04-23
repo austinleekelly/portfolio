@@ -1,13 +1,15 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Friday, April 4th 2025, 4:10:37 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-27
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
   - Oversight and Governance
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -26,11 +28,11 @@ _The Emerging Cyber Security Threats course explores a variety of cybersecurity 
 
 ## 🎯 Key Learning Outcomes
 
-- **Cybersecurity Legislation & Policies** – _Understand the various cybersecurity laws, standards, and policies shaping current security practices._
+- **Cybersecurity Legislation and Policies** - _Understand the various cybersecurity laws, standards, and policies shaping current security practices._
     
-- **Emerging Threat Vectors & Actor Profiles** – _Learn about the latest cybersecurity threats and the actors behind them._
+- **Emerging Threat Vectors and Actor Profiles** - _Learn about the latest cybersecurity threats and the actors behind them._
     
-- **Network & Device Security** – _Explore techniques for securing LANs, mobile devices, cloud environments, and infrastructure devices._
+- **Network and Device Security** - _Explore techniques for securing LANs, mobile devices, cloud environments, and infrastructure devices._
     
 
 ## 🚀 Skills Acquired
@@ -42,13 +44,13 @@ _The Emerging Cyber Security Threats course explores a variety of cybersecurity 
 - **Soft Skills:** Risk management, security policy implementation, strategic planning
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Switch Features** – _Used to enhance LAN security through VLANs, ACLs, and other configuration settings._
+- **Switch Features** - _Used to enhance LAN security through VLANs, ACLs, and other configuration settings._
     
-- **Cloud Security Tools** – _Tools used for securing cloud-based services and data._
+- **Cloud Security Tools** - _Tools used for securing cloud-based services and data._
     
-- **DNS & IPv6 Security Tools** – _Technologies for securing DNS infrastructure and IPv6 networks._
+- **DNS and IPv6 Security Tools** - _Technologies for securing DNS infrastructure and IPv6 networks._
     
 ### 🗺 **NICE Framework Domains**
 

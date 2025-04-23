@@ -1,11 +1,12 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 4:00:58 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Securely Provision
-tags: [IT]
+tags:
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,11 +25,11 @@ _101 - Coding introduces the fundamentals of computer programming, focusing on k
 
 ## 🎯 Key Learning Outcomes
 
-- **Programming Paradigms** – _Understand the structure and purpose of major programming paradigms._
+- **Programming Paradigms** - _Understand the structure and purpose of major programming paradigms._
     
-- **High-Level vs. Low-Level Languages** – _Learn the difference between high-level and low-level programming languages._
+- **High-Level vs. Low-Level Languages** - _Learn the difference between high-level and low-level programming languages._
     
-- **Basic Programming Elements** – _Define essential programming concepts like variables, operators, and data types._
+- **Basic Programming Elements** - _Define essential programming concepts like variables, operators, and data types._
     
 ## 🚀 Skills Acquired
 
@@ -39,11 +40,11 @@ _101 - Coding introduces the fundamentals of computer programming, focusing on k
 - **Soft Skills:** Analytical thinking, problem-solving, structured communication
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Programming Languages** – _Learn the basics of both scripting and compiled languages._
+- **Programming Languages** - _Learn the basics of both scripting and compiled languages._
     
-- **Programming Frameworks** – _Introduction to frameworks and their purpose in software development._
+- **Programming Frameworks** - _Introduction to frameworks and their purpose in software development._
     
 ### 🗺 **NICE Framework Domains**
 

@@ -1,7 +1,47 @@
 ---
-_date created: Wednesday, March 26th 2025, 3:39:53 pm
-_date modified: Saturday, March 29th 2025, 2:06:26 pm
-tags: [IT, Owner]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+Skills Utilized:
+  - Adaptability and Learning
+  - Client Relationship Management
+  - Customer Service and Communication
+  - Data Recovery
+  - Documentation and Knowledge Management
+  - Malware Removal
+  - Network Configuration
+  - Networking and Security
+  - On-Site Support
+  - Operating System Configuration
+  - Problem Solving and Critical Thinking
+  - Process Documentation and SOP Creation
+  - Project Management and Task Prioritization
+  - Remote Support
+Software:
+  - Acronis True Image
+  - Anydesk
+  - Google Docs
+  - macOS
+  - MemTest
+  - Microsoft Office Suite
+  - Recuva
+  - TeamViewer
+  - Windows OS
+  - Windows Repair Suites
+tags:
+  - Client-Management
+  - Customer-Support
+  - Disaster-Recovery
+  - Hardware-Diagnostics
+  - Incident-Management
+  - IT
+  - IT-Support
+  - macOS-Support
+  - Owner
+  - SOP-Documentation
+  - Technical-Training
+  - Windows
+  - Windows-Support
+YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 As the owner and sole technician of my independent IT repair business during college, I delivered hands-on technical support to residential and small business clients. 
@@ -16,7 +56,7 @@ This role sharpened my problem-solving skills, built my technical foundation, an
 
 - **💼 Company:** Kelly Computer Services
     
-- **📆 Duration:** March 2009 – May 2014
+- **📆 Duration:** March 2009 - May 2014
     
 - **🏢 Employment Type:** Self-Employed
     
@@ -27,71 +67,73 @@ This role sharpened my problem-solving skills, built my technical foundation, an
 
 ## 🎯 Key Responsibilities
 
-- **PC Troubleshooting & Repair** – Diagnosed and resolved hardware/software issues including crashes, slowdowns, and system errors.
+- **PC Troubleshooting and Repair** - Diagnosed and resolved hardware/software issues including crashes, slowdowns, and system errors.
     
-- **On-Site & Remote Support** – Delivered tech support through remote tools and in-person service calls.
+- **On-Site and Remote Support** - Delivered tech support through remote tools and in-person service calls.
     
-- **Customer Service & Consultation** – Helped clients understand technical issues and guided them to cost-effective solutions.
+- **Customer Service and Consultation** - Helped clients understand technical issues and guided them to cost-effective solutions.
     
-- **Operating System Install & Repair** – Reinstalled Windows/macOS, resolved boot issues, and managed driver/software conflicts.
+- **Operating System Install and Repair** - Reinstalled Windows/macOS, resolved boot issues, and managed driver/software conflicts.
     
-- **Network Configuration** – Set up and optimized home Wi-Fi networks, routers, and extenders.
+- **Network Configuration** - Set up and optimized home Wi-Fi networks, routers, and extenders.
     
-- **Malware Removal & Data Recovery** – Removed infections and retrieved lost data from failing drives.
-    
-
----
-
-## 🚀 Achievements & Impact
-
-- ✅ **100+ Devices Serviced** – Successfully repaired and optimized dozens of client machines with consistently high satisfaction.
-    
-- ✅ **Built a Trusted Local Reputation** – Grew the business organically through word-of-mouth and repeat customers.
-    
-- ✅ **Streamlined Repair Workflows** – Developed step-by-step customer intake, drop-off, and troubleshooting processes that reduced turnaround time and increased efficiency.
+- **Malware Removal and Data Recovery** - Removed infections and retrieved lost data from failing drives.
     
 
 ---
 
-## 🛠💻 Skills and Tools
+## 🚀 Achievements and Impact
 
-### 🛠 **Skills**
-
-- **Soft Skills:** 
-	- [[General Skills#Adaptability and Learning|Adaptability and Learning]]
+- ✅ **100+ Devices Serviced** - Successfully repaired and optimized dozens of client machines with consistently high satisfaction.
     
-	- [[General Skills#Client Relationship Management|Client Relationship Management]]
-	    
-	- [[General Skills#Customer Service and Communication|Customer Service and Communication]]
-	    
-	- [[General Skills#Problem Solving and Critical Thinking|Problem Solving and Critical Thinking]]
-	    
-	- [[General Skills#Project Management and Task Prioritization|Project Management and Task Prioritization]]
-		    
-- **Technical Skills:** 
-	- [[IT Support and Technical Skills#Documentation and Knowledge Management|Documentation and Knowledge Management]]
+- ✅ **Built a Trusted Local Reputation** - Grew the business organically through word-of-mouth and repeat customers.
     
-	- [[IT Support and Technical Skills#Hardware and Device Management|PC Repair]]
-	    
-	- [[IT Support and Technical Skills#System Administration|OS Configuration]]
-	    
-	- [[IT Support and Technical Skills#Security and Compliance Management|Cybersecurity Best Practices]]
-	    
-	- [[IT Support and Technical Skills#Networking and Security|Network Setup]]
-	    
-	- [[IT Support and Technical Skills#Incident Management and Resolution|Troubleshooting]]
-	    
-### 💻 **Software & Tools**
+- ✅ **Streamlined Repair Workflows** - Developed step-by-step customer intake, drop-off, and troubleshooting processes that reduced turnaround time and increased efficiency.
+    
 
-- **IT Tools:** 
-	- Malwarebytes
-	- TeamViewer
-	- Windows Repair Suites
-	    
-- **Productivity:** 
-	- Microsoft Office
-	- Google Docs
-	    
-- **Hardware:** 
-	- Custom PC Builds
-	- Hard Drive Imaging Tools
+---
+
+## 🛠 Skills
+
+- Adaptability and Learning
+- Client Relationship Management
+- Customer Service and Communication
+- Data Recovery
+- Documentation and Knowledge Management
+- Malware Removal
+- Network Configuration
+- Networking and Security
+- On-Site Support
+- Operating System Configuration
+- Problem Solving and Critical Thinking
+- Process Documentation and SOP Creation
+- Project Management and Task Prioritization
+- Remote Support
+%%
+```dataview
+list file.frontmatter["Skills Utilized"]
+where file.path = this.file.path
+sort asc
+```
+%%
+
+---
+## 💻 Software and Tools
+
+- Acronis True Image
+- Anydesk
+- Google Docs
+- macOS
+- MemTest
+- Microsoft Office Suite
+- Recuva
+- TeamViewer
+- Windows OS
+- Windows Repair Suites
+%%
+```dataview
+list file.frontmatter["Software"]
+where file.path = this.file.path
+sort asc
+``` 
+%%

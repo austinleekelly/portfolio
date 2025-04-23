@@ -1,12 +1,14 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Friday, April 4th 2025, 3:59:35 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-29
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Cyberspace Intelligence
   - Investigation
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -25,11 +27,11 @@ _The Cyber Fundamentals for Law Enforcement Investigations course offers foundat
 
 ## 🎯 Key Learning Outcomes
 
-- **Computing Communication Concepts** – _Learn the basics of how devices communicate and transfer data._
+- **Computing Communication Concepts** - _Learn the basics of how devices communicate and transfer data._
     
-- **Digital Evidence Handling** – _Identify digital evidence sources and best practices for handling it during investigations._
+- **Digital Evidence Handling** - _Identify digital evidence sources and best practices for handling it during investigations._
     
-- **Cyber Investigation Techniques** – _Apply methods to examine applications for target information and support investigations._
+- **Cyber Investigation Techniques** - _Apply methods to examine applications for target information and support investigations._
     
 
 ## 🚀 Skills Acquired
@@ -41,11 +43,11 @@ _The Cyber Fundamentals for Law Enforcement Investigations course offers foundat
 - **Soft Skills:** Analytical thinking, attention to detail
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Digital Evidence Tools** – _Techniques to identify, extract, and preserve digital evidence._
+- **Digital Evidence Tools** - _Techniques to identify, extract, and preserve digital evidence._
     
-- **Cyber Investigation Tools** – _Tools used for analyzing applications and communication data._
+- **Cyber Investigation Tools** - _Tools used for analyzing applications and communication data._
     
 ### 🗺 **NICE Framework Domains**
 

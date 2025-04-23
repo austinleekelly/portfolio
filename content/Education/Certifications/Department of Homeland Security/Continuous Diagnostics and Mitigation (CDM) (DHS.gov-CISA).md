@@ -1,9 +1,11 @@
 ---
-_date created: Friday, April 4th 2025, 3:39:31 pm
-_date modified: Friday, April 4th 2025, 3:45:38 pm
+created: Friday, April 4th 2025, 3:44:29 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-09
-tags: [Cybersecurity, IT]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,15 +26,15 @@ _This self-paced training from CISA provides a practical overview of the Continu
 
 ## 🎯 Key Learning Outcomes
 
-- **CDM Program Framework** – _Understand the structure, goals, and tools used in the CDM program to secure government networks._
+- **CDM Program Framework** - _Understand the structure, goals, and tools used in the CDM program to secure government networks._
     
-- **Asset Management (HWAM & SWAM)** – _Identify and manage all hardware and software assets in an enterprise environment._
+- **Asset Management (HWAM and SWAM)** - _Identify and manage all hardware and software assets in an enterprise environment._
     
-- **Configuration Settings (CSM)** – _Apply best practices for configuring systems securely and monitoring for deviations._
+- **Configuration Settings (CSM)** - _Apply best practices for configuring systems securely and monitoring for deviations._
     
-- **Vulnerability Management (VUL)** – _Understand vulnerability assessment processes and how they tie into federal dashboards for cybersecurity._
+- **Vulnerability Management (VUL)** - _Understand vulnerability assessment processes and how they tie into federal dashboards for cybersecurity._
     
-- **CDM Dashboards** – _Interpret data through agency and federal dashboards to assess cybersecurity posture and inform risk response._
+- **CDM Dashboards** - _Interpret data through agency and federal dashboards to assess cybersecurity posture and inform risk response._
     
 
 ## 🚀 Skills Acquired
@@ -44,11 +46,11 @@ _This self-paced training from CISA provides a practical overview of the Continu
 - **Strategic Skills:** Cybersecurity posture assessment, FISMA compliance, risk-based prioritization
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **CDM Dashboards** – _Use real-time data aggregation tools to monitor cybersecurity risks across networks_
+- **CDM Dashboards** - _Use real-time data aggregation tools to monitor cybersecurity risks across networks_
     
-- **Security Controls** – _Apply tools for vulnerability management, software whitelisting, and secure baseline enforcement_
+- **Security Controls** - _Apply tools for vulnerability management, software whitelisting, and secure baseline enforcement_
     
 
 ## 📜 Certification Details

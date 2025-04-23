@@ -1,41 +1,41 @@
 ---
-_date created: Saturday, April 12th 2025, 5:50:48 pm
-_date modified: Saturday, April 12th 2025, 5:50:56 pm
+created: Monday, April 14th 2025, 1:45:06 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: 🖥️ IT, Security, and Automation Tools
 ---
 > Tools and platforms for deploying, maintaining, supporting, and troubleshooting systems and networks across enterprise environments.
 
 ---
 
-## 👤 Identity & Access Management
+## 👤 Identity and Access Management
 
-- **Active Directory** - Managed users, computers, and permissions in municipal and enterprise environments.
+- **Active Directory** - Managed users, computers, and permissions in municipal and enterprise environments. ^9975c7
 
 ---
 
-## 🧠 Linux Distributions & Administration
+## 🧠 Linux Distributions and Administration
 
 - **Ubuntu**, **Linux Mint**, **Debian** - Used for [[Education/index|coursework]], [[Homelab|my homelab]] personal daily driver OSs for a few years.  
 - **Red Hat Enterprise Linux (RHEL)**, **CentOS** - Gained exposure during [[Linux Operating System Security (DHS.gov)|certificate training]] and [[Education/index|college education]].
 
 ---
 
-## 👨‍💻 Windows OS & Server Platforms
+## 👨‍💻 Windows OS and Server Platforms
 
 - **Windows 7**, **Windows 10**, **Windows 11** - Supported 1,200+ endpoints as a [[City of Fort Smith - IT Support Specialist|municipal IT specialist]]. Also used as daily driver OS for many years.  
 - **Windows Server (2012-2022)** - Administered AD, Group Policy, and DNS settings across server environments during my time with the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]]. As well as earning [[tags/Windows|certifications surrounding Windows deployment and security]].
 
 ---
 
-## 🚀 Deployment & Imaging Tools
+## 🚀 Deployment and Imaging Tools
 
-- **Microsoft Deployment Toolkit (MDT)**, **Windows Deployment Services (WDS)** - Built and deployed system images during my time with [[Medtronic - Technical User Support Analyst|Medtronic]] and the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]]. Earned a [[MS6294 – Planning and Managing Windows 7 Desktop Deployments and Environments (Global Knowledge + Microsoft)|certification regarding MDT deployments]].
+- **Microsoft Deployment Toolkit (MDT)**, **Windows Deployment Services (WDS)** - Built and deployed system images during my time with [[Medtronic - Technical User Support Analyst|Medtronic]] and the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]]. Earned a [[MS6294 - Planning and Managing Windows 7 Desktop Deployments and Environments (Global Knowledge + Microsoft)|certification regarding MDT deployments]].
 - **Group Policy Editor (GPO)** - Automated security policies and software restrictions at the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]]. Earned a [[M50255 - Managing Windows Environments with Group Policy (Global Knowledge + Microsoft)|certification regarding GPO]].  
 - **Sysprep** - Prepped machines for cloning and imaging during my time with the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]]..
 
 ---
 
-## 🧰 Utility & Troubleshooting Tools
+## 🧰 Utility and Troubleshooting Tools
 
 - **Bulk Crap Uninstaller**, **TreeSize**, **PowerToys** - Daily drivers for streamlined cleanup and maintenance.  
 - **Sysinternals Suite**, **Process Explorer**, **Autoruns**, **Event Viewer** - Diagnosed performance issues and rogue processes during my time with the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]].  
@@ -43,14 +43,14 @@ title: 🖥️ IT, Security, and Automation Tools
 
 ---
 
-## 🧩 Software & Endpoint Management
+## 🧩 Software and Endpoint Management
 
 - **Chocolatey** - Deployed and updated apps via CLI in internal scripts for personal system restores and in my [[Homelab|homelab]].  
 - **PDQ Deploy** - Used for silent software installs across networks at the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]].
 
 ---
 
-## 🌐 Network Monitoring & Diagnostics
+## 🌐 Network Monitoring and Diagnostics
 
 - **PRTG Network Monitor**, **Nagios**, **Spiceworks** - Familiarity with each suite via lab environments and monitoring exercises and in my [[Homelab|homelab]].
 - **Wireshark**, **Nmap**, **PingPlotter** - Used in security labs for packet inspection, scanning, and latency tracking.
@@ -64,7 +64,7 @@ title: 🖥️ IT, Security, and Automation Tools
 
 ---
 
-## 🧾 Ticketing & Help Desk Systems
+## 🧾 Ticketing and Help Desk Systems
 
 - **osTicket**, **ServiceNow**, **Zendesk** - Used for incident tracking and ticket management in [[Medtronic - Technical User Support Analyst|enterprise]] and [[City of Fort Smith - IT Support Specialist|municipal]] environments.  
 -  **Freshdesk**, **Jira Service Management** - Used or tested during [[Clients and Projects/index|freelance and contract]] roles.
@@ -78,7 +78,7 @@ title: 🖥️ IT, Security, and Automation Tools
 
 ---
 
-## 🔐 VPN & Secure Access
+## 🔐 VPN and Secure Access
 
 - **OpenVPN**, **WireGuard**, **Microsoft Always On VPN** - Used in secure enterprise and [[Homelab|home lab]] setups.  
 - **OpenDNSSEC** - Earned a [[DNSSEC Training Workshop (DHS.gov)|DNSSEC certification]]. As well as a [[Security and DNS (DHS.gov)|DNS security certification]].

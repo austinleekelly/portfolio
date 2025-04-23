@@ -1,11 +1,12 @@
 ---
-_date created: Friday, April 4th 2025, 6:41:24 pm
-_date modified: Friday, April 4th 2025, 6:45:57 pm
+created: Friday, April 4th 2025, 6:41:24 pm
 Institution:
   - Global Knowledge
   - Microsoft
 Issue Date: 2011-09-30
-tags: [IT]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - IT
 ---
 ## 📌 Summary
 
@@ -26,11 +27,11 @@ The **10135: Configuring, Managing, and Troubleshooting Microsoft Exchange Serve
 
 ## 🎯 Key Learning Outcomes
 
-- **Exchange Server Installation & Deployment** – _Learn to install and configure Exchange Server 2010, including mailbox servers and components._
+- **Exchange Server Installation and Deployment** - _Learn to install and configure Exchange Server 2010, including mailbox servers and components._
     
-- **Message Transport & Security** – _Configure the secure flow of messages and implement high availability for Exchange components._
+- **Message Transport and Security** - _Configure the secure flow of messages and implement high availability for Exchange components._
     
-- **Backup, Restore, & Compliance** – _Plan and implement backup and restore strategies, and configure messaging policies._
+- **Backup, Restore, and Compliance** - _Plan and implement backup and restore strategies, and configure messaging policies._
     
 
 
@@ -60,15 +61,15 @@ The **10135: Configuring, Managing, and Troubleshooting Microsoft Exchange Serve
     - Analyzing system performance and troubleshooting critical issues.
         
 
-#### 💻 **Tools & Technologies**
+#### 💻 **Tools and Technologies**
 
-- **Exchange Server 2010** – _Used for enterprise-level email management and deployment._
+- **Exchange Server 2010** - _Used for enterprise-level email management and deployment._
     
-- **Unified Messaging Server** – _For integrating voice and email messaging systems._
+- **Unified Messaging Server** - _For integrating voice and email messaging systems._
     
-- **Exchange Online** – _Integration of on-premise Exchange with cloud-based Exchange Online for hybrid messaging solutions._
+- **Exchange Online** - _Integration of on-premise Exchange with cloud-based Exchange Online for hybrid messaging solutions._
     
-- **Exchange Server Management Console** – _A tool for managing all Exchange Server components._
+- **Exchange Server Management Console** - _A tool for managing all Exchange Server components._
     
 
 ## 📜 Certification Details

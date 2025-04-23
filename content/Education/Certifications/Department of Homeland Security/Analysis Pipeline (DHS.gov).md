@@ -1,11 +1,13 @@
 ---
-_date created: Friday, April 4th 2025, 3:39:31 pm
-_date modified: Friday, April 4th 2025, 3:57:04 pm
+created: Friday, April 4th 2025, 3:39:31 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-21
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,11 +26,11 @@ _This course provides hands-on training in streaming network flow analysis using
 
 ## 🎯 Key Learning Outcomes
 
-- **Streaming Flow Analysis** – _Define and implement streaming network flow analysis for cybersecurity monitoring._
+- **Streaming Flow Analysis** - _Define and implement streaming network flow analysis for cybersecurity monitoring._
     
-- **Network Monitoring Use Cases** – _Identify areas within enterprise networks that can benefit from continuous network flow visibility and alerting._
+- **Network Monitoring Use Cases** - _Identify areas within enterprise networks that can benefit from continuous network flow visibility and alerting._
     
-- **Operational Application** – _Apply Analysis Pipeline to practical operational scenarios for real-time defense._
+- **Operational Application** - _Apply Analysis Pipeline to practical operational scenarios for real-time defense._
     
 
 ## 🚀 Skills Acquired
@@ -40,11 +42,11 @@ _This course provides hands-on training in streaming network flow analysis using
 - **Soft Skills:** Critical thinking in cyber defense, pattern recognition
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Analysis Pipeline Tool** – _Leverage Analysis Pipeline for streaming data inspection and automated alerting on suspicious events_
+- **Analysis Pipeline Tool** - _Leverage Analysis Pipeline for streaming data inspection and automated alerting on suspicious events_
     
-- **Flow Data Interpretation** – _Gain experience with interpreting NetFlow and IPFIX-style data to detect anomalies_
+- **Flow Data Interpretation** - _Gain experience with interpreting NetFlow and IPFIX-style data to detect anomalies_
     
 ### 🗺 **NICE Framework Domains**
 * **Protection and Defense**

@@ -1,8 +1,10 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:44:44 pm
+created: Tuesday, April 8th 2025, 4:04:45 pm
 Issue Date: 2020-03-15
-tags: [Funnel-Conversion, Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Funnel-Conversion
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -53,7 +55,7 @@ The **Conversion Funnel Mastery** course, offered by DigitalMarketer, provides a
     - Foster creativity in designing engaging customer journeys.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Marketing Automation Platforms:** Gain proficiency in using platforms for automating marketing and sales processes.​
     

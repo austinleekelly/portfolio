@@ -1,12 +1,14 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 6:24:49 pm
+created: Friday, April 4th 2025, 6:18:43 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -25,17 +27,17 @@ _The Securing the Network Perimeter course provides an in-depth exploration of s
 
 ## 🎯 Key Learning Outcomes
 
-- **Perimeter Protection Approach** – _Identify the perimeter and strategies for safeguarding it against external threats._
+- **Perimeter Protection Approach** - _Identify the perimeter and strategies for safeguarding it against external threats._
     
-- **DoS/DDoS Blocking Methods** – _Learn techniques to block Denial of Service (DoS) and Distributed Denial of Service (DDoS) traffic._
+- **DoS/DDoS Blocking Methods** - _Learn techniques to block Denial of Service (DoS) and Distributed Denial of Service (DDoS) traffic._
     
-- **Specialized Access Control Lists (ACLs)** – _Understand the role of ACLs in filtering traffic and enhancing security at the network edge._
+- **Specialized Access Control Lists (ACLs)** - _Understand the role of ACLs in filtering traffic and enhancing security at the network edge._
     
-- **Firewall Implementation** – _Differentiate between types of firewalls and how to configure them to protect the network perimeter._
+- **Firewall Implementation** - _Differentiate between types of firewalls and how to configure them to protect the network perimeter._
     
-- **Routing Protocols and Traffic Prioritization** – _Secure routing protocols and prioritize traffic to prevent unauthorized access and optimize network performance._
+- **Routing Protocols and Traffic Prioritization** - _Secure routing protocols and prioritize traffic to prevent unauthorized access and optimize network performance._
     
-- **Single Point of Failure (SPOF) Prevention** – _Learn methods to avoid SPOFs that could jeopardize network availability and security._
+- **Single Point of Failure (SPOF) Prevention** - _Learn methods to avoid SPOFs that could jeopardize network availability and security._
     
 
 ## 🚀 Skills Acquired
@@ -47,13 +49,13 @@ _The Securing the Network Perimeter course provides an in-depth exploration of s
 - **Soft Skills:** Risk analysis, network troubleshooting, problem-solving, strategic thinking
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Firewalls and Routers** – _Cisco, Palo Alto, Fortinet_
+- **Firewalls and Routers** - _Cisco, Palo Alto, Fortinet_
     
-- **Traffic Management Tools** – _Load balancers, DDoS mitigation platforms_
+- **Traffic Management Tools** - _Load balancers, DDoS mitigation platforms_
     
-- **Access Control List (ACL) Configuration** – _Cisco ACLs, IP filtering_
+- **Access Control List (ACL) Configuration** - _Cisco ACLs, IP filtering_
     
 
 ### 🗺 **NICE Framework Domains**

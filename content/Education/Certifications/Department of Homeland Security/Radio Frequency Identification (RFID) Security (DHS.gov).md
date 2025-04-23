@@ -1,12 +1,14 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 6:10:02 pm
+created: Friday, April 4th 2025, 6:07:44 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -25,15 +27,15 @@ _The Radio Frequency Identification (RFID) Security course provides an overview 
 
 ## 🎯 Key Learning Outcomes
 
-- **RFID Technology** – _Understand the components, operation, and applications of RFID systems._
+- **RFID Technology** - _Understand the components, operation, and applications of RFID systems._
     
-- **Privacy Implications** – _Learn the privacy concerns related to RFID-embedded items and how they can be mitigated._
+- **Privacy Implications** - _Learn the privacy concerns related to RFID-embedded items and how they can be mitigated._
     
-- **Threat Categories** – _Differentiate between various threat categories associated with RFID systems._
+- **Threat Categories** - _Differentiate between various threat categories associated with RFID systems._
     
-- **Security Recommendations** – _Explore best practices and security recommendations to safeguard RFID implementations._
+- **Security Recommendations** - _Explore best practices and security recommendations to safeguard RFID implementations._
     
-- **Real-World Exploits** – _Review real-world examples of how RFID technology has been exploited._
+- **Real-World Exploits** - _Review real-world examples of how RFID technology has been exploited._
     
 
 ## 🚀 Skills Acquired
@@ -45,9 +47,9 @@ _The Radio Frequency Identification (RFID) Security course provides an overview 
 - **Soft Skills:** Risk assessment, security recommendations, real-world application analysis
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **RFID Systems** – _Understanding of RFID components and technologies used to implement and secure these systems._
+- **RFID Systems** - _Understanding of RFID components and technologies used to implement and secure these systems._
     
 
 ### 🗺 **NICE Framework Domains**

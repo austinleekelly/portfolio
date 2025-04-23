@@ -1,6 +1,6 @@
 ---
-_date created: Wednesday, April 9th 2025, 12:29:54 pm
-_date modified: Wednesday, April 9th 2025, 12:30:04 pm
+created: Wednesday, April 9th 2025, 12:29:54 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: 🚀 Startups
 ---
 > [!info] **What You'll Find Here**  

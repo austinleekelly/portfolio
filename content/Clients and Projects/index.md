@@ -1,6 +1,6 @@
 ---
-_date created: Friday, March 28th 2025, 8:57:54 am
-_date modified: Friday, March 28th 2025, 8:58:30 am
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 title: 💼 Clients and Projects
 ---
 
@@ -13,7 +13,7 @@ title: 💼 Clients and Projects
 2. **Use Search**: Looking for something specific? Use the search bar to find keywords, industries, platforms, or project types across all sections.
 
 ---
-## ✍️ Long-Form Content & Editorial Writing
+## ✍️ Long-Form Content and Editorial Writing
 
 - [[Long Form Content and Technical Writer for Shoptimized]]
 Combined technical accuracy with persuasive content to support both SEO and sales efforts.
@@ -22,7 +22,7 @@ Combined technical accuracy with persuasive content to support both SEO and sale
 Wrote deeply researched, long-form content on [topic/industry if applicable].
 ---
 
-## 📧 Email Marketing & Cold Outreach
+## 📧 Email Marketing and Cold Outreach
 
 - [[Cold Email Campaign and Lander Copy for iAutoAgent]]  
 Created a multi-email cold outreach sequence and a matching landing page for commercial auto brokerage.
@@ -41,7 +41,7 @@ Managed and refined weekly AI industry newsletter for clarity, structure, and to
 
 ---
 
-## 🧭 UX Copywriting & Onboarding Strategy
+## 🧭 UX Copywriting and Onboarding Strategy
 
 - [[Onboarding UX Consulting for CreatorPilot]]  
 Mapped user journeys and proposed onboarding content flows for creators.
@@ -60,29 +60,29 @@ Worked closely with dev and marketing to align copy with the user’s mental mod
 
 ---
 
-## 🖥️ Sales & Web Copy
+## 🖥️ Sales and Web Copy
 
 - [[Sales Page Copywriter for Purity Woods Inc]]  
 Wrote a high-converting DTC sales page in the clean beauty niche.
 
-- [[Case Study Content Writer for Loox]]  
+- [[Loox Case Study - Content Marketing for Shopify App]]  
 Structured and ghostwrote B2B SaaS case studies for social proof and inbound lead gen.
 
 ---
 
-## 📣 Social Media & Brand Voice
+## 📣 Social Media and Brand Voice
 
 - [[Social Media Copywriter for Escape Rooms Daytona Beach Code To Escape]]  
 Wrote posts and short-form content to promote events and increase local engagement.
 
 ---
 
-## 📦 Other Freelance & Agency Projects
+## 📦 Other Freelance and Agency Projects
 
-- [[Inkwell Content]]  
+- [[Email Copywriter for Inkwell Content]]  
 Copywriting and content strategy support for digital agency client.
 
-- [[LCC]]  
+- [[Ecommerce Email Marketer for Legendary Car Care]]  
 Handled miscellaneous writing and consulting work across landing pages, ads, and strategy.
 
 - [[Business Broker for Shoptimized]]  

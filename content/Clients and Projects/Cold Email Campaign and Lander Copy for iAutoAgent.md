@@ -1,5 +1,8 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:55:30 pm
-_date modified: Tuesday, April 15th 2025, 1:13:08 pm
-tags: [Cold-Email, Freelance, Sales-Copywriter]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Cold-Email
+  - Freelance
+  - Sales-Copywriter
 ---

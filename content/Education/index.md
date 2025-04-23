@@ -1,6 +1,6 @@
 ---
-_date created: Friday, March 28th 2025, 9:13:31 am
-_date modified: Saturday, March 29th 2025, 11:36:50 am
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 tags: []
 title: 🎓 Education
 ---
@@ -10,12 +10,12 @@ title: 🎓 Education
 ![[uafs.png|100]]
 ## **University of Arkansas - Fort Smith**
 **B.S. in Information Technology - Networking**  
-**Attended:** September 4th, 2006 – May 11th, 2010  
+**Attended:** September 4th, 2006 - May 11th, 2010  
 **Graduate Cum Laude (3.7 GPA)**  
 
 ---
 
-### 🏆 Awards & Achievements
+### 🏆 Awards and Achievements
 - **Dean's List** (4 years) 
 	Consistently recognized for academic excellence throughout my studies.
 - **Outstanding Networking Graduate of the Year**  

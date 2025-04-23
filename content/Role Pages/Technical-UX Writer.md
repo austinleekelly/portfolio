@@ -1,110 +1,126 @@
 ---
-_date created: Tuesday, April 15th 2025, 4:04:01 pm
-_date modified: Tuesday, April 15th 2025, 6:31:19 pm
-tags: [Technical-Writing, UX]
+created: Tuesday, April 15th 2025, 4:04:01 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Technical-Writing
+  - UX
 ---
-## 📌 Technical & UX Writer
+## 📌 Technical and UX Writer
 
-As a hybrid Technical and UX Writer, I create user-focused documentation, onboarding flows, internal wikis, and knowledge bases that clarify complex systems and improve user experiences. 
+I create documentation, onboarding flows, and product messaging that make technical systems easier to use, support, and scale. I bridge the gap between technical clarity and user empathy; shaping content that improves internal operations and external adoption.
 
-My background bridges IT, SaaS, and eCommerce — with hands-on documentation delivered across multiple industries and tools.
+Whether writing recovery SOPs for an IT team or designing onboarding sequences for SaaS users, my focus is always the same: reduce confusion, lower friction, and increase self-sufficiency.
 
 ---
 
-## 📂 Role Overview
+## 🧭 What I Do
 
 **💼 Type**: Freelance / Consultant / Full-time
-**📍 Domains**: IT Support, SaaS, eCommerce, Web Development  
+**📍 Domains**: IT, SaaS, eCommerce, Internal Tools, CMS Platforms
 
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 Strengths at a Glance
 
 ### 📃 Technical Documentation
 
-- Created in-depth **SOPs**, **endpoint recovery workflows**, and **ticketing playbooks** for the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]] IT team.
+- Authored SOPs, ticketing workflows, and recovery guides at the [[City of Fort Smith - IT Support Specialist|City of Fort Smith]] slashing support load and recovery time..
     
 - Wrote internal tech and user onboarding documentation for **[[Medtronic - Technical User Support Analyst|Medtronic]]’s field sales systems** using ServiceNow.
     
-- Developed **[[Whisper GUI - A User-Friendly Tool for Fast Transcriptions|Whisper GUI user documentation]]** complete with annotated visuals and tooltips.
+- Developed a **[[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions|Whisper GUI user documentation]]** complete with annotated visuals and tooltips.
     
-- Authored video and GIF walkthroughs using **Camtasia, Loom, and ScreenToGif**, used for async training and internal handoffs.
+- Authored video and GIF walkthroughs using **Camtasia, Loom, and ScreenToGif**, used for async training and internal handoffs for [[Clients and Projects/index|multiple freelance clients]].
     
 
-### ✍️ UX & Lifecycle Messaging
+### ✍️ UX Writing and Lifecycle Messaging
 
-- Designed high-retention onboarding email sequences for **Snappy Kraken** and **MentorPass**, aligning with SaaS behavior triggers.
+- Wrote onboarding and retention sequences for [[Onboarding UX Email Copywriter for Snappy Kraken|Snappy Kraken]] and [[Onboarding UX Email Copywriter for MentorPass|MentorPass]], reducing churn and supporting projected [[Onboarding UX Email Copywriter for Snappy Kraken#^0b25c6|$100K+ ARR gains]].
     
 - Strategized content and flows to reduce early churn, boost time-to-value, and lower support friction.
     
-- Crafted in-app UX copy, subject line variants, and user education emails across onboarding flows.
+- Created in-app messaging, tooltips, and onboarding content aligned with user behavior and product milestones.
+- Collaborated with devs and designers to ensure copy matched user intent, UI state, and product constraints.
     
 
 ### 🌐 Client-Facing Documentation
 
-- Delivered personalized **WordPress training docs**, **website management SOPs**, and **plugin usage guides** reducing client support needs and speeding up handoffs
+- Delivered fully personalized site management guides and plugin tutorials to non-technical clients through my past freelance business, [[Owner at Fancy Fox Creative|Fancy Fox Creative]].
 	
 - Developed reusable onboarding materials and step-by-step “how to edit your site” documentation.
 	
-- Used screen recordings and simplified interface language to make non-technical clients confident site owners.
+- Used screen recordings, simplified language, and CMS SOPs to make non-technical clients confident site owners.
         
 
 ---
 
-## [[Documentation and Dev Tools|Tool]] Proficiency
+## Tool Proficiency[^1]
 
 ### 📄 Documentation Systems
 
 - **Markdown** (daily use, with custom plugins in Obsidian)
     
-- **Obsidian** – Main knowledge system; integrates diagrams, templates, backlinks
+- **Obsidian** - Main knowledge system; integrates diagrams, templates, backlinks
     
-- **Notion** – SOPs, task databases, light wikis
+- **Notion** - SOPs, task databases, light wikis
     
 - **ServiceNow** - IT process wikis and collaborative project pages 
     
 
-### 🖼 Visuals & Diagrams
+### 🖼 Visuals and Diagrams
 
-- **Mermaid.js**, **Lucidchart**, **Draw.io**, **Whimsical**, **Figma** – for process flows, architecture diagrams, and user journey maps
+- **Mermaid.js**, **Lucidchart**, **Draw.io**, **Whimsical**, **Figma** - for process flows, architecture diagrams, and user journey maps
     
 
 ### 🎥 Visual Documentation
 
-- **Loom**, **Camtasia**, **ScreenToGif**, **Snagit**, **OBS Studio** – to deliver polished, clear video guides and GIFs
+- **Loom**, **Camtasia**, **ScreenToGif**, **Snagit**, **OBS Studio** - to deliver polished, clear video guides and GIFs
+    
+
+
+
+
+---
+
+## 🏆 Highlights and Wins
+
+* ✅ 85% faster system recovery with documented WDS flows at City of Fort Smith
+* ✅ 50% churn reduction + $100K ARR via UX content for Snappy Kraken
+* ✅ 10+ client sites launched with custom guides through Fancy Fox Creative
+* ✅ Faster field setup via PowerShell automation docs at Medtronic
     
 
 ---
 
-## 🏆 Highlights & Wins
+## 📄 Featured Work Samples
 
-- ✅ **Cut IT recovery time by 85%** with [[City of Fort Smith - IT Support Specialist|well-documented WDS automation flows]]
-    
-- ✅ **Reduced churn by 50%** and added $100K projected ARR with onboarding content at Snappy Kraken
-    
-- ✅ **Launched 10+ WordPress sites** [[Owner at Fancy Fox Creative|for clients]] and delivered personalized documentation for long-term autonomy
-    
-- ✅ **Streamlined field system setup** with PowerShell and tech onboarding guides at [[Medtronic - Technical User Support Analyst|Medtronic]]
-    
+### 🚀 Sample Technical Writing Guide
+
+**Whisper Desktop: A User-Friendly Tool for Fast Transcriptions**
+* Tutorial for casual users
+* Screenshots, clear language, minimal jargon
+🔗 [[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions|View Guide]]
+
+
+
+---
+## 🔧 Skills Breakdown[^2]
+
+| Category                | Skills                                                  |
+| ----------------------- | ------------------------------------------------------- |
+| Technical Writing       | IT SOPs, Recovery Docs, End-User Guides, Markdown Wikis |
+| UX Writing              | Onboarding Copy, In-App Messaging, Email Sequences      |
+| Customer Education      | Client Docs, Video Tutorials, Screen Capture How-To's   |
+| Visualization           | User Flows, Process Maps, Interface Diagrams            |
+| Ticketing/Support Tools | ServiceNow, OSTicket, Freshdesk, Jira, Zendesk          |
+| CMS Platforms           | WordPress, WooCommerce, Shopify, cPanel, Elementor      |
 
 ---
 
-## 🔧 [[Skills/index|Skills]] Breakdown
-
-| Category                                                                                         | Skills                                                  |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [[Writing and Marketing#Technical Writing\|Technical Writing]]                                   | IT SOPs, Recovery Docs, End-User Guides, Markdown Wikis |
-| [[Writing and Marketing#SaaS Onboarding and UX Copywriting\|UX Writing]]                         | Onboarding Copy, In-App Messaging, Email Sequences      |
-| [[Documentation and Dev Tools#🎥 Screen Capture & Video Documentation\|Customer Education]]      | Client Docs, Video Tutorials, Screen Capture How-To's   |
-| [[Documentation and Dev Tools#📊 Diagramming & Visualization\|Visualization]]                    | User Flows, Process Maps, Interface Diagrams            |
-| [[IT, Security, and Automation Tools#🧾 Ticketing & Help Desk Systems\|Ticketing/Support Tools]] | ServiceNow, OSTicket, Freshdesk, Jira, Zendesk          |
-| [[Content Management and SEO#🧱 Content Management Systems (CMS)\|CMS Platforms]]                | WordPress, WooCommerce, Shopify, cPanel, Elementor      |
-
----
-
-## 💬 Relevant [[Testimonials|Testimonials]]
+## 💬 Feedback from Clients and Colleagues[^3]
 *Here's what clients have said about my work*
+⚠ **Click each to expand**
 
 ![[Testimonials#^875f74]]
 ![[Testimonials#^565de5]]
@@ -124,6 +140,22 @@ My background bridges IT, SaaS, and eCommerce — with hands-on documentation de
 ![[Testimonials#^842221]]
 
 ---
-Looking for a technical or UX writer who can make your product easier to use, support, and sell? 
+## 🎯 Why Technical and UX Writing?
 
-**Let’s connect.** theaustinkelly(at)gmail.com
+I write because it solves problems. Writing is how I’ve clarified outages, empowered clients, and increased retention for SaaS platforms. Combining technical writing with UX flows allows me to support both internal operations and user-facing clarity, from backend docs to polished onboarding.
+
+---
+## 📫 Let’s Connect
+
+- 👉 Contact page: [[Contact]]
+- 📧 Email: `theaustinkelly(at)gmail.com 📋`
+- 🔗 LinkedIn: [linkedin.com/in/theakx](https://linkedin.com/in/theakx)
+- 💼 GitHub: [github.com/austinleekelly](https://github.com/austinleekelly)
+
+### Footnotes
+
+[^1]: For my full list of documentation and dev tools, see my [[Documentation and Dev Tools]] page.
+
+[^2]:  For my full list of my skills, see my [[Skills/index|Skills]] page.
+
+[^3]: For my full list of my testimonials, see my [[Testimonials]] page.

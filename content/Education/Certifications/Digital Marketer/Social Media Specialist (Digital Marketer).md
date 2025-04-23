@@ -1,8 +1,12 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:45:20 pm
+created: Tuesday, April 8th 2025, 5:11:51 pm
+Institution:
+  - Digital Marketer
 Issue Date: 2020-04-15
-tags: [Marketing, Social-Media]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Marketing
+  - Social-Media
 ---
 ## 📌 Summary
 
@@ -51,7 +55,7 @@ The **Social Media Mastery** course, offered by DigitalMarketer, provides a comp
     - Foster creativity in content ideation and development.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Social Media Management Tools:** Gain proficiency in using platforms for scheduling, monitoring, and analyzing social media content.​
     

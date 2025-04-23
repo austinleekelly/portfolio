@@ -1,10 +1,11 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Sunday, April 6th 2025, 6:08:10 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Google
 Issue Date: 2017-07-10
-tags: [Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -14,7 +15,7 @@ The **Fundamentals of Digital Marketing** course, offered by Google Digital Gara
 
 - **🏆 Certification:** Fundamentals of Digital Marketing
     
-- **🎓 Issuing Organization:** [Grow with Google - Training to Grow Your Business & Career](https://grow.google/)
+- **🎓 Issuing Organization:** [Grow with Google - Training to Grow Your Business and Career](https://grow.google/)
     
 - **📆 Date Earned:** 07/10/2017
     
@@ -63,7 +64,7 @@ The **Fundamentals of Digital Marketing** course, offered by Google Digital Gara
     - Improve communication skills for engaging with online audiences.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **SEO Tools:** Gain familiarity with tools and techniques for optimizing website content.​
     

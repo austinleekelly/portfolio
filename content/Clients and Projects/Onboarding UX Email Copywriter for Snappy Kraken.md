@@ -1,11 +1,17 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:23:19 pm
-_date modified: Tuesday, April 15th 2025, 10:52:28 am
-tags: [Case-Study, Email-Marketing, Freelance, Onboarding, SaaS, UX]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Case-Study
+  - Email-Marketing
+  - Freelance
+  - Onboarding
+  - SaaS
+  - UX
 ---
 ## 📌 Summary
 
-Reduced churn by 50% and added over **$100,000 in projected annual revenue** for **Snappy Kraken** through a strategically timed, high-impact email onboarding sequence. Boosted open rates and CTR significantly  -  without acquiring a single new customer.
+Reduced churn by 50% and added over **$100,000 in projected annual revenue** for **Snappy Kraken** through a strategically timed, high-impact email onboarding sequence. Boosted open rates and CTR significantly  -  without acquiring a single new customer. ^0b25c6
 
 ## 📂 Role Overview
 
@@ -13,7 +19,7 @@ Reduced churn by 50% and added over **$100,000 in projected annual revenue** for
     
 - **📆 Year:** February 2022 - March 2022
     
-- **🏢 Engagement:** Freelance – Conversion Copy & Strategy
+- **🏢 Engagement:** Freelance - Conversion Copy and Strategy
     
 - **📍 Industry:** SaaS (Financial Advisor Marketing Automation)
     
@@ -24,7 +30,7 @@ Reduced churn by 50% and added over **$100,000 in projected annual revenue** for
     
 - Audited all existing onboarding content and support documentation.
     
-- Designed an **8-email sequence** with tight alignment to **message–market–moment fit.**
+- Designed an **8-email sequence** with tight alignment to **message-market-moment fit.**
     
 - Wrote original onboarding emails with multiple variants for A/B testing.
     
@@ -46,7 +52,7 @@ Instead of discounting or tweaking pricing (a band-aid fix), we built an onboard
 
 ### 🔑 Messaging Focus
 
-- Reduce confusion → clarify expectations & next steps
+- Reduce confusion → clarify expectations and next steps
     
 - Reinforce value → show what’s possible
     
@@ -57,7 +63,7 @@ Instead of discounting or tweaking pricing (a band-aid fix), we built an onboard
 
 ## 🛠 Solutions Delivered
 
-1. **Discovery & Consulting:** Scoped user pain points & churn triggers
+1. **Discovery and Consulting:** Scoped user pain points and churn triggers
     
 2. **Onboarding Audit:** Reviewed all welcome, setup, and help flows
     

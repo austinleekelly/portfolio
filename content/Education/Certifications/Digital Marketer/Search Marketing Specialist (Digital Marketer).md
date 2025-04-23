@@ -1,8 +1,10 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:49:47 pm
+created: Tuesday, April 8th 2025, 5:46:04 pm
 Issue Date: 2020-04-15
-tags: [Marketing, SEO]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Marketing
+  - SEO
 ---
 ## 📌 Summary
 
@@ -52,7 +54,7 @@ The **Search Marketing Mastery** course, offered by DigitalMarketer, provides a 
     - Foster creativity in developing engaging content tailored to different search platforms.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Search Engine Optimization (SEO) Tools:** Gain proficiency in using tools for keyword research, on-page optimization, and performance tracking.​
     

@@ -1,6 +1,6 @@
 ---
-_date created: Friday, March 28th 2025, 8:56:29 am
-_date modified: Friday, March 28th 2025, 4:52:04 pm
+created: Wednesday, April 2nd 2025, 12:32:31 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: 👔 Work Experience
 ---
 > [!info] **What You'll Find Here:**  
@@ -16,21 +16,21 @@ title: 👔 Work Experience
 ## 🏛️ [[City of Fort Smith - IT Support Specialist]]  
 > Provided tech support for 1,000+ municipal employees and managed over 1,200 devices. Led IT projects, standardized processes, and deployed tools like PDQ, MDT, and WDS to improve uptime and efficiency.  
 > 
-*2011–2018 | Full-time | Fort Smith, AR*
+*2011-2018 | Full-time | Fort Smith, AR*
 
 ---
 
 ## 🏥 [[Medtronic - Technical User Support Analyst]]  
 > Provided endpoint support for a remote sales team, resolving hardware/software issues and collaborating with global IT teams to streamline troubleshooting workflows.  
 > 
-*2018–2019 | Full-time | Memphis, TN*
+*2018-2019 | Full-time | Memphis, TN*
 
 ---
 
 ## 📈 [[Fort Smith Chamber of Commerce - Directory of Information and Statistics]]  
 > Supported economic development and IT operations. Helped national brands assess relocation opportunities while managing systems, servers, and end-user tech for a small team.  
 > 
-*2007–2011 | Part-time → Full-time | Fort Smith, AR*
+*2007-2011 | Part-time → Full-time | Fort Smith, AR*
 
 ---
 ## 🏭 [[Rheem Manufacturing - IT Network Co-Op]]  
@@ -39,6 +39,6 @@ title: 👔 Work Experience
 *Summer 2008 | Part-time | Fort Smith, AR*
 
 ---
-## Freelance & Business Experience
+## Freelance and Business Experience
 
 I’ve also worked on **[[Clients and Projects/index|freelance projects]]** and [[Startups/index|founded]] and ran various businesses.

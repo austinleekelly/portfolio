@@ -1,12 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Saturday, April 5th 2025, 3:44:49 pm
 Certification ID: dtoh5taqms3k
 Certification Link: https://verify.skilljar.com/c/dtoh5taqms3k
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Klaviyo
 Issue Date: 2022-04-20
-tags: [Email-Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Email-Marketing
 ---
 ## 📌 Summary
 
@@ -23,13 +24,13 @@ The **Klaviyo Product Certification** is designed to empower individuals with co
 
 ## 🎯 Key Learning Outcomes
 
-- **Account Configuration & Integration** – _Set up Klaviyo account settings and integrate with existing technology stacks for seamless operations._
+- **Account Configuration and Integration** - _Set up Klaviyo account settings and integrate with existing technology stacks for seamless operations._
     
-- **Audience Growth & Segmentation** – _Develop strategies to grow subscriber lists and create targeted segments for personalized marketing._
+- **Audience Growth and Segmentation** - _Develop strategies to grow subscriber lists and create targeted segments for personalized marketing._
     
-- **Campaign Development & Automation** – _Design and automate email and SMS campaigns to enhance customer engagement and retention._
+- **Campaign Development and Automation** - _Design and automate email and SMS campaigns to enhance customer engagement and retention._
     
-- **Performance Analysis** – _Utilize Klaviyo's analytics tools to monitor campaign performance and inform strategic decisions._
+- **Performance Analysis** - _Utilize Klaviyo's analytics tools to monitor campaign performance and inform strategic decisions._
     
 
 ## 🚀 Skills Acquired
@@ -57,13 +58,13 @@ The **Klaviyo Product Certification** is designed to empower individuals with co
     - Analyze data to make informed marketing decisions and optimize campaigns.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Klaviyo Platform** – _Comprehensive marketing automation tool for email and SMS campaigns._
+- **Klaviyo Platform** - _Comprehensive marketing automation tool for email and SMS campaigns._
     
-- **Integration Tools** – _Experience with integrating Klaviyo with e-commerce platforms and other marketing tools._
+- **Integration Tools** - _Experience with integrating Klaviyo with e-commerce platforms and other marketing tools._
     
-- **Analytics Dashboards** – _Tools within Klaviyo for monitoring and reporting on campaign performance._
+- **Analytics Dashboards** - _Tools within Klaviyo for monitoring and reporting on campaign performance._
     
 
 ## 📜 Certification Details

@@ -1,7 +1,9 @@
 ---
-_date created: Wednesday, April 9th 2025, 3:13:53 pm
-_date modified: Wednesday, April 9th 2025, 3:21:31 pm
-tags: [Original, Writing]
+created: Wednesday, April 9th 2025, 3:13:53 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Original
+  - Writing
 title: "Action as Trust: Why Bold Moves Matter More Than Perfect Ideas"
 ---
 In today’s hyper-cognitive age, we reward thinkers and planners - but quietly revere those who _move_.
@@ -19,7 +21,7 @@ In Buddhist psychology, the _monkey mind_ leaps endlessly - grasping, spinning, 
 Nietzsche would call this the sickness of the modern man: **thinking as avoidance**, hiding behind reason to escape the burden of willing anything at all.
 
 > “He who has a why to live can bear almost any how.”  
-> – _Nietzsche_
+> - _Nietzsche_
 
 The monkey mind has no "why." Only commentary.
 

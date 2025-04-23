@@ -1,12 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Saturday, April 5th 2025, 3:47:24 pm
 Certification ID: 37atg8fxisqz
 Certification Link: https://verify.skilljar.com/c/37atg8fxisqz
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Klaviyo
 Issue Date: 2022-04-29
-tags: [Email-Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Email-Marketing
 ---
 ## 📌 Summary
 
@@ -23,11 +24,11 @@ The **Klaviyo Sales Certification** is tailored for professionals aiming to effe
 
 ## 🎯 Key Learning Outcomes
 
-- **Strategic Service Positioning** – Learn to align your agency's offerings with Klaviyo's capabilities to meet client needs effectively.​
+- **Strategic Service Positioning** - Learn to align your agency's offerings with Klaviyo's capabilities to meet client needs effectively.​
     
-- **Client Discovery & Needs Assessment** – Develop skills to conduct thorough client assessments to tailor solutions that drive value.​
+- **Client Discovery and Needs Assessment** - Develop skills to conduct thorough client assessments to tailor solutions that drive value.​
     
-- **Sales Process Management** – Master techniques for managing the sales cycle from initial contact to closing, ensuring successful outcomes.​
+- **Sales Process Management** - Master techniques for managing the sales cycle from initial contact to closing, ensuring successful outcomes.​
     
 
 ## 🚀 Skills Acquired
@@ -51,13 +52,13 @@ The **Klaviyo Sales Certification** is tailored for professionals aiming to effe
     - Build and maintain strong client relationships, fostering trust and long-term partnerships.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Klaviyo Marketing Platform** – Utilize Klaviyo's suite of marketing automation tools to craft personalized client solutions.​
+- **Klaviyo Marketing Platform** - Utilize Klaviyo's suite of marketing automation tools to craft personalized client solutions.​
     
-- **CRM Systems** – Manage client interactions and sales pipelines effectively, integrating with Klaviyo's platform.​
+- **CRM Systems** - Manage client interactions and sales pipelines effectively, integrating with Klaviyo's platform.​
     
-- **Sales Analytics Tools** – Analyze sales performance metrics to refine strategies and achieve targets.​
+- **Sales Analytics Tools** - Analyze sales performance metrics to refine strategies and achieve targets.​
     
 
 ## 📜 Certification Details

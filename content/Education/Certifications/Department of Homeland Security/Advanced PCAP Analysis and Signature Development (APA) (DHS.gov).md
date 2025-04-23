@@ -1,11 +1,13 @@
 ---
-_date created: Thursday, April 3rd 2025, 7:38:41 pm
-_date modified: Friday, April 4th 2025, 3:56:39 pm
+created: Thursday, April 3rd 2025, 7:38:41 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -24,13 +26,13 @@ _This course focuses on advanced packet capture (PCAP) analysis and signature de
 
 ## 🎯 Key Learning Outcomes
 
-- **Signature Writing** – _Learn how to write Snort/Sourcefire rules and regular expressions._
+- **Signature Writing** - _Learn how to write Snort/Sourcefire rules and regular expressions._
     
-- **Signature Evaluation** – _Identify poorly written signatures and understand how to improve them._
+- **Signature Evaluation** - _Identify poorly written signatures and understand how to improve them._
     
-- **PCAP and Malware Analysis** – _Analyze PCAP data and malware reports to create actionable alerts and responses._
+- **PCAP and Malware Analysis** - _Analyze PCAP data and malware reports to create actionable alerts and responses._
     
-- **Alert Creation** – _Develop alerts based on PCAP and malware analysis for incident response._
+- **Alert Creation** - _Develop alerts based on PCAP and malware analysis for incident response._
     
 
 ## 🚀 Skills Acquired
@@ -42,11 +44,11 @@ _This course focuses on advanced packet capture (PCAP) analysis and signature de
 - **Soft Skills:** Incident response, cyber defense analysis, exploitation analysis
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Snort/Sourcefire** – _Write and analyze signatures for network security._
+- **Snort/Sourcefire** - _Write and analyze signatures for network security._
     
-- **PCAP Analysis Tools** – _Utilize PCAP data to identify threats and create alerts._
+- **PCAP Analysis Tools** - _Utilize PCAP data to identify threats and create alerts._
     
 
 ### 🗺 **NICE Framework Domains**

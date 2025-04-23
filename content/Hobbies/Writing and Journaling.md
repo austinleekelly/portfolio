@@ -1,10 +1,11 @@
 ---
-_date created: Wednesday, March 26th 2025, 2:50:33 pm
-_date modified: Thursday, April 10th 2025, 5:29:23 pm
-tags: [Writing]
+created: Wednesday, April 2nd 2025, 12:32:30 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Writing
 title: ✍ Writing and Journaling
 ---
-## Writing & Journaling: A Path to Clarity and Discipline
+## Writing and Journaling: A Path to Clarity and Discipline
 
 Writing has always been a way for me to gain clarity, reflect on my thoughts, and stay disciplined. 
 
@@ -12,12 +13,12 @@ While I do enjoy dabbling in fiction, journaling has become my primary method fo
 
 It’s a way to explore my thoughts, track my progress, and stay on top of important areas of my life.
 
-### Why I Write & Journal
+### Why I Write and Journal
 
 - **Clarity of Thought:**  
     Journaling helps me sort through my thoughts and feelings, giving me a clearer picture of what's on my mind. It’s a space where I can question myself, my goals, and my actions, allowing me to process difficult emotions and complex situations.
     
-- **Weekly & Monthly Reviews:**  
+- **Weekly and Monthly Reviews:**  
     I use journaling to stay disciplined and track my progress in different areas of my life. My weekly and monthly reviews are a time for reflection - what worked, what didn’t, and where I can improve. These reviews help me stay on course and ensure I’m moving toward my goals.
     
 - **Answering Tough Questions:**  

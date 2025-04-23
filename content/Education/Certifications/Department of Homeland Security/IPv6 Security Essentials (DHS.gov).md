@@ -1,12 +1,14 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 5:56:20 pm
+created: Friday, April 4th 2025, 5:53:14 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-08
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -25,11 +27,11 @@ _The IPv6 Security Essentials course provides an in-depth look at IPv6 architect
 
 ## 🎯 Key Learning Outcomes
 
-- **IPv6 Fundamentals** – _Understand IPv6 addressing and its deployment status across networks._
+- **IPv6 Fundamentals** - _Understand IPv6 addressing and its deployment status across networks._
     
-- **Security Threats** – _Identify and assess common IPv6-specific security threats involving ICMPv6, DHCPv6, and DNSv6._
+- **Security Threats** - _Identify and assess common IPv6-specific security threats involving ICMPv6, DHCPv6, and DNSv6._
     
-- **Mitigation Strategies** – _Learn defense strategies for securing IPv6-enabled environments and managing transition mechanisms securely._
+- **Mitigation Strategies** - _Learn defense strategies for securing IPv6-enabled environments and managing transition mechanisms securely._
     
 
 ## 🚀 Skills Acquired
@@ -41,11 +43,11 @@ _The IPv6 Security Essentials course provides an in-depth look at IPv6 architect
 - **Soft Skills:** Analytical thinking, protocol evaluation, risk assessment
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **IPv6 Networking Protocols** – _ICMPv6, DHCPv6, DNSv6, IPv6 Transition Mechanisms_
+- **IPv6 Networking Protocols** - _ICMPv6, DHCPv6, DNSv6, IPv6 Transition Mechanisms_
     
-- **Security Management Tools** – _Monitoring and defensive strategy planning for IPv6 networks_
+- **Security Management Tools** - _Monitoring and defensive strategy planning for IPv6 networks_
     
 
 ### 🗺 **NICE Framework Domains**

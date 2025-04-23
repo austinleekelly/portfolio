@@ -1,14 +1,16 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Friday, April 4th 2025, 4:02:43 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Design and Development
   - Implementation and Operations
   - Oversight and Governance
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -27,11 +29,11 @@ _The Critical Infrastructure Protection course provides essential knowledge on d
 
 ## 🎯 Key Learning Outcomes
 
-- **Critical Infrastructure Definition** – _Understand what constitutes critical infrastructure and its importance._
+- **Critical Infrastructure Definition** - _Understand what constitutes critical infrastructure and its importance._
     
-- **Cybersecurity Threats** – _Identify and analyze cybersecurity threats to critical infrastructure._
+- **Cybersecurity Threats** - _Identify and analyze cybersecurity threats to critical infrastructure._
     
-- **Cybersecurity Policies & Roles** – _Learn about U.S. cybersecurity policies and the roles of federal agencies like DHS._
+- **Cybersecurity Policies and Roles** - _Learn about U.S. cybersecurity policies and the roles of federal agencies like DHS._
     
 
 ## 📘 Curriculum Overview
@@ -47,10 +49,10 @@ Explores critical infrastructure, common cybersecurity threats, and ongoing prot
 - **Soft Skills:** Analytical thinking, understanding of federal cybersecurity initiatives
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 
-- **Cybersecurity Policies** – _Familiarity with U.S. policies governing critical infrastructure protection._
+- **Cybersecurity Policies** - _Familiarity with U.S. policies governing critical infrastructure protection._
     
 ### 🗺 **NICE Framework Domains**
 

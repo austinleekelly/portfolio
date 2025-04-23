@@ -1,10 +1,11 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Sunday, April 6th 2025, 5:18:02 pm
+created: Sunday, April 6th 2025, 5:16:33 pm
 Institution:
   - FEMA
 Issue Date: 2017-10-22
-tags: [Cybersecurity]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Cybersecurity
 ---
 ## 📌 Summary
 
@@ -48,7 +49,7 @@ The **IS-453: Introduction to Homeland Security Planning** course, offered by th
     - Develop an awareness of the collaborative nature of homeland security efforts.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Planning Frameworks:** Familiarity with frameworks and guidelines pertinent to homeland security planning.​
     

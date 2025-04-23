@@ -1,7 +1,8 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Monday, March 31st 2025, 11:37:34 am
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Hubspot
 Issue Date: 10-12-2017
-tags: [Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Marketing
 ---

@@ -1,12 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Saturday, April 5th 2025, 5:12:48 pm
 Certification ID: kmn4w4w6um44
 Certification Link: https://verify.skilljar.com/c/kmn4w4w6um44
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Klaviyo
 Issue Date: 2022-05-23
-tags: [Email-Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Email-Marketing
 ---
 ## 📌 Summary
 
@@ -23,13 +24,13 @@ The **Klaviyo SMS Agency Certification** is designed for agencies, consultants, 
 
 ## 🎯 Key Learning Outcomes
 
-- **SMS Strategy Development** – Learn to create SMS marketing strategies that align with client goals and enhance customer experiences.
+- **SMS Strategy Development** - Learn to create SMS marketing strategies that align with client goals and enhance customer experiences.
     
-- **Omnichannel Integration** – Understand how to incorporate SMS into broader marketing strategies, ensuring cohesive and effective campaigns.​
+- **Omnichannel Integration** - Understand how to incorporate SMS into broader marketing strategies, ensuring cohesive and effective campaigns.​
     
-- **Audience Growth & Segmentation** – Develop techniques to expand SMS subscriber lists and segment audiences for targeted messaging.​
+- **Audience Growth and Segmentation** - Develop techniques to expand SMS subscriber lists and segment audiences for targeted messaging.​
     
-- **Compliance & Best Practices** – Gain knowledge of SMS compliance requirements and best practices to maintain a positive brand reputation.​
+- **Compliance and Best Practices** - Gain knowledge of SMS compliance requirements and best practices to maintain a positive brand reputation.​
     
 
 ## 🚀 Skills Acquired
@@ -53,11 +54,11 @@ The **Klaviyo SMS Agency Certification** is designed for agencies, consultants, 
     - Analyze campaign performance and adjust strategies to optimize results.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Klaviyo SMS Marketing** – Utilize Klaviyo's SMS marketing tools to create, manage, and analyze SMS campaigns.​
+- **Klaviyo SMS Marketing** - Utilize Klaviyo's SMS marketing tools to create, manage, and analyze SMS campaigns.​
     
-- **Compliance Management Tools** – Ensure adherence to SMS marketing regulations and best practices.​
+- **Compliance Management Tools** - Ensure adherence to SMS marketing regulations and best practices.​
     
 
 ## 📜 Certification Details

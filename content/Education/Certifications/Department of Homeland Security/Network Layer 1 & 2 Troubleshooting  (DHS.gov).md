@@ -1,19 +1,21 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 6:06:34 pm
+created: Friday, April 4th 2025, 6:04:44 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-08
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
-_The Network Layer 1 & 2 Troubleshooting course provides an introduction to troubleshooting methods for the Physical and Data Link layers of the OSI Model. It covers how to detect, trace, and resolve network connectivity issues, with a focus on the devices, signaling, and cabling that operate at these layers._
+_The Network Layer 1 and 2 Troubleshooting course provides an introduction to troubleshooting methods for the Physical and Data Link layers of the OSI Model. It covers how to detect, trace, and resolve network connectivity issues, with a focus on the devices, signaling, and cabling that operate at these layers._
 
 ## 📂 Certification Overview
 
-- **🏆 Certification:** Network Layer 1 & 2 Troubleshooting
+- **🏆 Certification:** Network Layer 1 and 2 Troubleshooting
     
 - **🎓 Issuing Organization:** [Department of Homeland Security](https://www.dhs.gov/)
     
@@ -24,11 +26,11 @@ _The Network Layer 1 & 2 Troubleshooting course provides an introduction to trou
 
 ## 🎯 Key Learning Outcomes
 
-- **OSI Model Overview** – _Gain a basic understanding of the components and functions of Layers 1 and 2 of the OSI model._
+- **OSI Model Overview** - _Gain a basic understanding of the components and functions of Layers 1 and 2 of the OSI model._
     
-- **Layer 1 & 2 Troubleshooting** – _Learn to identify and troubleshoot common issues in the Physical and Data Link layers._
+- **Layer 1 and 2 Troubleshooting** - _Learn to identify and troubleshoot common issues in the Physical and Data Link layers._
     
-- **Troubleshooting Methods** – _Apply techniques to resolve connectivity problems and identify solutions for network issues at these layers._
+- **Troubleshooting Methods** - _Apply techniques to resolve connectivity problems and identify solutions for network issues at these layers._
     
 
 ## 🚀 Skills Acquired
@@ -40,11 +42,11 @@ _The Network Layer 1 & 2 Troubleshooting course provides an introduction to trou
 - **Soft Skills:** Analytical thinking, problem-solving, customer service in technical support
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Network Testing Tools** – _Tools for detecting and resolving issues at Layers 1 and 2 of the OSI model._
+- **Network Testing Tools** - _Tools for detecting and resolving issues at Layers 1 and 2 of the OSI model._
     
-- **Network Devices** – _Devices like switches, cables, and network interfaces operating at these layers._
+- **Network Devices** - _Devices like switches, cables, and network interfaces operating at these layers._
     
 
 ### 🗺 **NICE Framework Domains**
@@ -54,4 +56,4 @@ _The Network Layer 1 & 2 Troubleshooting course provides an introduction to trou
 
 ## 📜 Certification Details
 
-- **Verification Link:** [[(DHS) Network Layer 1 & 2 Troubleshooting - 3 Hours.pdf|Network Layer 1 & 2 Troubleshooting]]
+- **Verification Link:** [[(DHS) Network Layer 1 and 2 Troubleshooting - 3 Hours.pdf|Network Layer 1 and 2 Troubleshooting]]

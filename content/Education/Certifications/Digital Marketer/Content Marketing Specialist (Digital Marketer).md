@@ -1,8 +1,10 @@
 ---
-_date created: Tuesday, April 8th 2025, 3:26:21 pm
-_date modified: Tuesday, April 8th 2025, 5:44:01 pm
+created: Tuesday, April 8th 2025, 3:26:21 pm
 Issue Date: 2020-04-15
-tags: [Content-Marketing, Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Content-Marketing
+  - Marketing
 ---
 ## 📌 Summary
 
@@ -54,7 +56,7 @@ The **Content Marketing Mastery** course, offered by DigitalMarketer, provides a
     - Foster creativity in content ideation and development.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
 - **Content Management Systems (CMS):** Gain proficiency in using platforms for content creation and distribution.​
     

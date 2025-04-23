@@ -1,12 +1,13 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Saturday, April 5th 2025, 5:07:50 pm
 Certification ID: 6jetswiumim9
 Certification Link: https://verify.skilljar.com/c/6jetswiumim9
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Klaviyo
 Issue Date: 05-05-2022
-tags: [Email-Marketing]
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
+tags:
+  - Email-Marketing
 ---
 ## 📌 Summary
 
@@ -23,13 +24,13 @@ The **Klaviyo Systems Integrator Certification** is designed for agencies, consu
 
 ## 🎯 Key Learning Outcomes
 
-- **Integration Strategy Development** – Learn to design and implement integration strategies that align with client objectives and enhance operational efficiency.​
+- **Integration Strategy Development** - Learn to design and implement integration strategies that align with client objectives and enhance operational efficiency.​
     
-- **API Proficiency** – Gain expertise in utilizing Klaviyo's APIs to create custom integrations, ensuring seamless data flow between systems.​
+- **API Proficiency** - Gain expertise in utilizing Klaviyo's APIs to create custom integrations, ensuring seamless data flow between systems.​
     
-- **Client Needs Assessment** – Develop skills to assess client requirements effectively, tailoring integration solutions that deliver maximum value.
+- **Client Needs Assessment** - Develop skills to assess client requirements effectively, tailoring integration solutions that deliver maximum value.
     
-- **Compliance & Best Practices** – Understand and apply integration best practices and compliance standards to maintain robust and secure solutions.
+- **Compliance and Best Practices** - Understand and apply integration best practices and compliance standards to maintain robust and secure solutions.
     
 
 ## 🚀 Skills Acquired
@@ -53,13 +54,13 @@ The **Klaviyo Systems Integrator Certification** is designed for agencies, consu
     - Collaborate effectively with client teams to ensure successful integration outcomes.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Klaviyo APIs** – Utilize Klaviyo's APIs for custom integration development.
+- **Klaviyo APIs** - Utilize Klaviyo's APIs for custom integration development.
     
-- **Integration Platforms** – Work with various platforms to ensure seamless data flow with Klaviyo.​
+- **Integration Platforms** - Work with various platforms to ensure seamless data flow with Klaviyo.​
     
-- **Developer Tools** – Leverage Klaviyo's developer resources to build and troubleshoot integrations.​
+- **Developer Tools** - Leverage Klaviyo's developer resources to build and troubleshoot integrations.​
     
 
 ## 📜 Certification Details

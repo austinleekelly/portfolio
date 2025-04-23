@@ -1,6 +1,6 @@
 ---
-_date created: Thursday, April 10th 2025, 2:04:52 pm
-_date modified: Thursday, April 10th 2025, 2:05:20 pm
+created: Thursday, April 10th 2025, 2:04:52 pm
+modified: Wednesday, April 23rd 2025, 2:05:07 pm
 title: 💼 General Skills
 ---
 

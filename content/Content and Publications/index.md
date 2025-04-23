@@ -1,6 +1,6 @@
 ---
-_date created: Wednesday, April 9th 2025, 6:38:45 pm
-_date modified: Wednesday, April 9th 2025, 6:38:52 pm
+created: Wednesday, April 9th 2025, 6:38:45 pm
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 title: 📰 Content and Publications
 ---
 > [!info] **What You'll Find Here**  
@@ -25,7 +25,7 @@ Documentation, user manuals, and step-by-step guides for software products and p
 Published articles on external platforms, covering topics ranging from tech trends to marketing strategies.  
 *Examples: eCommerce tools and strategies, Software comparisons
 
-### [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)|Portfolio Design]]  
+### [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)|Portfolio Design]]  
 A detailed look at how I designed and structured this portfolio to highlight my work, design decisions, and technical setup.
 
 ### [Email Marketing](./Email%20Marketing/index.md)  
@@ -33,7 +33,7 @@ A collection of email marketing campaigns, including sequences, strategies, and 
 
 ---
 
-# 🖋️ Niches & Industries I've Written About
+# 🖋️ Niches and Industries I've Written About
 
 Over the years, I’ve written for a wide range of industries - from SaaS startups to niche eCommerce brands to personal development creators. Below is a categorized snapshot of the verticals I’ve worked in.
 
@@ -96,7 +96,7 @@ Created funnels and prospecting assets for:
 
 Helped individual creators and microbusinesses refine their message and build authority, including:
 
-- Business & life coaches
+- Business and life coaches
 - Content creators
 - Influencers and personal brands
 

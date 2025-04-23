@@ -1,10 +1,11 @@
 ---
-_date created: Saturday, March 29th 2025, 4:56:12 pm
-_date modified: Sunday, April 6th 2025, 5:08:00 pm
+created: Saturday, April 5th 2025, 5:22:09 pm
 Institution:
   - FEMA
 Issue Date: 2017-10-22
-tags: [Cert-Management]
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
+tags:
+  - Cert-Management
 ---
 ## 📌 Summary
 
@@ -21,11 +22,11 @@ The **IS-242.B: Effective Communication** course, offered by the Federal Emergen
 
 ## 🎯 Key Learning Outcomes
 
-- **Communication Fundamentals** – Understand basic communication skills, including listening, nonverbal cues, vocal factors, and audience engagement. ​
+- **Communication Fundamentals** - Understand basic communication skills, including listening, nonverbal cues, vocal factors, and audience engagement. ​
     
-- **Emergency Communication Strategies** – Develop strategies to ensure emergency communications meet the needs of the whole community, including individuals with access and functional needs. 
+- **Emergency Communication Strategies** - Develop strategies to ensure emergency communications meet the needs of the whole community, including individuals with access and functional needs. 
     
-- **Effective Oral Communication** – Identify methods to improve oral presentation skills, including preparation and delivery techniques suitable for emergency situations. ​
+- **Effective Oral Communication** - Identify methods to improve oral presentation skills, including preparation and delivery techniques suitable for emergency situations. ​
     
 
 ## 🚀 Skills Acquired
@@ -49,11 +50,11 @@ The **IS-242.B: Effective Communication** course, offered by the Federal Emergen
     - Enhance public speaking abilities for effective information dissemination.
         
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Communication Platforms** – Utilize various media, including social media, to disseminate emergency information.​
+- **Communication Platforms** - Utilize various media, including social media, to disseminate emergency information.​
     
-- **Presentation Software** – Create engaging presentations for public briefings and community meetings.
+- **Presentation Software** - Create engaging presentations for public briefings and community meetings.
 
 ## 📜 Certification Details
 

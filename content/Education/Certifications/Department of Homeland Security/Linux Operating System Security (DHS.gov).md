@@ -1,13 +1,15 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Friday, April 4th 2025, 3:58:31 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution: Department of Homeland Security
 Issue Date: 2018-01-03
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
   - Investigation
   - Protection and Defense
-tags: [Cybersecurity, IT]
+tags:
+  - Cybersecurity
+  - IT
 ---
 ## 📌 Summary
 
@@ -26,15 +28,15 @@ _The Linux Operating System Security course introduces key security features and
 
 ## 🎯 Key Learning Outcomes
 
-- **Linux System Architecture** – _Understand the basic architecture of a Linux system, including the kernel, file system formats, and permissions._
+- **Linux System Architecture** - _Understand the basic architecture of a Linux system, including the kernel, file system formats, and permissions._
     
-- **System Characterization** – _Learn to identify the distribution, installed packages, active accounts, and other system attributes._
+- **System Characterization** - _Learn to identify the distribution, installed packages, active accounts, and other system attributes._
     
-- **Command Line Utilities** – _Use common Linux command line utilities for analysis purposes._
+- **Command Line Utilities** - _Use common Linux command line utilities for analysis purposes._
     
-- **System Administration** – _Gain practical skills in patching, modifying services, and other essential administration tasks._
+- **System Administration** - _Gain practical skills in patching, modifying services, and other essential administration tasks._
     
-- **Incident Response** – _Perform malware and incident response analysis on a Linux system._
+- **Incident Response** - _Perform malware and incident response analysis on a Linux system._
     
 
 ## 🚀 Skills Acquired
@@ -46,11 +48,11 @@ _The Linux Operating System Security course introduces key security features and
 - **Soft Skills:** Problem-solving, system administration
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Red Hat Linux** – _Key distribution covered for security configurations._
+- **Red Hat Linux** - _Key distribution covered for security configurations._
     
-- **Linux Command Line** – _Essential for system analysis and security tasks._
+- **Linux Command Line** - _Essential for system analysis and security tasks._
     
 ### 🗺 **NICE Framework Domains**
  * **Investigation**

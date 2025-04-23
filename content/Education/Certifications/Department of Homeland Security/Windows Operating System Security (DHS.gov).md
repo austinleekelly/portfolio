@@ -1,13 +1,16 @@
 ---
-_date created: Wednesday, April 2nd 2025, 12:32:30 pm
-_date modified: Monday, April 14th 2025, 6:10:04 pm
+created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Department of Homeland Security
 Issue Date: 2018-01-04
+modified: Wednesday, April 23rd 2025, 2:05:08 pm
 NICE Framework Domains:
   - Implementation and Operations
   - Protection and Defense
-tags: [Cybersecurity, IT, Windows]
+tags:
+  - Cybersecurity
+  - IT
+  - Windows
 ---
 ## 📌 Summary
 
@@ -26,13 +29,13 @@ _This course covers the security aspects of Microsoft Windows, including the sec
 
 ## 🎯 Key Learning Outcomes
 
-- **Windows Security Model & Key Components** – _Gain a solid understanding of the Windows security model and key components like processes, drivers, and the Windows registry._
+- **Windows Security Model and Key Components** - _Gain a solid understanding of the Windows security model and key components like processes, drivers, and the Windows registry._
     
-- **Users & Group Permissions** – _Learn how to configure and manage users and groups in Windows for optimal security._
+- **Users and Group Permissions** - _Learn how to configure and manage users and groups in Windows for optimal security._
     
-- **Common Attacks in Windows** – _Identify common security attacks seen in Windows environments and how to mitigate them._
+- **Common Attacks in Windows** - _Identify common security attacks seen in Windows environments and how to mitigate them._
     
-- **Patching & Security Features** – _Understand the Microsoft update and patching process, as well as built-in security tools like Windows firewall, anti-malware, and BitLocker._
+- **Patching and Security Features** - _Understand the Microsoft update and patching process, as well as built-in security tools like Windows firewall, anti-malware, and BitLocker._
     
 
 ## 🚀 Skills Acquired
@@ -44,11 +47,11 @@ _This course covers the security aspects of Microsoft Windows, including the sec
 - **Soft Skills:** Systems administration, security analysis, vulnerability management
     
 
-### 💻 **Tools & Technologies**
+### 💻 **Tools and Technologies**
 
-- **Windows Security Tools** – _Utilize Windows' built-in security features (firewall, anti-malware, BitLocker) for protecting systems._
+- **Windows Security Tools** - _Utilize Windows' built-in security features (firewall, anti-malware, BitLocker) for protecting systems._
     
-- **Patching & Updates** – _Apply best practices for patch management and security updates._
+- **Patching and Updates** - _Apply best practices for patch management and security updates._
     
 ### 🗺 **NICE Framework Domains**
 
