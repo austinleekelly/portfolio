@@ -58,26 +58,15 @@ Whether writing recovery SOPs for an IT team or designing onboarding sequences f
 ### 📄 Documentation Systems
 
 - **Markdown** (daily use, with custom plugins in Obsidian)
-    
 - **Obsidian** - Main knowledge system; integrates diagrams, templates, backlinks
-    
 - **Notion** - SOPs, task databases, light wikis
-    
 - **ServiceNow** - IT process wikis and collaborative project pages 
-    
-
 ### 🖼 Visuals and Diagrams
 
 - **Mermaid.js**, **Lucidchart**, **Draw.io**, **Whimsical**, **Figma** - for process flows, architecture diagrams, and user journey maps
-    
-
 ### 🎥 Visual Documentation
 
 - **Loom**, **Camtasia**, **ScreenToGif**, **Snagit**, **OBS Studio** - to deliver polished, clear video guides and GIFs
-    
-
-
-
 
 ---
 
@@ -87,7 +76,6 @@ Whether writing recovery SOPs for an IT team or designing onboarding sequences f
 * ✅ 50% churn reduction + $100K ARR via UX content for Snappy Kraken
 * ✅ 10+ client sites launched with custom guides through Fancy Fox Creative
 * ✅ Faster field setup via PowerShell automation docs at Medtronic
-    
 
 ---
 
@@ -99,7 +87,6 @@ Whether writing recovery SOPs for an IT team or designing onboarding sequences f
 * Tutorial for casual users
 * Screenshots, clear language, minimal jargon
 🔗 [[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions|View Guide]]
-
 
 
 ---

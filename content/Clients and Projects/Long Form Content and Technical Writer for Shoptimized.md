@@ -7,7 +7,7 @@ Applicable Certifications:
   - "[[Project Management (Alison)]]"
   - "[[Scrum Fundamentals Certified (SMstudy)]]"
 created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+modified: Wednesday, April 23rd 2025, 4:36:52 pm
 Skills Utilized:
   - Conversion Rate Optimization (CRO)
   - Copywriting for Ecommerce
@@ -31,18 +31,7 @@ Software:
   - Shopify
   - Snagit
   - WordPress
-tags:
-  - Content-Strategy
-  - Copywriting
-  - CRO
-  - Ecommerce
-  - Long-Form-Content
-  - Onboarding
-  - SaaS
-  - SEO
-  - Shopify
-  - Technical-Writing
-  - UX
+tags: [Content-Strategy, Copywriting, CRO, Ecommerce, Long-Form-Content, Onboarding, SaaS, SEO, Shopify, Startup, Technical-Writing, UX]
 YAML Updated: 2025-04-23
 ---
 ## 📌 Project Summary

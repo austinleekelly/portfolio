@@ -2,7 +2,7 @@
 Company:
   - Shoptimized
 created: Tuesday, April 15th 2025, 1:39:45 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+modified: Wednesday, April 23rd 2025, 4:36:33 pm
 Skills Utilized:
   - Business Brokering and Due Dilligence
   - Client Relationship Management
@@ -16,20 +16,7 @@ Software:
   - Google Analytics
   - Shopify
   - ThriveCart
-tags:
-  - Business-Broker
-  - Business-Exit
-  - Consulting
-  - Copywriting
-  - Ecommerce
-  - Knowledge-Management
-  - Marketing
-  - Project-Management
-  - Research
-  - SaaS
-  - Sales-Copywriter
-  - Shopify
-  - Stakeholder-Management
+tags: [Business-Broker, Business-Exit, Consulting, Copywriting, Ecommerce, Knowledge-Management, Marketing, Project-Management, Research, SaaS, Sales-Copywriter, Shopify, Stakeholder-Management, Startup]
 YAML Updated: 2025-04-23
 ---
 ## 📌 Project Summary

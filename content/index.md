@@ -6,29 +6,49 @@ title: Austin Kelly
 # **👋 Welcome!**
 
 ![[me.png|250]]
-> [!warning] Your patience is appreciated
-> I'm always adding, linking, and refining this site. Some site functionality may be missing or not behaving as expected. If there's something specific you're looking for, [[Contact|contact me here]].  
 
-Hi, I’m **Austin Kelly** - a problem-solver at the intersection of **IT, content, and automation**.
+> [!warning] Your patience is appreciated  
+> This site is constantly evolving. Some links or pages might be in progress. If you’re looking for something specific, [[Contact|contact me here]].
 
-With a background in **IT Support** and **Freelance Writing (Technical, Content, and Copywriting),** I’ve worked across **corporate, government, SaaS, and ecommerce** industries. Along the way, I’ve developed a strong foundation in **technical problem-solving, workflow optimization, and content strategy**.
+Hi, I’m **Austin Kelly** — a **strong communicator and systems thinker** at the intersection of **IT, content, and automation**.
 
-This portfolio highlights my **experience, projects, and skills** - showcasing how I bring structured solutions to both technical and creative challenges. Feel free to explore!
+With a background in **technical support and freelance writing**—including **technical documentation, content strategy, and direct-response copywriting**—I’ve worked across **corporate, government, SaaS, and ecommerce** sectors. I specialize in turning complex ideas into clear, usable content that improves workflows, educates users, and supports product goals.
 
-- 🖥️ **[[Work Experience/index|Professional Experience]]** - Roles in IT support, automation, and problem-solving.
-- 💼 **[[Clients and Projects/index|Freelance and Consulting]]** - Various projects and business ventures in content, technology, and strategy.
-- 📜 **[[Education/Certifications/index|Certifications and Training]]** - Industry-recognized credentials and courses.
-- 🎓 **[[Education/index|Education]]** - Academic background and relevant coursework.
-- ⭐ **[[Testimonials]]** - Insights from colleagues, clients, and collaborators.
-- 📢 **[[Volunteering|Community and Volunteer Work]]** - Contributions to education, mentorship, and advocacy.
-- 🛠️ **[[Skills/index|Skills and Expertise]]** - Technical, analytical, and creative problem-solving abilities.
-- 💻 **[[Software/index|Tools and Technology]]** - Platforms, programming, and automation tools.
-- 🎨 **[[Hobbies/index|Personal and Creative Interests]]** - Explorations in technology, creativity, and lifelong learning.
-
-You can also explore by [[tags/|tagged content]] or use the search bar near the top.
-
-✉ If you want to reach out feel free to [[Contact|contact me here]].
+This portfolio highlights my **experience, writing samples, and project work**—demonstrating how I combine practical tech skills with sharp, audience-aware writing.
 
 ---
 
-🧠 **P.S.** Also, you might be interested in how I built this site: [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)]].
+## 🧭 Explore the Portfolio
+
+- 🖥️ **[[Work Experience/index|Professional Experience]]** – Roles in IT support, automation, writing, and operations.
+    
+- ✍️ **[[Content and Publications/index|Content and Publications]]** – A selection of articles, technical documentation, and marketing assets I’ve written or contributed to.
+    
+- 🔍 **[[Role Pages/index|Role Pages]]** – Focused breakdowns of my fit for specific job types, including  
+    → 📘 **[[Role Pages/Technical-UX Writer|Technical Writer / UX Writer]]**
+    
+- 💼 **[[Clients and Projects/index|Freelance and Consulting]]** – Projects involving content development, documentation systems, and digital strategy.
+    
+- 🚀 **[[Startups/index|Startups]]** – Small businesses and ventures I’ve launched or co-managed, building skills in communication, strategy, and self-management.
+    
+- ⭐ **[[Testimonials]]** – Feedback from coworkers, collaborators, and clients.
+    
+- 🛠️ **[[Skills/index|Skills and Expertise]]** – Core capabilities across writing, technology, and operations.
+    
+- 💻 **[[Software/index|Tools and Technology]]** – Tools I use for documentation, automation, and content delivery.
+    
+- 📜 **[[Education/Certifications/index|Certifications and Training]]** – Professional development across writing, project management, marketing, and cybersecurity.
+    
+- 🎓 **[[Education/index|Education]]** – Academic background and relevant coursework.
+    
+- 📢 **[[Volunteering|Community and Volunteer Work]]** – Contributions to education, mentoring, and advocacy.
+    
+- 🎨 **[[Hobbies/index|Personal and Creative Interests]]** – Tech DIY, creativity, and lifelong learning.
+
+You can also explore by [[tags/|tagged content]] or use the search bar near the top.
+
+✉ Curious about working together? [[Contact|Get in touch here]].
+
+---
+
+🧠 **P.S.** Curious how this site was built? See: [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)]]

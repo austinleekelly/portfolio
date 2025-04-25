@@ -1,6 +1,6 @@
 ---
 created: Monday, April 14th 2025, 12:27:06 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+modified: Wednesday, April 23rd 2025, 4:36:05 pm
 Skills Utilized:
   - Adaptability and Learning
   - Client Relationship Management
@@ -27,18 +27,7 @@ Software:
   - WooCommerce
   - WordPress
   - Yoast
-tags:
-  - Client-Management
-  - Content-Strategy
-  - Copywriting
-  - Ecommerce
-  - Knowledge-Management
-  - Owner
-  - Project-Management
-  - Technical-Writing
-  - UX
-  - Web-Design
-  - Web-Development
+tags: [Client-Management, Content-Strategy, Copywriting, Ecommerce, Knowledge-Management, Owner, Project-Management, Startup, Technical-Writing, UX, Web-Design, Web-Development]
 YAML Updated: 2025-04-23
 ---
 ## 📌 Summary

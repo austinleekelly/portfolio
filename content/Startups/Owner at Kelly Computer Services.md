@@ -1,6 +1,6 @@
 ---
 created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+modified: Wednesday, April 23rd 2025, 4:36:29 pm
 Skills Utilized:
   - Adaptability and Learning
   - Client Relationship Management
@@ -27,20 +27,7 @@ Software:
   - TeamViewer
   - Windows OS
   - Windows Repair Suites
-tags:
-  - Client-Management
-  - Customer-Support
-  - Disaster-Recovery
-  - Hardware-Diagnostics
-  - Incident-Management
-  - IT
-  - IT-Support
-  - macOS-Support
-  - Owner
-  - SOP-Documentation
-  - Technical-Training
-  - Windows
-  - Windows-Support
+tags: [Client-Management, Customer-Support, Disaster-Recovery, Hardware-Diagnostics, Incident-Management, IT, IT-Support, macOS-Support, Owner, SOP-Documentation, Startup, Technical-Training, Windows, Windows-Support]
 YAML Updated: 2025-04-23
 ---
 ## 📌 Summary

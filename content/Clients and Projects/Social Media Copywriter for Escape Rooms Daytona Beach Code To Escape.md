@@ -1,10 +1,7 @@
 ---
 created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Freelance
-  - Sales-Copywriter
-  - Social-Media
+modified: Wednesday, April 23rd 2025, 4:37:38 pm
+tags: [Freelance, Sales-Copywriter, Social-Media]
 ---
 ## 📌 Summary
 

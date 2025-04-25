@@ -1,8 +1,7 @@
 ---
 created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
-tags:
-  - Testimonial
+modified: Thursday, April 24th 2025, 3:47:21 pm
+tags: [Testimonial]
 title: 🌟 Testimonials
 ---
 > [!info] What You'll Find Here  
@@ -117,6 +116,8 @@ title: 🌟 Testimonials
 > With his assistance, we were able to decrease our churn rate through a series of onboarding emails.
 > 
 > I would recommend Austin to any business that is looking to step up and stand out with their email communications.”
+> 
+> ![[Screenshot-2021-04-05-12.53.17-PM.png]]
 ^710304
 
 **Alex Willis** - Customer Success Engineer at [Snappy Kraken](https://snappykraken.com/) ^108e09
@@ -234,6 +235,8 @@ title: 🌟 Testimonials
 
 > “When you are in need of a social media expert who kills at communication, here he is! Highly recommended!”
 
+
+![[linkedin-tibor.png]]
 **Tibor Benke** - CEO at [Code To Escape](https://www.codetoescape.com/)
 
 ---
@@ -243,6 +246,9 @@ title: 🌟 Testimonials
 > “Austin was recommended by someone I highly trust, but I must admit his work and top-notch service even exceeded what I was expecting. He is a pro and knows very well how to bring good copy together! Can’t wait to work with him again on my next gig!”
 
 **Taher Merimi** - Affiliate Marketer
+
+![[Untitled-picture.png]]
+
 
 ---
 ### 📬 #Email-Marketing 

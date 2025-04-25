@@ -3,9 +3,8 @@ created: Wednesday, April 2nd 2025, 12:32:30 pm
 Institution:
   - Google
 Issue Date: 2017-07-10
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Marketing
+modified: Thursday, April 24th 2025, 2:29:27 pm
+tags: [Marketing]
 ---
 ## 📌 Summary
 

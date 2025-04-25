@@ -1,9 +1,7 @@
 ---
 created: Friday, April 4th 2025, 4:38:13 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Original
-  - Writing
+modified: Friday, April 25th 2025, 12:05:26 pm
+tags: [Original, Writing]
 title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)
 ---
 _A fast, flexible, and free alternative to WordPress (with some quirks)_

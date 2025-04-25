@@ -1,11 +1,11 @@
 ---
 created: Friday, April 11th 2025, 12:35:50 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+modified: Friday, April 25th 2025, 1:48:27 pm
 tags:
   - Long-Form-Content
   - Original
   - Technical-Writing
-title: "🌻 Whisper Desktop: A User-Friendly Tool for Fast Transcriptions"
+title: 🌻 Whisper Desktop - A User Friendly Tool for Fast Transcriptions
 ---
 _This technical writing sample is based on my personal use of Whisper Desktop, aimed at the casual user._
 

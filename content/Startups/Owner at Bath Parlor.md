@@ -11,7 +11,7 @@ Applicable Certifications:
   - "[[Master Certificate in Business Management (Master Class Management)]]"
   - "[[Search Marketing Specialist (Digital Marketer)]]"
 created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+modified: Wednesday, April 23rd 2025, 4:35:59 pm
 Skills Utilized:
   - Adaptability and Learning
   - Analytics and Performance Tracking
@@ -51,18 +51,7 @@ Software:
   - SMSBump
   - Tidio
   - Track123
-tags:
-  - Business-Exit
-  - CRO
-  - Customer-Support
-  - Dropshipping
-  - Ecommerce
-  - Email-Marketing
-  - Owner
-  - SEO
-  - Shopify
-  - Team-Training
-  - Vendor-Management
+tags: [Business-Exit, CRO, Customer-Support, Dropshipping, Ecommerce, Email-Marketing, Owner, SEO, Shopify, Startup, Team-Training, Vendor-Management]
 YAML Updated: 2025-04-23
 ---
 ## 📌 Summary

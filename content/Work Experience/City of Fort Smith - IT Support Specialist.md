@@ -14,7 +14,7 @@ Applicable Certifications:
   - "[[Project Management (Alison)]]"
   - "[[Windows Operating System Security (DHS.gov)]]"
 created: Wednesday, April 2nd 2025, 12:32:31 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+modified: Thursday, April 24th 2025, 2:57:02 pm
 Related Skill Pages: 
 Skills Utilized:
   - Adaptability and Learning
@@ -47,21 +47,7 @@ Software:
   - VPNs
   - Windows Deployment Services (WDS)
   - Windows OS
-tags:
-  - Customer-Support
-  - Disaster-Recovery
-  - Government
-  - Incident-Management
-  - IT-Support
-  - Knowledge-Management
-  - Process-Automation
-  - Project-Management
-  - Security-Compliance
-  - SOP-Documentation
-  - System-Administration
-  - Technical-Training
-  - Technical-Writing
-  - Windows
+tags: [Customer-Support, Disaster-Recovery, Government, Incident-Management, IT-Support, Knowledge-Management, Process-Automation, Project-Management, Security-Compliance, SOP-Documentation, System-Administration, Technical-Training, Technical-Writing, Windows]
 YAML Updated: 2025-04-23
 ---
 ## 📌 Summary

@@ -1,18 +1,13 @@
 ---
 created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Case-Study
-  - Email-Marketing
-  - Freelance
-  - Onboarding
-  - SaaS
-  - UX
+modified: Wednesday, April 23rd 2025, 4:37:31 pm
+tags: [Case-Study, Email-Marketing, Freelance, Onboarding, SaaS, UX]
 ---
 ## 📌 Summary
 
 Reduced churn by 50% and added over **$100,000 in projected annual revenue** for **Snappy Kraken** through a strategically timed, high-impact email onboarding sequence. Boosted open rates and CTR significantly  -  without acquiring a single new customer. ^0b25c6
 
+![[Highlight-Results.png|800]]
 ## 📂 Role Overview
 
 - **💼 Client:** Snappy Kraken

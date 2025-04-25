@@ -1,13 +1,7 @@
 ---
 created: Monday, April 7th 2025, 3:48:01 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Ecommerce
-  - Email-Marketing
-  - Freelance
-  - Onboarding
-  - SaaS
-  - UX
+modified: Wednesday, April 23rd 2025, 4:37:13 pm
+tags: [Ecommerce, Email-Marketing, Freelance, Onboarding, SaaS, Startup, UX]
 ---
 ## 📌 Summary
 
