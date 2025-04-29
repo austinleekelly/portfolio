@@ -13,10 +13,11 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+	  tagID: "G-V0RKQ91K9C",
     },
     locale: "en-US",
-    baseUrl: "austinleekelly.github.io",
+    baseUrl: "austinleekelly.com",
     ignorePatterns: ["private", "templates","**/private/**"],
     defaultDateType: "modified",
     theme: {
