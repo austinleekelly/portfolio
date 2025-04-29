@@ -14,8 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-	  tagId: "G-V0RKQ91K9C",
-    },
+ tagId: process.env.QUARTZ_ANALYTICS_TAG_ID || "default-tag-id",  // Using the environment variable    },
     locale: "en-US",
     baseUrl: "austinleekelly.com",
     ignorePatterns: ["private", "templates","**/private/**"],
