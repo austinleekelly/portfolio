@@ -5,7 +5,9 @@ tags: [Technical-Writing, UX]
 ---
 ## 📌 Technical and UX Writer
 
-I create documentation, onboarding flows, and product messaging that make technical systems easier to use, support, and scale. I bridge the gap between technical clarity and user empathy; shaping content that improves internal operations and external adoption.
+I create documentation, onboarding flows, and product messaging that make technical systems easier to use, support, and scale. 
+
+I bridge the gap between technical clarity and user empathy; shaping content that improves internal operations and external adoption.
 
 Whether writing recovery SOPs for an IT team or designing onboarding sequences for SaaS users, my focus is always the same: reduce confusion, lower friction, and increase self-sufficiency.
 
