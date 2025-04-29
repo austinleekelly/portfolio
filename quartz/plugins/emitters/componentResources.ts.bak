@@ -90,8 +90,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     componentResources.afterDOMLoaded.push(`
       const gtagScript = document.createElement('script');
       gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=${tagId}';
-      console.log("GTAG script src:", gtagScript.src); 
-	  gtagScript.defer = true;
+      gtagScript.defer = true;
       gtagScript.onload = () => {
         window.dataLayer = window.dataLayer || [];
         function gtag() {
