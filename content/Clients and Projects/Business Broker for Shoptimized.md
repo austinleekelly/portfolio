@@ -1,8 +1,8 @@
 ---
 Company:
   - Shoptimized
-created: Tuesday, April 15th 2025, 1:39:45 pm
-modified: Tuesday, April 29th 2025, 10:46:02 am
+created: 2025-04-15T13:39:45-05:00
+modified: 2025-04-29T15:33:10-05:00
 Skills Utilized:
   - Business Brokering and Due Dilligence
   - Client Relationship Management

@@ -1,10 +1,8 @@
 ---
-created: Tuesday, April 8th 2025, 3:26:21 pm
+created: 2025-04-08T15:26:21-05:00
 Issue Date: 2020-04-15
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Content-Marketing
-  - Marketing
+modified: 2025-04-29T15:33:09-05:00
+tags: [Content-Marketing, Marketing]
 ---
 ## 📌 Summary
 

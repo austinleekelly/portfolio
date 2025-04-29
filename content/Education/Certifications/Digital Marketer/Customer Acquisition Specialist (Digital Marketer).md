@@ -1,10 +1,8 @@
 ---
-created: Tuesday, April 8th 2025, 3:51:03 pm
+created: 2025-04-08T15:51:03-05:00
 Issue Date: 2020-04-15
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Marketing
-  - PPC-Marketing
+modified: 2025-04-29T15:33:09-05:00
+tags: [Marketing, PPC-Marketing]
 ---
 ## 📌 Summary
 

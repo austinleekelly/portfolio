@@ -2,8 +2,8 @@
 Applicable Certifications:
   - "[[Email Marketing Certificate (Hubspot)]]"
   - "[[Email Marketing Specialist (Digital Marketer)]]"
-created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Tuesday, April 29th 2025, 11:01:39 am
+created: 2025-04-02T12:32:30-05:00
+modified: 2025-04-29T15:33:10-05:00
 Skills Utilized:
   - Adaptability and Learning
   - Collaboration and Teamwork

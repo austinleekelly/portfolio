@@ -1,6 +1,6 @@
 ---
-created: Tuesday, April 15th 2025, 1:35:18 pm
-modified: Tuesday, April 29th 2025, 11:18:13 am
+created: 2025-04-15T13:35:18-05:00
+modified: 2025-04-29T15:33:08-05:00
 Skills Utilized:
   - Adaptability and Learning
   - Copywriting

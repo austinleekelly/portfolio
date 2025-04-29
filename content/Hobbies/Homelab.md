@@ -1,8 +1,7 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
-tags:
-  - IT
+created: 2025-04-02T12:32:30-05:00
+modified: 2025-04-29T15:33:09-05:00
+tags: [IT]
 title: 🏠 Homelab
 ---
 ## My Homelab Setup: A Playground for Automation and Virtualization

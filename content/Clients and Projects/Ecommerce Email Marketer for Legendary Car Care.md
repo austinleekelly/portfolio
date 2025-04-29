@@ -7,8 +7,8 @@ Applicable Certifications:
   - "[[Klaviyo Product Certification (Klaviyo)]]"
   - "[[Klaviyo Sales Certification (Klaviyo)]]"
   - "[[Klaviyo Systems Integrator Certification (Klaviyo)]]"
-created: Tuesday, April 15th 2025, 1:08:32 pm
-modified: Tuesday, April 29th 2025, 11:00:32 am
+created: 2025-04-15T13:08:32-05:00
+modified: 2025-04-29T15:33:10-05:00
 Skills Utilized:
   - A/B Testing and Optimization
   - Adaptability and Learning

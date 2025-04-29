@@ -1,6 +1,6 @@
 ---
-created: Thursday, April 3rd 2025, 5:20:27 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+created: 2025-04-03T17:20:27-05:00
+modified: 2025-04-29T15:33:08-05:00
 Skills Utilized:
   - Adaptability and Learning
   - Collaboration and Teamwork
@@ -18,11 +18,7 @@ Software:
   - Security and Antivirus Tools
   - ServiceNow
   - Windows OS
-tags:
-  - Cybersecurity
-  - First-Level-Support
-  - IT-Support
-  - System-Administration
+tags: [Cybersecurity, First-Level-Support, IT-Support, System-Administration]
 ---
 ## 📌 Summary
 

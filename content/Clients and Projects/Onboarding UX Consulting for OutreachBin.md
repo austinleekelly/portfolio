@@ -1,6 +1,6 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Tuesday, April 29th 2025, 10:46:40 am
+created: 2025-04-02T12:32:30-05:00
+modified: 2025-04-29T15:33:10-05:00
 Skills Utilized:
   - Customer Journey Mapping
   - Customer Segmentation Strategy

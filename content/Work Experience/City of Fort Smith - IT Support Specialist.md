@@ -13,8 +13,8 @@ Applicable Certifications:
   - "[[MS6294 - Planning and Managing Windows 7 Desktop Deployments and Environments (Global Knowledge + Microsoft)]]"
   - "[[Project Management (Alison)]]"
   - "[[Windows Operating System Security (DHS.gov)]]"
-created: Wednesday, April 2nd 2025, 12:32:31 pm
-modified: Thursday, April 24th 2025, 2:57:02 pm
+created: 2025-04-02T12:32:31-05:00
+modified: 2025-04-29T15:33:08-05:00
 Related Skill Pages: 
 Skills Utilized:
   - Adaptability and Learning

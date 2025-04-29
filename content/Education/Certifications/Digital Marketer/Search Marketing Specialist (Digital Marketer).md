@@ -1,10 +1,8 @@
 ---
-created: Tuesday, April 8th 2025, 5:46:04 pm
+created: 2025-04-08T17:46:04-05:00
 Issue Date: 2020-04-15
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Marketing
-  - SEO
+modified: 2025-04-29T15:33:09-05:00
+tags: [Marketing, SEO]
 ---
 ## 📌 Summary
 

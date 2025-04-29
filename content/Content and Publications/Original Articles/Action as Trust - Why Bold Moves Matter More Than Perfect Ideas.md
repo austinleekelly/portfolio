@@ -1,9 +1,7 @@
 ---
-created: Wednesday, April 9th 2025, 3:13:53 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Original
-  - Writing
+created: 2025-04-09T15:13:53-05:00
+modified: 2025-04-29T15:33:10-05:00
+tags: [Original, Writing]
 title: "Action as Trust: Why Bold Moves Matter More Than Perfect Ideas"
 ---
 In today’s hyper-cognitive age, we reward thinkers and planners - but quietly revere those who _move_.

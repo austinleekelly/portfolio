@@ -1,15 +1,13 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
+created: 2025-04-02T12:32:30-05:00
 Institution: Department of Homeland Security
 Issue Date: 2017-12-29
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+modified: 2025-04-29T15:33:09-05:00
 NICE Framework Domains:
   - Cyberspace Effects
   - Investigation
   - Protection and Defense
-tags:
-  - Cybersecurity
-  - IT
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

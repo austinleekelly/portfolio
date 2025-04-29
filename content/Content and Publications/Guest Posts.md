@@ -1,6 +1,6 @@
 ---
-created: Wednesday, April 9th 2025, 10:49:36 am
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+created: 2025-04-09T10:49:36-05:00
+modified: 2025-04-29T15:33:10-05:00
 ---
 - **EcomBalance**
 	- [9 Tips to Perfect Your Email Welcome Series](https://ecombalance.com/email-welcome-series/)

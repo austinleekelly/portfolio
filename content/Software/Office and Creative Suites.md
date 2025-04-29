@@ -1,6 +1,6 @@
 ---
-created: Saturday, April 12th 2025, 5:41:19 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+created: 2025-04-12T17:41:19-05:00
+modified: 2025-04-29T15:33:08-05:00
 title: ✍ Office and Creative Suites
 ---
 > Tools used for writing, content design, document management, and general productivity across marketing, IT, and technical communication roles.

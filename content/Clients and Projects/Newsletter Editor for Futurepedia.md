@@ -7,8 +7,8 @@ Applicable Certifications:
   - "[[Email Marketing Specialist (Digital Marketer)]]"
   - "[[Online Marketing Fundamentals (Google)]]"
   - "[[Scrum Fundamentals Certified (SMstudy)]]"
-created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Thursday, April 24th 2025, 3:12:50 pm
+created: 2025-04-02T12:32:30-05:00
+modified: 2025-04-29T15:33:10-05:00
 Skills Utilized:
   - Adaptability and Learning
   - AI Tools Research

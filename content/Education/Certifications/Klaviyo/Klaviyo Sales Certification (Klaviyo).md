@@ -1,13 +1,12 @@
 ---
 Certification ID: 37atg8fxisqz
 Certification Link: https://verify.skilljar.com/c/37atg8fxisqz
-created: Wednesday, April 2nd 2025, 12:32:30 pm
+created: 2025-04-02T12:32:30-05:00
 Institution:
   - Klaviyo
 Issue Date: 2022-04-29
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
-tags:
-  - Email-Marketing
+modified: 2025-04-29T15:33:09-05:00
+tags: [Email-Marketing]
 ---
 ## 📌 Summary
 

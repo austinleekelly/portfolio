@@ -1,6 +1,6 @@
 ---
-created: Tuesday, April 15th 2025, 4:04:01 pm
-modified: Wednesday, April 23rd 2025, 2:08:56 pm
+created: 2025-04-15T16:04:01-05:00
+modified: 2025-04-29T15:32:49-05:00
 tags: [Technical-Writing, UX]
 ---
 ## 📌 Technical and UX Writer

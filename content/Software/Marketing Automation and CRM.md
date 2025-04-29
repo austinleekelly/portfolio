@@ -1,8 +1,7 @@
 ---
-created: Saturday, April 12th 2025, 5:03:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
-tags:
-  - Email-Marketing
+created: 2025-04-12T17:03:30-05:00
+modified: 2025-04-29T15:33:08-05:00
+tags: [Email-Marketing]
 title: 📬 Marketing Automation and CRM
 ---
 > Tools I've used to manage customer relationships, automate outreach, support marketing efforts, and deliver excellent customer support across various industries and business sizes.

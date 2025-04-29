@@ -1,6 +1,6 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+created: 2025-04-02T12:32:30-05:00
+modified: 2025-04-29T15:33:08-05:00
 title: 🛒 Business and Ecommerce
 ---
 I leverage strategic thinking, data analysis, and operational efficiency to drive business growth, optimize e-commerce platforms, and support complex transactions. My experience spans **business brokering**, **ecommerce optimization**, **project management**, and more.

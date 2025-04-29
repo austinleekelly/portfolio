@@ -1,6 +1,6 @@
 ---
-created: Thursday, April 10th 2025, 12:42:19 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+created: 2025-04-10T12:42:19-05:00
+modified: 2025-04-29T15:33:08-05:00
 title: ✍ Writing and Marketing
 ---
 I create high-impact content that blends strategic thinking with technical execution - supporting both user needs and business goals. 

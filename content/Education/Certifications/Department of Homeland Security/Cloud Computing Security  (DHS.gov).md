@@ -1,11 +1,9 @@
 ---
-created: Friday, April 4th 2025, 3:49:28 pm
+created: 2025-04-04T15:49:28-05:00
 Institution: Department of Homeland Security
 Issue Date: 2017-12-08
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Cybersecurity
-  - IT
+modified: 2025-04-29T15:33:10-05:00
+tags: [Cybersecurity, IT]
 ---
 ### 📌 Summary
 _This self-paced course explores the strengths, weaknesses, and security implications of cloud computing. It focuses on identifying and mitigating technical and operational risks while aligning with government standards for secure cloud adoption. The course concludes with a real-world case study of how the Defense Information Systems Agency (DISA) uses cloud solutions securely._

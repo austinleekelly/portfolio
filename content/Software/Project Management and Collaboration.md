@@ -1,6 +1,6 @@
 ---
-created: Saturday, April 12th 2025, 5:48:24 pm
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
+created: 2025-04-12T17:48:24-05:00
+modified: 2025-04-29T15:33:08-05:00
 title: ✅ Project Management and Collaboration
 ---
 > Explore the tools I've used to manage complex projects, collaborate across teams, and stay organized with day-to-day task management.

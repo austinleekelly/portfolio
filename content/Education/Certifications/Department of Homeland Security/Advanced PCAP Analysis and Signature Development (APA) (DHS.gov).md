@@ -1,13 +1,11 @@
 ---
-created: Thursday, April 3rd 2025, 7:38:41 pm
+created: 2025-04-03T19:38:41-05:00
 Institution: Department of Homeland Security
 Issue Date: 2017-12-28
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+modified: 2025-04-29T15:33:10-05:00
 NICE Framework Domains:
   - Implementation and Operations
-tags:
-  - Cybersecurity
-  - IT
+tags: [Cybersecurity, IT]
 ---
 ## 📌 Summary
 

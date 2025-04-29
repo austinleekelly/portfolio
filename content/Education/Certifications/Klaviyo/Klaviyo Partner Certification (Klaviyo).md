@@ -1,13 +1,12 @@
 ---
 Certification ID: m4rjz3x8eqyv
 Certification Link: https://verify.skilljar.com/c/m4rjz3x8eqyv
-created: Wednesday, April 2nd 2025, 12:32:30 pm
+created: 2025-04-02T12:32:30-05:00
 Institution:
   - Klaviyo
 Issue Date: 2022-05-20
-modified: Wednesday, April 23rd 2025, 2:05:07 pm
-tags:
-  - Email-Marketing
+modified: 2025-04-29T15:33:09-05:00
+tags: [Email-Marketing]
 ---
 ## 📌 Summary
 

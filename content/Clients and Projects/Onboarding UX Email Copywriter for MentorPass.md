@@ -1,6 +1,6 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
-modified: Wednesday, April 23rd 2025, 4:37:16 pm
+created: 2025-04-02T12:32:30-05:00
+modified: 2025-04-29T15:33:10-05:00
 tags: [Email-Marketing, Freelance, Onboarding, SaaS, Startup, UX]
 ---
 ## 📌 Summary

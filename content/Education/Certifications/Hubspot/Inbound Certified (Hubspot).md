@@ -1,10 +1,9 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
+created: 2025-04-02T12:32:30-05:00
 Institution: Hubspot
 Issue Date: 03-10-2022
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+modified: 2025-04-29T15:33:09-05:00
 Role:
   - Content Writer
-tags:
-  - Marketing
+tags: [Marketing]
 ---

@@ -1,6 +1,6 @@
 ---
-created: Friday, April 11th 2025, 12:35:50 pm
-modified: Friday, April 25th 2025, 2:25:08 pm
+created: 2025-04-11T12:35:50-05:00
+modified: 2025-04-29T15:33:10-05:00
 tags: [Long-Form-Content, Original, Technical-Writing]
 title: 🌻 Whisper Desktop - A User Friendly Tool for Fast Transcriptions
 ---

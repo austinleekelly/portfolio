@@ -1,12 +1,10 @@
 ---
-created: Tuesday, April 8th 2025, 5:11:51 pm
+created: 2025-04-08T17:11:51-05:00
 Institution:
   - Digital Marketer
 Issue Date: 2020-04-15
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Marketing
-  - Social-Media
+modified: 2025-04-29T15:33:09-05:00
+tags: [Marketing, Social-Media]
 ---
 ## 📌 Summary
 

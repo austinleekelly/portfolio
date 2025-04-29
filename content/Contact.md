@@ -1,6 +1,6 @@
 ---
-created: Wednesday, April 16th 2025, 6:21:40 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
+created: 2025-04-16T18:21:40-05:00
+modified: 2025-04-29T15:33:10-05:00
 title: 
 ---
 <section class="formcarry-container"> <form action="https://formcarry.com/s/XYVwcBRFF9p" method="POST" enctype="multipart/form-data"> <div class="formcarry-block"> <label for="fc-generated-1-name">Full Name</label> <input type="text" name="name" id="fc-generated-1-name" placeholder="Your first and last name" /> </div> <div class="formcarry-block"> <label for="fc-generated-1-email">Your Email Address</label> <input type="email" name="email" id="fc-generated-1-email" placeholder="john@doe.com" /> </div> <div class="formcarry-block"> <label for="fc-generated-1-message">Your message</label> <textarea name="message" name="message" id="fc-generated-1-message" placeholder="Enter your message..."></textarea> </div> <div class="formcarry-block"> <button type="submit">Send</button> </div> </form> </section> 

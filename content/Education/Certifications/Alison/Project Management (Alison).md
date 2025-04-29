@@ -1,9 +1,8 @@
 ---
-created: Wednesday, April 2nd 2025, 12:32:30 pm
+created: 2025-04-02T12:32:30-05:00
 Issue Date: 2017-10-03
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Cert-Management
+modified: 2025-04-29T15:33:10-05:00
+tags: [Cert-Management]
 ---
 ## 📌 Summary
 _The Diploma in Project Management in Practice provides a comprehensive understanding of project management principles and techniques, focusing on practical skills required to lead and manage complex technical projects across sectors such as construction, IT, and healthcare._

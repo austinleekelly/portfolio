@@ -1,11 +1,7 @@
 ---
-created: Tuesday, April 15th 2025, 6:44:37 pm
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Copywriting
-  - Long-Form-Content
-  - Marketing
-  - Sales-Copywriter
+created: 2025-04-15T18:44:37-05:00
+modified: 2025-04-29T15:33:10-05:00
+tags: [Copywriting, Long-Form-Content, Marketing, Sales-Copywriter]
 title: 🖋️ Niches and Industries I've Written About
 ---
 # 🖋️ Niches and Industries I've Written About

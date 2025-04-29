@@ -1,10 +1,8 @@
 ---
-created: Tuesday, April 8th 2025, 4:04:45 pm
+created: 2025-04-08T16:04:45-05:00
 Issue Date: 2020-03-15
-modified: Wednesday, April 23rd 2025, 2:05:08 pm
-tags:
-  - Funnel-Conversion
-  - Marketing
+modified: 2025-04-29T15:33:09-05:00
+tags: [Funnel-Conversion, Marketing]
 ---
 ## 📌 Summary
 

@@ -1,6 +1,6 @@
 ---
-created: Friday, April 4th 2025, 4:38:13 pm
-modified: Friday, April 25th 2025, 12:05:26 pm
+created: 2025-04-04T16:38:13-05:00
+modified: 2025-04-29T15:33:10-05:00
 tags: [Original, Writing]
 title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)
 ---
