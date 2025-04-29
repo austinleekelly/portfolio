@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'google',
-	  tagID: 'G-V0RKQ91K9C',
+	  tagId: 'G-V0RKQ91K9C',
     },
     locale: "en-US",
     baseUrl: "austinleekelly.com",
