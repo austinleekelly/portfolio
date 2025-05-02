@@ -1,6 +1,7 @@
 ---
 created: 2025-04-10T13:31:15-05:00
-modified: 2025-04-29T15:33:08-05:00
+modified: 2025-04-29T17:26:03-05:00
+Needs Revised: true
 title: 🖥 IT Support and Technical Skills
 ---
 ## Documentation and Knowledge Management

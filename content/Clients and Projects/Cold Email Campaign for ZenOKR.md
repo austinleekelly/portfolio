@@ -6,7 +6,7 @@ Applicable Certifications:
   - "[[Email Marketing Specialist (Digital Marketer)]]"
   - "[[Online Marketing Fundamentals (Google)]]"
 created: 2025-04-02T12:32:30-05:00
-modified: 2025-04-29T15:33:10-05:00
+modified: 2025-04-29T17:23:00-05:00
 Skills Utilized:
   - Adaptability and Learning
   - Analytics and Performance Tracking
@@ -33,6 +33,7 @@ Software:
   - Lemlist
   - SPF, DKIM, DMARC
 tags: [B2B-Sales, Campaign-Strategy, Cold-Email, Copywriting, Email-Deliverability, Email-Marketing, Freelance, Lead-Generation, Marketing-Automation, Product-Demos, SaaS, SaaS-Marketing, Startup]
+YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 

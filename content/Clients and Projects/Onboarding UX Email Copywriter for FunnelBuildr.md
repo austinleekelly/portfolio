@@ -1,6 +1,7 @@
 ---
 created: 2025-04-07T15:48:01-05:00
-modified: 2025-04-29T15:33:10-05:00
+modified: 2025-04-29T17:24:09-05:00
+Needs Revised: true
 tags: [Ecommerce, Email-Marketing, Freelance, Onboarding, SaaS, Startup, UX]
 ---
 ## 📌 Summary

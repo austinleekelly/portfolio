@@ -79,6 +79,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
+	  Plugin.ContentIndex({enableSiteMap: true}),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({

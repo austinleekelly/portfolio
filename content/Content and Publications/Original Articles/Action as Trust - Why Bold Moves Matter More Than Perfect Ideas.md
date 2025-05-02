@@ -1,6 +1,7 @@
 ---
 created: 2025-04-09T15:13:53-05:00
-modified: 2025-04-29T15:33:10-05:00
+modified: 2025-04-29T17:24:59-05:00
+Needs Revised: true
 tags: [Original, Writing]
 title: "Action as Trust: Why Bold Moves Matter More Than Perfect Ideas"
 ---

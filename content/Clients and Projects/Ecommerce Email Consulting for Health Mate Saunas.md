@@ -6,7 +6,7 @@ Applicable Certifications:
   - "[[Email Marketing Specialist (Digital Marketer)]]"
   - "[[Master Certificate in Business Management (Master Class Management)]]"
 created: 2025-04-02T12:32:30-05:00
-modified: 2025-04-29T15:33:10-05:00
+modified: 2025-04-29T17:23:11-05:00
 Skills Utilized:
   - Client Relationship Management
   - Ecommerce Strategy and Optimization
@@ -23,6 +23,7 @@ Software:
   - Google Workspace
   - Loom
 tags: [B2B-Sales, Consulting, Customer-Journey, Dropshipping, Ecommerce, Email-Marketing, Freelance, Funnel-Conversion, Marketing, Onboarding, UX]
+YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 

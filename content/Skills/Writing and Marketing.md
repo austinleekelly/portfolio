@@ -1,6 +1,7 @@
 ---
 created: 2025-04-10T12:42:19-05:00
-modified: 2025-04-29T15:33:08-05:00
+modified: 2025-04-29T17:26:08-05:00
+Needs Revised: true
 title: ✍ Writing and Marketing
 ---
 I create high-impact content that blends strategic thinking with technical execution - supporting both user needs and business goals. 

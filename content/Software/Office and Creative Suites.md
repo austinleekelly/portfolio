@@ -1,6 +1,7 @@
 ---
 created: 2025-04-12T17:41:19-05:00
-modified: 2025-04-29T15:33:08-05:00
+modified: 2025-04-29T17:26:30-05:00
+Needs Revised: true
 title: ✍ Office and Creative Suites
 ---
 > Tools used for writing, content design, document management, and general productivity across marketing, IT, and technical communication roles.

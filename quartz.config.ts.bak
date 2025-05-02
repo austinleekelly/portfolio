@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-		tagId: process.env.QUARTZ_ANALYTICS_TAG_ID || "G-V0RKQ91K9C",
-	},
+	  tagId: "G-V0RKQ91K9C",
+    },
     locale: "en-US",
     baseUrl: "austinleekelly.com",
     ignorePatterns: ["private", "templates","**/private/**"],
@@ -79,6 +79,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
+	  Plugin.ContentIndex({enableSiteMap:true}),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({

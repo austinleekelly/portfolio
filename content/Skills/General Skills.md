@@ -1,6 +1,7 @@
 ---
 created: 2025-04-10T14:04:52-05:00
-modified: 2025-04-29T15:33:08-05:00
+modified: 2025-04-29T17:26:00-05:00
+Needs Revised: true
 title: 💼 General Skills
 ---
 

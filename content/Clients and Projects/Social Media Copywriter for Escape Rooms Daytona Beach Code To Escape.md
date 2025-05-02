@@ -1,6 +1,7 @@
 ---
 created: 2025-04-02T12:32:30-05:00
-modified: 2025-04-29T15:33:10-05:00
+modified: 2025-04-29T17:24:46-05:00
+Needs Revised: true
 tags: [Freelance, Sales-Copywriter, Social-Media]
 ---
 ## 📌 Summary

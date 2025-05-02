@@ -1,6 +1,6 @@
 ---
 created: 2025-04-02T12:32:30-05:00
-modified: 2025-04-29T15:33:10-05:00
+modified: 2025-04-29T17:23:55-05:00
 Skills Utilized:
   - Customer Journey Mapping
   - Customer Segmentation Strategy
@@ -13,6 +13,7 @@ Software:
   - Loom
   - Notion
 tags: [Consulting, Customer-Journey, Freelance, Onboarding, SaaS, SaaS-Marketing, Startup, UX]
+YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 
