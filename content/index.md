@@ -3,8 +3,6 @@ created: 2025-04-02T12:32:30-05:00
 modified: 2025-04-29T15:33:09-05:00
 title: Austin Kelly
 ---
-# **👋 Welcome!**
-
 ![[me.png|250]]
 
 > [!warning] Your patience is appreciated  
