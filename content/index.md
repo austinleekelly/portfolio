@@ -23,7 +23,7 @@ This portfolio highlights my **experience, writing samples, and project work** -
 - ✍️ **[[Content and Publications/index|Content and Publications]]** – A selection of articles, technical documentation, and marketing assets I’ve written or contributed to.
     
 - 🔍 **[[Role Pages/index|Role Pages]]** – Focused breakdowns of my fit for specific job types, including  
-    → 📘 **[[Role Pages/Technical-UX Writer|Technical Writer / UX Writer]]**
+    → 📘 **[[Role Pages/Technical-UX Writer|Technical-UX Writer]]**
     
 - 💼 **[[Clients and Projects/index|Freelance and Consulting]]** – Projects involving content development, documentation systems, and digital strategy.
     
