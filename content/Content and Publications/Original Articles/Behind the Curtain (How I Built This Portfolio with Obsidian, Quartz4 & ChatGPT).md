@@ -1,7 +1,11 @@
 ---
+aliases: []
 created: 2025-04-04T16:38:13-05:00
-modified: 2025-04-29T15:33:10-05:00
-tags: [Original, Writing]
+modified: 2025-05-09T14:48:44-05:00
+permalink: Behind-the-Curtain-Obsidian-Quartz
+tags:
+  - Original
+  - Writing
 title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)
 ---
 _A fast, flexible, and free alternative to WordPress (with some quirks)_

@@ -12,7 +12,7 @@ title: 🌐 Content Management and SEO
 
 > Tools for building, updating, and scaling websites-from personal blogs to enterprise storefronts.
 
-- **WordPress** - Used in personal projects, freelance work via _[[Owner at Fancy Fox Creative|Fancy Fox Creative]]_, and for managing a [[Volunteering#💻 Political Campaign Website Designer, Administration, and Support|political campaign site as a volunteer]]. Also wrote [[Guest Posts#^2499d8|comparative]] and [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)#^1bb531|reflective]] articles about the platform.
+- **WordPress** - Used in personal projects, freelance work via _[[Owner at Fancy Fox Creative|Fancy Fox Creative]]_, and for managing a [[Volunteering#💻 Political Campaign Website Designer, Administration, and Support|political campaign site as a volunteer]]. Also wrote [[Guest Posts#^2499d8|comparative]] and [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)#^1bb531|reflective]] articles about the platform.
     
 - **Shopify** - Built and managed a [[Owner at Bath Parlor|high-ticket dropshipping store]]. Wrote and tested extensively as a [[Long Form Content and Technical Writer for Shoptimized|freelancer for a Shoptimized theme]].
      ^d2352d
