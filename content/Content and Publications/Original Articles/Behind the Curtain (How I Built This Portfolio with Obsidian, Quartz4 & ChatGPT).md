@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Behind-the-Curtain-Obsidian-Quartz
+  - Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian,-Quartz4--and--ChatGPT)
 created: 2025-04-04T16:38:13-05:00
-modified: 2025-05-09T14:48:44-05:00
-permalink: /Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian,-Quartz4--and--ChatGPT)
+modified: 2025-05-09T15:29:10-05:00
+permalink: Behind-the-Curtain-Obsidian-Quartz
 tags:
   - Original
   - Writing
