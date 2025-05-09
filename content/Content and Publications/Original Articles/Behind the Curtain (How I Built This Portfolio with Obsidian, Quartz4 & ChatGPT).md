@@ -2,12 +2,12 @@
 aliases:
   - Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian,-Quartz4--and--ChatGPT)
 created: 2025-04-04T16:38:13-05:00
-modified: 2025-05-09T15:29:10-05:00
+modified: 2025-05-09T15:47:27-05:00
 permalink: Behind-the-Curtain-Obsidian-Quartz
 tags:
   - Original
   - Writing
-title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT)
+title: ✨ Behind the Curtain
 ---
 _A fast, flexible, and free alternative to WordPress (with some quirks)_
 
