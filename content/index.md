@@ -49,4 +49,4 @@ You can also explore by [[tags/|tagged content]] or use the search bar near the 
 
 ---
 
-🧠 **P.S.** Curious how this site was built? See: [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)]]
+🧠 **P.S.** Curious how this site was built? See: [[Behind the Curtain]]

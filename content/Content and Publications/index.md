@@ -25,7 +25,7 @@ Documentation, user manuals, and step-by-step guides for software products and p
 Published articles on external platforms, covering topics ranging from tech trends to marketing strategies.  
 *Examples: eCommerce tools and strategies, Software comparisons
 
-### [[Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)|Portfolio Design]]
+### [[Behind the Curtain|Portfolio Design]]
 A detailed look at how I designed and structured this portfolio to highlight my work, design decisions, and technical setup.
 
 ### [Email Marketing](./Email%20Marketing/index.md)  
