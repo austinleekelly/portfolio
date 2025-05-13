@@ -17,7 +17,7 @@ YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 
-Served as a cold email strategy consultant for OutreachBin, providing actionable insights on refining their positioning, identifying ideal customer segments, and leveraging social proof to convert skeptical leads. 
+Served as an onboarding consultant for OutreachBin, providing actionable insights on refining their positioning, identifying ideal customer segments, and leveraging social proof to convert skeptical leads. 
 
 This high-impact consulting call helped the founder break through the “expert’s curse” and gain clarity on how to scale trust with their core audience.
 

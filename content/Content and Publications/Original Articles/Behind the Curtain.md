@@ -1,13 +1,8 @@
 ---
-aliases:
-  - /Content-and-Publications/Original-Articles/Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian-Quartz4--and--ChatGPT)
-  - Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian-Quartz4--and--ChatGPT)
+aliases: [/Content-and-Publications/Original-Articles/Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian-Quartz4--and--ChatGPT), Behind-the-Curtain-(How-I-Built-This-Portfolio-with-Obsidian-Quartz4--and--ChatGPT)]
 created: 2025-04-04T16:38:13-05:00
-modified: 2025-05-09T16:09:18-05:00
-permalink: /Behind-the-Curtain-Obsidian-Quartz
-tags:
-  - Original
-  - Writing
+modified: 2025-05-09T16:17:07-05:00
+tags: [Original, Writing]
 title: ✨ Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 & ChatGPT)
 ---
 _A fast, flexible, and free alternative to WordPress (with some quirks)_

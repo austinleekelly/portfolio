@@ -34,11 +34,9 @@ YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 
-Wrote a case study for **Loox**, a Shopify reviews app, showing how brands can integrate social proof to improve conversions and get more from paid traffic. 
+I worked with Loox( a Shopify reviews app) to write a case study spotlighting how a fast-growing pet accessory brand used customer reviews and visual UGC to improve conversions, reduce hesitation, and get more value from paid traffic campaigns.
 
-Focused on customer journey points (before, during, and after purchase) to demonstrate how Loox builds trust, reduces hesitation, and drives ROI. 
-
-Delivered polished, client-ready content for use in blog, onboarding, and sales materials.
+The case study walked through the full customer journey, showing how Loox helped build trust across landing pages, product pages, email flows, and post-purchase sequences.
 
 ---
 ## 📂 Role Overview
@@ -51,12 +49,22 @@ Delivered polished, client-ready content for use in blog, onboarding, and sales 
 ---
 ## 🎯 Key Responsibilities
 
-- Wrote a full-length case study mapping a user journey using Loox across landing pages, emails, and post-purchase touchpoints.
-- Positioned Loox as a high-ROI tool for brands investing in paid traffic.
-- Identified trust-building opportunities to reinforce the brand pre- and post-purchase.
-- Delivered marketing-ready content matching brand voice and tone.
+- Created a full-length case study that tracked social proof touchpoints before, during, and after purchase.
+    
+- Positioned Loox as a strategic lever for DTC brands looking to boost paid ad ROI.
+    
+- Delivered polished, ready-to-publish content for blogs, onboarding assets, and sales enablement.
 
 ---
+## 💡 Strategic Wins:
+
+- Made the value of Loox tangible by showing real-world results for a relatable niche brand.
+    
+- Reinforced how visual reviews and buyer trust directly impact cart completion and retention.
+    
+- Added evergreen content to Loox’s marketing toolkit that educates and sells.
+---
+
 ## 🛠 Skills
 - Adaptability and Learning
 - Collaboration and Teamwork

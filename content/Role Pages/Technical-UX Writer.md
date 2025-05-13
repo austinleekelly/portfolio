@@ -29,7 +29,7 @@ Whether writing recovery SOPs for an IT team or designing onboarding sequences f
     
 - Wrote internal tech and user onboarding documentation for **[[Medtronic - Technical User Support Analyst|Medtronic]]’s field sales systems** using ServiceNow.
     
-- Developed a **[[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions|Whisper GUI user documentation]]** complete with annotated visuals and tooltips.
+- Developed a **[[Whisper Desktop|Whisper GUI user documentation]]** complete with annotated visuals and tooltips.
     
 - Authored video and GIF walkthroughs using **Camtasia, Loom, and ScreenToGif**, used for async training and internal handoffs for [[Clients and Projects/index|multiple freelance clients]].
     
@@ -88,7 +88,7 @@ Whether writing recovery SOPs for an IT team or designing onboarding sequences f
 **Whisper Desktop: A User-Friendly Tool for Fast Transcriptions**
 * Tutorial for casual users
 * Screenshots, clear language, minimal jargon
-🔗 [[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions|View Guide]]
+🔗 [[Whisper Desktop|View Guide]]
 
 
 ---

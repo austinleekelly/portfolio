@@ -82,7 +82,7 @@ My experience spans **B2B messaging**, **SEO**, **technical writing**, and **ema
 ## Technical Writing
 > Writing user guides, manuals, and other technical documentation that simplify complex concepts for end-users.
 > 
-> **Sample Document:** [[Whisper Desktop - A User-Friendly Tool for Fast Transcriptions]]
+> **Sample Document:** [[Whisper Desktop]]
 
 ---
 
