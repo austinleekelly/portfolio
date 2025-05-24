@@ -56,11 +56,9 @@ YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 
-As the founder of **Bath Parlor**, a high-ticket dropshipping eCommerce store focused on luxury saunas, I built and grew the business to a profitable exit in the low five-figure range.
+I founded **Bath Parlor**, an eCommerce store that sold luxury saunas, and grew it into a profitable business, eventually selling it for a five-figure amount.
 
-I used content marketing, SEO, and conversion rate optimization (CRO) strategies, many of which I learned from previous eCommerce experience, to create a successful Shopify store.
-
-I handled vendor relationships, technical operations, and customer service, eventually training a team to ensure high customer satisfaction and retention.
+I used content marketing, SEO, and CRO strategies to create a successful Shopify store. I also managed vendor relationships, technical operations, and customer service, later training a team to maintain customer satisfaction.
 
 ---
 
@@ -79,29 +77,30 @@ I handled vendor relationships, technical operations, and customer service, even
 
 ## 🎯 Key Responsibilities
 
-- **Store Strategy and Operations** - Launched and managed all parts of the business, from product sourcing to order fulfillment and customer support.
+- **Store Operations** - Managed everything from sourcing products to fulfilling orders and supporting customers.
     
-- **Vendor Negotiations** - Built relationships with sauna dealers and manufacturers to secure dropshipping contracts.
+- **Vendor Negotiations** - Built relationships with sauna suppliers to set up dropshipping contracts.
     
-- **Conversion Rate Optimization (CRO)** - Used proven strategies like sticky CTAs, trust badges, reviews, and live chat to increase sales from cold traffic.
-- **Shopify and App Integrations** - Managed a tech stack of Shopify apps for upselling, reviews, email flows, tracking, and customer support.
+- **Conversion Rate Optimization (CRO)** - Applied strategies like sticky CTAs, trust badges, and reviews to boost sales from new visitors.
     
-- **Search Engine Optimization (SEO)** - Optimized product and category pages to rank high for key product keywords, reducing reliance on paid ads.
+- **Shopify Management** - Handled a variety of Shopify apps to manage upselling, reviews, email flows, and customer service.
     
-- **Customer Support and Team Management** - Provided direct support to early customers and later trained a small remote team to handle pre-sale questions and post-sale support.
+- **Search Engine Optimization (SEO)** - Improved product and category pages to rank high for important keywords, reducing ad costs.
     
-- **Product Expertise Development** - Learned in-depth about sauna products to give accurate, reliable advice to customers.
+- **Customer Support** - Directly helped early customers and later trained a team to assist with pre-sale and post-sale support.
+    
+- **Product Knowledge** - Became an expert in sauna products to offer the best advice to customers.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Sold for 5 Figures** - Exited the business with a profitable sale after generating consistent 4-figure monthly profits.
+- ✅ **Sold for 5 Figures** - Successfully sold the business after generating consistent profits.
     
-- ✅ **Top SEO Rankings** - Achieved first-page rankings for key product keywords, reducing the need for paid ads.
+- ✅ **Top SEO Rankings** - Ranked on the first page for key product keywords, reducing the need for ads.
     
-- ✅ **Customer Satisfaction and Retention** - Maintained strong reviews and repeat customers through proactive and knowledgeable support.
+- ✅ **Customer Satisfaction** - Maintained strong customer reviews and repeat business through excellent support.
     
 
 ---

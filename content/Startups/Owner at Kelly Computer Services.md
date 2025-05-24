@@ -31,11 +31,9 @@ tags: [Client-Management, Customer-Support, Disaster-Recovery, Hardware-Diagnost
 YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
-As the owner and sole technician of my independent IT repair business during college, I delivered hands-on technical support to residential and small business clients. 
+I ran my own IT repair business during college, providing tech support to homeowners and small businesses.
 
-I handled everything from PC troubleshooting to network setup and data recovery, all while managing operations, customer service, and marketing. 
-
-This role sharpened my problem-solving skills, built my technical foundation, and taught me how to deliver clear, customer-friendly support in high-stress tech scenarios.
+I handled everything from fixing computers to setting up networks and recovering lost data. This experience helped me build my technical skills and taught me how to offer clear, customer-friendly support in tough situations.
 
 ---
 
@@ -54,28 +52,28 @@ This role sharpened my problem-solving skills, built my technical foundation, an
 
 ## 🎯 Key Responsibilities
 
-- **PC Troubleshooting and Repair** - Diagnosed and resolved hardware/software issues including crashes, slowdowns, and system errors.
+- **PC Troubleshooting and Repair** - Diagnosed and fixed hardware and software problems like crashes, slowdowns, and errors.
     
-- **On-Site and Remote Support** - Delivered tech support through remote tools and in-person service calls.
+- **On-Site and Remote Support** - Provided tech support remotely or in-person to resolve issues.
     
-- **Customer Service and Consultation** - Helped clients understand technical issues and guided them to cost-effective solutions.
+- **Customer Service and Consultation** - Explained technical problems to clients and helped them find affordable solutions.
     
-- **Operating System Install and Repair** - Reinstalled Windows/macOS, resolved boot issues, and managed driver/software conflicts.
+- **Operating System Install and Repair** - Reinstalled Windows or macOS, fixed boot problems, and solved driver or software conflicts.
     
-- **Network Configuration** - Set up and optimized home Wi-Fi networks, routers, and extenders.
+- **Network Configuration** - Set up home Wi-Fi, routers, and network extenders for clients.
     
-- **Malware Removal and Data Recovery** - Removed infections and retrieved lost data from failing drives.
+- **Malware Removal and Data Recovery** - Removed malware and recovered lost data from damaged hard drives.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **100+ Devices Serviced** - Successfully repaired and optimized dozens of client machines with consistently high satisfaction.
+- ✅ **Serviced 100+ Devices** - Repaired and improved over 100 machines with great customer satisfaction.
     
-- ✅ **Built a Trusted Local Reputation** - Grew the business organically through word-of-mouth and repeat customers.
+- ✅ **Built a Strong Local Reputation** - Gained new clients mainly through referrals and repeat business.
     
-- ✅ **Streamlined Repair Workflows** - Developed step-by-step customer intake, drop-off, and troubleshooting processes that reduced turnaround time and increased efficiency.
+- ✅ **Streamlined Repair Processes** - Created clear steps for client intake and troubleshooting, reducing repair time and boosting efficiency.
     
 
 ---

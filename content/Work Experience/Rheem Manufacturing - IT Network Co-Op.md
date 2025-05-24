@@ -23,9 +23,9 @@ tags: [Cybersecurity, First-Level-Support, IT-Support, System-Administration]
 ---
 ## 📌 Summary
 
-As an IT Network Co-op at Rheem Manufacturing, I supported the setup and configuration of personal computers, provided first-level help desk support, and observed network administration tasks. 
+As an IT Network Co-op at Rheem Manufacturing, I helped set up personal computers, provided basic help desk support, and learned about network administration.
 
-During this role, I gained foundational experience in IT troubleshooting, system setup, and learned important cybersecurity principles in a corporate environment.
+This role gave me hands-on experience in IT troubleshooting, system setup, and cybersecurity in a business environment.
 
 ---
 
@@ -44,33 +44,31 @@ During this role, I gained foundational experience in IT troubleshooting, system
 
 ## 🎯 Key Responsibilities
 
-- **Computer Setup** - Assisted in imaging and installing software on personal computers for end users, ensuring systems were ready for deployment.
+- **Computer Setup** - Assisted in installing software and configuring personal computers for users.
     
-- **Server Assistance** - Supported the setup and configuration of server infrastructure, learning about the deployment of network systems.
+- **Server Assistance** - Helped with the setup of servers and learned about network system deployment.
     
-- **1st Level Help Desk Support** - Provided troubleshooting for MS Office and software issues, delivering user-friendly solutions to ensure minimal downtime.
+- **Help Desk Support** - Resolved software issues, particularly with MS Office, to keep users up and running.
     
-- **Network Administration Observation** - Observed and assisted with network administration tasks, gaining knowledge of network management, system configurations, and problem resolution.
+- **Network Administration** - Observed network management and learned about system configurations and issue resolution.
     
-- **Cybersecurity Fundamentals** - Gained exposure to basic cybersecurity practices and learned about securing network systems, user data, and preventing potential threats.
+- **Cybersecurity** - Learned basic cybersecurity practices to help secure network systems and data.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Practical IT Experience** - Assisted with PC setup, server configuration, and 1st level support, honing my technical troubleshooting skills.
+- ✅ **Hands-On IT Experience** - Gained valuable experience with PC setup, server configuration, and help desk support.
     
-- ✅ **Cybersecurity Knowledge** - Acquired a strong understanding of cybersecurity fundamentals, including best practices for securing IT systems and networks.
+- ✅ **Cybersecurity Knowledge** - Developed a strong understanding of cybersecurity best practices.
     
-- ✅ **Enhanced Problem-Solving Skills** - Provided efficient user support, applying critical thinking to resolve technical issues and improve operational efficiency.
+- ✅ **Improved Problem-Solving** - Enhanced troubleshooting skills by solving user issues quickly and effectively.
     
 
 ---
 
-## 🛠💻 Skills and Tools
-
-### 🛠 **Skills**
+## 🛠 Skills
 
 - **Soft Skills:**
     
@@ -103,7 +101,8 @@ During this role, I gained foundational experience in IT troubleshooting, system
     - [[Writing and Marketing#Technical Writing|Technical Writing]]
         
 
-### 💻 **Software and Tools**
+---
+### 💻 Software and Tools
 
 - **IT and Helpdesk:**
     

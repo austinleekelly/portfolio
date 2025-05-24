@@ -38,9 +38,8 @@ tags: [Customer-Support, Healthcare, Incident-Management, IT-Support, PowerShell
 YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
-As a **Technical User Support Analyst** at Medtronic, I helped manage, troubleshoot, and maintain endpoint systems for the remote sales team. 
 
-My role involved resolving complex hardware and software issues, improving IT processes, and working with both local and global IT teams to keep operations running smoothly.
+As a **Technical User Support Analyst** at Medtronic, I helped manage and maintain endpoint systems for the remote sales team. My role involved resolving hardware and software issues, improving IT processes, and collaborating with local and global IT teams to keep things running smoothly.
 
 ---
 
@@ -59,26 +58,28 @@ My role involved resolving complex hardware and software issues, improving IT pr
 
 ## 🎯 Key Responsibilities
 
-- **Customer Support and Troubleshooting** - Provided support for hardware, software, and account issues, ensuring users had the tools they needed to stay productive.
+- **Customer Support and Troubleshooting** - Provided support for hardware, software, and account issues to keep the sales team productive.
     
-- **Collaboration with IT Teams** - Worked closely with local and global IT teams to address technical challenges and support overlapping systems.
+- **Collaboration with IT Teams** - Worked with local and global IT teams to solve technical challenges and support systems.
     
-- **Service Management and Issue Resolution** - Used ServiceNow to track and resolve service requests, ensuring quick resolutions for critical issues.
+- **Service Management and Issue Resolution** - Used ServiceNow to track and resolve service requests, ensuring quick responses to critical issues.
     
-- **Process Improvements** - Identified areas where IT processes could be more efficient and led projects to improve operations.
+- **Process Improvements** - Identified areas where IT processes could be improved and led efforts to make them more efficient.
     
-- **Training and Support** - Provided hands-on technical training for the sales team, helping them get the most out of their field sales systems.
+- **Training and Support** - Provided hands-on technical training to the sales team, helping them get the most from their field sales systems.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Automated IT Deployment** - Developed a PowerShell automation script that sped up system setup and updates by 20 minutes per machine, improving deployment efficiency.
+- ✅ **Automated IT Deployment** - Developed a PowerShell script that sped up system setup and updates by 20 minutes per machine, improving efficiency.
     
-- ✅ **Improved Service and Issue Resolution** - Served as the liaison between end-users and IT teams, which improved troubleshooting and response times for technical issues.
+- ✅ **Improved Service and Issue Resolution** - Acted as the liaison between users and IT teams, improving troubleshooting and response times for technical issues.
     
-- ✅ **Increased Operational Efficiency** - Introduced automation tools that reduced manual tasks, improving system uptime and allowing the sales team to focus on business tasks.
+- ✅ **Increased Operational Efficiency** - Introduced automation tools that reduced manual tasks, improving system uptime and allowing the sales team to focus on business.
+    
+
 ---
 ## 🛠 Skills
 - Adaptability and Learning

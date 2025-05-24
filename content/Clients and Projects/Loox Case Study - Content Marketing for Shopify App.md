@@ -34,9 +34,9 @@ YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 
-I worked with Loox( a Shopify reviews app) to write a case study spotlighting how a fast-growing pet accessory brand used customer reviews and visual UGC to improve conversions, reduce hesitation, and get more value from paid traffic campaigns.
+I worked with Loox, a Shopify reviews app, to write a case study about how a growing pet accessory brand used customer reviews and user-generated content (UGC) to improve sales. 
 
-The case study walked through the full customer journey, showing how Loox helped build trust across landing pages, product pages, email flows, and post-purchase sequences.
+The case study showed how Loox helped build trust through various parts of the customer journey, including product pages, email flows, and post-purchase follow-ups.
 
 ---
 ## 📂 Role Overview
@@ -49,20 +49,20 @@ The case study walked through the full customer journey, showing how Loox helped
 ---
 ## 🎯 Key Responsibilities
 
-- Created a full-length case study that tracked social proof touchpoints before, during, and after purchase.
+- Wrote a detailed case study that highlighted key social proof moments before, during, and after the purchase.
     
-- Positioned Loox as a strategic lever for DTC brands looking to boost paid ad ROI.
+- Showed how Loox can help direct-to-consumer (DTC) brands improve their paid ad performance.
     
-- Delivered polished, ready-to-publish content for blogs, onboarding assets, and sales enablement.
+- Delivered polished, ready-to-publish content for blogs, onboarding, and sales materials.
 
 ---
-## 💡 Strategic Wins:
+## 🚀 Achievements and Impact
 
-- Made the value of Loox tangible by showing real-world results for a relatable niche brand.
+- Made Loox's value clear by showing real-world results for a relatable niche brand.
     
-- Reinforced how visual reviews and buyer trust directly impact cart completion and retention.
+- Highlighted how customer reviews and trust impact cart completion and customer retention.
     
-- Added evergreen content to Loox’s marketing toolkit that educates and sells.
+- Created evergreen content that both educates and promotes Loox.
 ---
 
 ## 🛠 Skills

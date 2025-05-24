@@ -27,11 +27,7 @@ YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 
-Subcontracted through a hybrid engagement - initially as an online retailer, then expanded into a consulting relationship. 
-
-Consulting focused on improving Health Mate’s dealer-focused email and content marketing strategy. 
-
-Provided insight on competitive positioning, lead nurturing, and dealer engagement tactics to boost brand differentiation and drive more B2B conversions.
+I started as an online retailer and later worked as a consultant to help Health Mate improve its email and content marketing strategy for dealers. I focused on competitive positioning, lead nurturing, and improving dealer engagement to increase B2B conversions.
 
 ---
 
@@ -50,22 +46,22 @@ Provided insight on competitive positioning, lead nurturing, and dealer engageme
 
 ## 🎯 Key Responsibilities
 
-- **Developed dealer-focused content strategy** – Audited existing collateral and recommended new email sequences and asset positioning for competitive differentiation.
+- **Developed Dealer-Focused Content Strategy** – Reviewed current marketing materials and suggested new email sequences and ways to position assets for better competitive differentiation.
     
-- **Provided strategic marketing consultation** – Delivered clear, actionable guidance on how to improve engagement with new and existing retail partners.
+- **Provided Marketing Consultation** – Gave clear, practical advice on improving engagement with retail partners.
     
-- **Collaborated cross-functionally** – Educated the internal team on digital marketing best practices, with an emphasis on email and content clarity.
+- **Collaborated with the Team** – Educated Health Mate’s internal team on email and content best practices to improve clarity and effectiveness.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Improved clarity in competitive messaging** – Helped the team define what sets Health Mate apart for retail partners.
+- ✅ **Improved Messaging** – Helped the team clearly define what makes Health Mate stand out to retail partners.
     
-- ✅ **Delivered a scalable dealer outreach framework** – Provided a repeatable email content strategy to use across current and future partners.
+- ✅ **Scalable Outreach Strategy** – Developed a repeatable email content strategy that could be used with current and future partners.
     
-- ✅ **Earned client trust and strong testimonial** – Recognized for transparency, clarity, and depth of insight.
+- ✅ **Earned Client Trust** – Built strong client trust through clear communication and valuable insights, leading to a positive testimonial.
     
 
 ---

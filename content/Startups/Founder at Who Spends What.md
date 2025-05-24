@@ -40,42 +40,53 @@ YAML Updated: 2025-04-29
 ---
 
 ## 🔍 Summary
-**Who Spends What** was a SaaS analytics tool aimed at helping Shopify-focused agencies and app developers find high-value store prospects based on their spending behavior.
+**Who Spends What** was a tool designed to help Shopify agencies and app developers find high-value store prospects based on their spending behavior.
 
-Instead of mass prospecting, users could filter stores by app spend, age, and installed tools - allowing them to “spearfish” for clients actively investing in their businesses.
+Instead of trying to reach everyone, users could filter stores by their spending on apps, store age, and tools they use. This allowed users to target the right clients who were already investing in their businesses.
 
 ---
 
 ## 💡 Problem I Tackled
-Freelancers, agencies, and app founders waste countless hours targeting Shopify stores with little signal on who’s willing (or able) to pay. I wanted to solve this by:
+Freelancers, agencies, and app developers often waste time targeting Shopify stores with no clear indication of who’s ready to pay. I aimed to solve this by:
 
-- Tracking when a store **starts or stops using a paid app**
-- Surfacing stores who were **already spending** on premium tools
-- Enabling filtered search based on **spend level, store age, and niche**
+- Tracking when a store starts or stops using a paid app
+    
+- Showing stores already spending on premium tools
+    
+- Allowing searches based on spend level, store age, and niche
 
 ---
 
 ## 🛠 What I Built
 - ✅ Wrote all copy and messaging for the landing site
-- ✅ Designed a **Figma mockup** of the product UI for demo purposes
+    
+- ✅ Designed a **Figma mockup** of the product UI
+    
 - ✅ Coded a Python backend prototype to track app usage changes
-- ✅ Built and launched a full website (now lost, but archived)
+    
+- ✅ Built and launched a website (now archived)
 
 ---
 
 ## 🔥 Validation and Traction
-Even pre-launch, I had:
-- 💰 **Two agencies** willing to pay **$500/month** for early access
-- 🤝 One **investor** offering funding in exchange for equity
-- 📬 Positive responses to cold outreach from ideal users
+Before launch, I had:
+
+- 💰 **Two agencies** ready to pay **$500/month** for early access
+    
+- 🤝 One **investor** offering funding for equity
+    
+- 📬 Positive feedback from cold outreach to target users
 
 ---
 
 ## 🧭 Why I Didn't Launch
-Although the feedback was strong, I made the decision to pause:
-- I didn’t want to give up steady **freelance income** at the time
-- I lacked the **bandwidth** to support the product long-term
-- I felt proud having identified a gap, built a solution, and validated the demand
+Despite strong feedback, I decided to pause:
+
+- I didn’t want to give up steady freelance income
+    
+- I didn’t have the bandwidth to support the product long-term
+    
+- I felt proud to have identified a gap, built a solution, and validated demand
 
 ---
 
@@ -106,11 +117,15 @@ Although the feedback was strong, I made the decision to pause:
 ---
 
 ## ✅ TL;DR
-Even though it wasn’t launched, **Who Spends What** shows my ability to:
-- Spot real-world opportunities  
-- Design useful tools  
-- Communicate a compelling offer  
-- Get real market traction early
+Even though **Who Spends What** didn’t launch, it demonstrates my ability to:
 
-This was a project I’m proud of - not for what it made, but for what it showed I can make.
+- Spot real-world opportunities
+    
+- Design useful tools
+    
+- Communicate a clear offer
+    
+- Get early market traction
+    
 
+I’m proud of this project, not for what it earned, but for what it showed I can do.

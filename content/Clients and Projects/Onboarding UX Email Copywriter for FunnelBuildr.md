@@ -6,7 +6,11 @@ tags: [Ecommerce, Email-Marketing, Freelance, Onboarding, SaaS, Startup, UX]
 ---
 ## 📌 Summary
 
-As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting email welcome series that introduced new users to the Shopify-based funnel builder platform. The emails were designed to reduce drop-off during the trial period by clearly outlining next steps, offering sample funnel templates, and guiding users toward setup success. I worked in close alignment with the founder’s voice and tone, striking a confident and casual balance to educate while energizing. My copy served to streamline onboarding and build user confidence from the first login.
+As a SaaS Onboarding Copywriter for FunnelBuildr, I created a series of onboarding emails for their Shopify-based funnel builder. 
+
+The emails were designed to reduce drop-offs during the trial period by guiding users through the next steps, offering sample templates, and helping them set up successfully. 
+
+I worked closely with the founder's voice, keeping the tone confident and casual to educate and motivate users. My goal was to make onboarding clear and boost user confidence from the first login.
 
 ---
 
@@ -25,22 +29,30 @@ As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting 
 
 ## 🎯 Key Responsibilities
 
-- **Email Series Strategy and Execution** - Wrote a sequenced onboarding email series (Welcome → Funnel Template Highlights → Feature Overview → Trial Reminder) aimed at improving user activation and retention.
+- **Email Series Strategy and Execution**: Wrote a series of onboarding emails (Welcome → Funnel Template Highlights → Feature Overview → Trial Reminder) to help users get started and stay engaged.
     
-- **Voice and Tone Matching** - Emulated the founder’s confident, straight-talking style with informal phrasing and no-fluff clarity to build trust quickly with users.
+- **Voice and Tone Matching**: Matched the founder’s confident, casual style to build trust quickly with users.
     
-- **Feature Education via Copy** - Highlighted high-value platform features like drag-and-drop funnel building, page templates, upsell/downsell flows, and integrations - all broken down in digestible, benefit-driven messaging.
+- **Feature Education via Copy**: Explained key platform features like drag-and-drop funnel building, templates, and integrations in simple, benefit-driven language.
     
-- **Sample Funnel Promotion** - Introduced pre-built funnel options to reduce setup friction and inspire users with clear use-case examples.
+- **Sample Funnel Promotion**: Promoted pre-built funnel templates to reduce setup friction and inspire users with clear examples.
     
-- **Action-Oriented CTAs** - Directed users toward specific actions like importing a funnel, watching walkthroughs, or scheduling a call, without overwhelming them.
+- **Action-Oriented CTAs**: Encouraged users to take specific actions, like importing a funnel or scheduling a call, without overwhelming them.
     
+---
+## 🚀 Achievements and Impact
+
+- ✅ **Increased User Engagement**: The email series helped keep users engaged through the trial period, reducing drop-offs by clearly outlining next steps and offering practical resources.
+    
+- ✅ **Boosted Setup Success**: By promoting pre-built funnel templates and simplifying setup, users were able to get started quickly, leading to a smoother onboarding experience.
+    
+- ✅ **Stronger User Confidence**: The tone of the emails helped build trust with users from the start, encouraging them to continue using the platform with greater confidence.
+    
+- ✅ **Optimized Email Conversion**: With well-crafted CTAs and clear guidance, the email series led to higher conversion rates from trial to paid users.
 
 ---
 
-## 🛠💻 Skills and Tools
-
-### 🛠 Skills
+## 🛠 Skills
 
 - [[Writing and Marketing#Email Marketing and Automation|Email Marketing and Automation]]
     
@@ -52,7 +64,7 @@ As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting 
     
 - [[Writing and Marketing#Conversion Rate Optimization (CRO)|Action-Oriented CTAs]]
     
-
+---
 ### 💻 Software and Tools
 
 - Google Docs
@@ -63,14 +75,3 @@ As a SaaS Onboarding Copywriter for FunnelBuildr, I developed a high-converting 
     
 
 ---
-
-## 📜 Applicable Certifications
-
-- [[Klaviyo Product Certified]]
-    
-- [[Inbound Certified (Hubspot)]]
-    
-
----
-
-## 🌟 Relevant Testimonials

@@ -33,13 +33,11 @@ YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 
-As the **Director of Information and Statistics** at the Fort Smith Chamber of Commerce, I supported both **business development** and **IT operations** for a 10-person office. 
+As the **Director of Information and Statistics** at the Fort Smith Chamber of Commerce, I supported both **business development** and **IT operations** for a 10-person office.
 
-I helped national companies like **Mars**, **Umarex**, and **Mitsubishi** explore and expand into the Fort Smith area by conducting property research and compiling data for relocation proposals.
+I helped companies like **Mars**, **Umarex**, and **Mitsubishi** explore and expand into Fort Smith by researching property options and providing data for relocation proposals. I also managed the office’s technology, including systems, servers, user support, and vendor coordination.
 
-Alongside economic development work, I managed the office’s technology - including systems, servers, end-user support, and vendor coordination. 
-
-My efforts helped bring new businesses to the city and improved day-to-day IT performance in the organization.
+This work helped bring new businesses to the city and improved IT performance in the organization.
 
 ---
 
@@ -60,32 +58,31 @@ My efforts helped bring new businesses to the city and improved day-to-day IT pe
 
 - **Business Development and Property Research** - Researched 55+ RFPs to help companies evaluate Fort Smith for relocation or expansion, including site availability, infrastructure, and incentives.
     
-- **Site Selection and Evaluation** - Provided detailed property data, market trends, and location analysis to support business decisions.
+- **Site Selection and Evaluation** - Provided data on property locations, market trends, and analysis to help companies make informed decisions.
     
-- **Stakeholder Coordination and Data Management** - Worked closely with company leaders, developers, and government officials to share relevant data for project planning.
+- **Stakeholder Coordination and Data Management** - Worked with company leaders, developers, and government officials to share important data for project planning.
     
-- **IT Administration and End-User Support** - Handled daily support for computers, printers, internet, and software across the office.
+- **IT Administration and End-User Support** - Provided daily support for office devices, printers, software, and internet services.
     
-- **System and Server Management** - Maintained file servers, Microsoft Exchange, and shared drives to ensure smooth operations.
+- **System and Server Management** - Maintained file servers, Microsoft Exchange, and shared drives to keep operations running smoothly.
     
-- **Vendor and IT Liaison** - Coordinated with outside IT vendors for upgrades, system checks, and issue resolution.
+- **Vendor and IT Liaison** - Coordinated with IT vendors for system upgrades, troubleshooting, and maintenance.
     
-- **Hardware and Software Maintenance** - Installed and managed devices, operating systems, and office applications.
+- **Hardware and Software Maintenance** - Installed and managed office devices, operating systems, and applications.
     
-- **Data Management and Security** - Backed up critical files and ensured secure access to important documents.
-    
+- **Data Management and Security** - Ensured secure access to files and backed up critical data.
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Helped attract major companies** - _Supported expansion of Mars, Umarex, and Mitsubishi into Fort Smith, helping grow the local economy._
+- ✅ **Attracted major companies** - Supported Mars, Umarex, and Mitsubishi in expanding into Fort Smith, boosting the local economy.
     
-- ✅ **Made site selection easier** - _Provided accurate location data and analysis to shorten decision timelines for relocating companies._
+- ✅ **Streamlined site selection** - Provided accurate location data, helping companies make faster decisions about relocation.
     
-- ✅ **Improved office IT systems** - _Enhanced file access and email services with better server management and Microsoft Exchange tuning._
+- ✅ **Improved IT systems** - Tuned Microsoft Exchange and managed servers to improve file access and email services.
     
-- ✅ **Balanced multiple priorities** - _Managed 10+ active business development projects while keeping daily IT needs on track._
+- ✅ **Managed multiple priorities** - Balanced business development projects and IT needs for a 10-person office.
 
 ---
 ## 🛠 Skills

@@ -52,11 +52,7 @@ YAML Updated: 2025-04-23
 ---
 ## 📌 Summary
 
-As an IT Support Specialist for the City of Fort Smith, I supported over 1,000 employees and managed more than 1,200 devices across departments. 
-
-I improved system reliability, sped up deployments, and reduced downtime by using tools like PDQ Deploy, MDT, and WDS. 
-
-I also led IT projects, managed vendor contracts, and helped standardize support processes to improve efficiency.
+As an IT Support Specialist for the City of Fort Smith, I supported over 1,000 employees and managed more than 1,200 devices. I improved system reliability, sped up deployments, and reduced downtime by using tools like PDQ Deploy, MDT, and WDS. I also led IT projects, managed vendor contracts, and streamlined support processes to improve efficiency.
 
 ---
 
@@ -75,34 +71,32 @@ I also led IT projects, managed vendor contracts, and helped standardize support
 
 ## 🎯 Key Responsibilities
 
-- **Technical Support and Troubleshooting** - Delivered IT support for over 1,000 city employees. Resolved more than 500 support requests each year, including issues with hardware, software, and network systems.
+- **Technical Support and Troubleshooting** - Provided IT support for over 1,000 employees, resolving more than 500 support requests annually, including issues with hardware, software, and networks.
     
-- **System Deployment and Automation** - Used PDQ Deploy and Microsoft Deployment Toolkit (MDT) to automate software installs and operating system imaging, reducing setup time for new computers.
+- **System Deployment and Automation** - Automated software installs and OS imaging with PDQ Deploy and MDT, speeding up new computer setups.
     
-- **Disaster Recovery Planning** - Built custom Windows Deployment Services (WDS) workflows to restore systems quickly. Reduced recovery time from over 4 hours to just 30 minutes.
+- **Disaster Recovery Planning** - Built custom WDS workflows to restore systems in 30 minutes, reducing recovery time by over 4 hours.
     
-- **Project and Vendor Coordination** - Led IT projects and worked with over 30 hardware and software vendors. Negotiated contracts and made sure projects were delivered on time and within budget.
+- **Project and Vendor Coordination** - Managed 15+ vendor relationships and ensured projects were completed on time and within budget.
     
-- **Process Improvement and Documentation** - Created step-by-step guides and automated scripts to reduce repetitive tasks. This helped the IT team work faster and lowered support request resolution times.
+- **Process Improvement and Documentation** - Created guides and automated scripts to speed up tasks and reduce support request resolution times.
     
-- **Infrastructure Maintenance** - Set up, maintained, and fixed desktops, laptops, printers, and network devices used across city departments.
+- **Infrastructure Maintenance** - Set up, maintained, and repaired desktops, laptops, printers, and network devices across departments.
     
-- **Security and Compliance** - Helped enforce IT security policies. Managed system updates, applied patches, and supported endpoint protection tools.
+- **Security and Compliance** - Enforced IT security policies, managed system updates, and supported endpoint protection tools.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ Cut recovery time during system outages by 85% using automated WDS workflows.
-     ^1b2c01
-- ✅ Improved computer deployment speed and accuracy with PDQ Deploy and MDT.
+- ✅ **Reduced recovery time by 85%** with automated WDS workflows.
     
-- ✅ Reduced average ticket resolution time by streamlining support workflows.
+- ✅ **Increased deployment speed and accuracy** with PDQ Deploy and MDT.
     
-- ✅ Managed 30+ vendor relationships and saved costs through better contract negotiation.
+- ✅ **Cut ticket resolution time** by improving support workflows.
     
-- ✅ Wrote and maintained IT documentation to support training and reduce knowledge gaps.
+- ✅ **Streamlined training** with well-maintained IT documentation.
 
 ---
 ## 🛠Skills

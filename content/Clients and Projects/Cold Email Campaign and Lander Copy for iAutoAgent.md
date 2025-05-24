@@ -45,11 +45,11 @@ tags: [B2B-Sales, Campaign-Strategy, Cold-Email, Copywriting, Email-Deliverabili
 
 ## 📌 Summary
 
-As part of a cold email campaign for a business vehicle sales platform, I handled the technical aspects of the project, including setting up the custom domain, configuring the cold email system, and ensuring all the domain configurations were in place. 
+I worked on a cold email campaign for a business vehicle sales service. My job involved setting up the custom domain, configuring the cold email system, and making sure everything worked smoothly.
 
-Additionally, I wrote and tested cold email sequences and made edits to the website to ensure a seamless, professional presentation that aligned with the campaign's objectives. 
+I also wrote and tested email sequences and made edits to the website to match the campaign’s goals.
 
-The campaign provided valuable insights into cold email strategy and lead generation.
+The campaign gave me useful experience in cold email strategy and lead generation.
 
 ---
 
@@ -68,24 +68,24 @@ The campaign provided valuable insights into cold email strategy and lead genera
 
 ## 🎯 Key Responsibilities
 
-- **Custom Domain Setup** – Configured a custom domain for email outreach, ensuring proper DNS settings for deliverability, including SPF, DKIM, and DMARC configurations to improve email security and avoid spam filters.
+- **Custom Domain Setup** – Set up a custom domain for email outreach and made sure the email system was secure by configuring SPF, DKIM, and DMARC.
     
-- **Cold Email System Setup** – Set up and configured an email automation tool (such as Mailshake or Lemlist) to send personalized, targeted cold email sequences to potential business fleet clients.
+- **Cold Email System Setup** – Used an email automation tool (like Mailshake or Lemlist) to send personalized cold email sequences to potential clients.
     
-- **Writing Cold Email Sequences** – Crafted several cold email templates and follow-ups, ensuring they were tailored to the target audience, addressed pain points, and encouraged responses. Focused on clear CTAs and maintaining a professional tone.
+- **Writing Cold Email Sequences** – Wrote and tested cold email templates with clear calls-to-action (CTAs) to encourage responses from prospects.
     
-- **Website Edits for Alignment with Campaign** – Made edits to the landing page to match the cold email messaging, ensuring a seamless user experience from email click-through to site conversion. Updated copy, CTAs, and visual elements to increase engagement and clarity.
+- **Website Edits for Campaign** – Made changes to the website to match the messaging in the emails, making sure the user experience was smooth from the email to the website.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Custom Domain Configuration** - Successfully configured the custom domain and verified all necessary email authentication protocols (SPF, DKIM, DMARC), improving the email deliverability rate by 15%.
+- ✅ **Custom Domain Setup** – Configured the custom domain and improved email deliverability by 15% using email authentication protocols (SPF, DKIM, DMARC).
     
-- ✅ **Cold Email Campaign Setup** - Launched a cold email sequence with an open rate of 40% and a response rate of 12%, which provided valuable insights into customer interest and pain points.
+- ✅ **Cold Email Campaign** – Launched an email sequence with a 40% open rate and a 12% response rate, helping gather insights into customer needs.
     
-- ✅ **Website Alignment** - Edited and optimized the landing page to match the email messaging, improving conversion metrics by 10% as measured through site analytics.
+- ✅ **Website Alignment** – Updated the landing page to match the email messages, which increased conversion rates by 10%.
     
 
 ---

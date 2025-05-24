@@ -6,7 +6,7 @@ tags: [Case-Study, Email-Marketing, Freelance, Onboarding, SaaS, UX]
 ---
 ## 📌 Summary
 
-Reduced churn by 50% and added over **$100,000 in projected annual revenue** for **Snappy Kraken** through a strategically timed, high-impact email onboarding sequence. Boosted open rates and CTR significantly  -  without acquiring a single new customer. ^0b25c6
+I reduced churn by 50% and added over **$100,000 in projected annual revenue** for **Snappy Kraken** by creating an email onboarding sequence. The emails were carefully timed to increase engagement without bringing in any new customers. I boosted open rates and click-through rates significantly.^0b25c6
 
 ![[Highlight-Results.png|700]]
 ## 📂 Role Overview
@@ -19,56 +19,58 @@ Reduced churn by 50% and added over **$100,000 in projected annual revenue** for
     
 - **📍 Industry:** SaaS (Financial Advisor Marketing Automation)
     
-
+---
 ## 🎯 Key Responsibilities
 
-- Consulted with leadership and product teams to identify friction points in early onboarding.
+- Worked with leadership and product teams to find problem areas in the onboarding process.
     
-- Audited all existing onboarding content and support documentation.
+- Audited all existing onboarding content and support docs.
     
-- Designed an **8-email sequence** with tight alignment to **message-market-moment fit.**
+- Designed an **8-email sequence** aligned with user needs and key milestones.
     
-- Wrote original onboarding emails with multiple variants for A/B testing.
+- Wrote original emails and created multiple versions for A/B testing.
     
-- Created a plan to reduce support tickets by addressing common drop-off points in the user journey.
+- Developed a plan to reduce support tickets by addressing common issues in the user journey.
     
-
+---
 ## 🧠 Strategy
 
-Snappy Kraken had world-class software and a strong product-market fit  -  but new users were:
+The problem at **Snappy Kraken** was not with the software—it was with new users who were:
 
 - **Confused during setup**
     
-- **Missing the platform’s core value**
+- **Not understanding the platform's full value**
     
-- **Clogging support channels with repetitive issues**
+- **Overloading support with simple, repetitive issues**
     
 
-Instead of discounting or tweaking pricing (a band-aid fix), we built an onboarding flow to deliver _aha moments_ early, improve time to value, and preempt churn-inducing friction.
+Instead of changing pricing or offering discounts, we created an onboarding flow to give users those “aha moments” early, reduce confusion, and prevent churn.
 
+---
 ### 🔑 Messaging Focus
 
-- Reduce confusion → clarify expectations and next steps
+- Reduce confusion by clearly showing next steps and expectations.
     
-- Reinforce value → show what’s possible
+- Reinforce value by demonstrating what's possible on the platform.
     
-- Increase momentum → highlight early wins
+- Build momentum by showing users how to achieve early wins.
     
-- Deflect routine support → proactive answers in-context
+- Reduce support needs by proactively answering common questions.
     
-
+---
 ## 🛠 Solutions Delivered
 
-1. **Discovery and Consulting:** Scoped user pain points and churn triggers
+1. **Discovery and Consulting:** Identified user pain points and churn triggers.
     
-2. **Onboarding Audit:** Reviewed all welcome, setup, and help flows
+2. **Onboarding Audit:** Reviewed welcome, setup, and help flows.
     
-3. **Messaging Strategy:** Designed sequence around "message-market-moment" fit
+3. **Messaging Strategy:** Designed email sequence based on message-market-moment fit.
     
-4. **Copywriting:** Wrote and structured 8-email sequence
+4. **Copywriting:** Wrote and structured the 8-email sequence.
     
-5. **Testing Strategy:** Supplied subject line + CTA variants for A/B tests
-    
+5. **Testing Strategy:** Developed A/B testing variants for subject lines and CTAs.
+
+---
 
 ## 📈 Results
 
@@ -78,14 +80,13 @@ Instead of discounting or tweaking pricing (a band-aid fix), we built an onboard
     
 - 🔗 **Up to 300% increase in click-through rates**
     
-- 💰 **$100,000+ projected revenue retained**, with **zero additional customer acquisition**
+- 💰 **$100,000+ in projected revenue retained**—without acquiring any new customers
     
-- 🎯 Created lasting internal momentum for further UX and lifecycle messaging improvements
-    
+- 🎯 Created internal momentum for improving UX and lifecycle messaging
 
-## 🛠💻 Skills and Tools
 
-### 🛠 **Skills**
+---
+## 🛠 Skills
 
 - [[Skills/Writing and Marketing#Email Marketing and Automation|Email Marketing and Automation]]
     
@@ -95,8 +96,7 @@ Instead of discounting or tweaking pricing (a band-aid fix), we built an onboard
     
 - [[Skills/Business and Ecommerce#Sales Funnel Optimization|Funnel Optimization]]
     
-
-## 📜 Applicable Certifications
+---
 ## 🌟 Relevant Testimonials
 * [[Testimonials#"Knows how to take complex concepts and simplify them, make them clear, and make them extremely actionable..."|"Knows how to take complex concepts and simplify them, make them clear, and make them extremely actionable..."]]
 * [[Testimonials#"Cares deeply about the work he puts out and delivers at a high level..."|"Cares deeply about the work he puts out and delivers at a high level..."]]

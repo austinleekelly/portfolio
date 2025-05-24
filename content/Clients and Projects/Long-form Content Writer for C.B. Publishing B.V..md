@@ -6,7 +6,9 @@ tags: [Beauty-Wellness, Freelance, Long-Form-Content, Startup]
 ---
 ## 📌 Summary
 
-As a freelance writer for CB Publishing B.V., I crafted over half a dozen articles that significantly enhanced the company's online presence. By conducting thorough keyword research and utilizing SurferSEO, I produced engaging content that resonated with the founder's voice and incorporated humor to make sensitive topics approachable. My work focused on answering some of the most frequently asked questions surrounding the subject matter, helping the brand establish authority and trust. This approach contributed to a substantial increase in organic website traffic.
+I worked as a freelance writer for CB Publishing B.V. and wrote over six articles that helped improve the company's online presence. I focused on using SEO strategies like keyword research and SurferSEO to create content that resonated with readers. 
+
+My writing was designed to address common questions on sensitive topics in a way that felt approachable. This resulted in a noticeable increase in website traffic.
 
 ---
 ## 📂 Role Overview
@@ -22,22 +24,22 @@ As a freelance writer for CB Publishing B.V., I crafted over half a dozen articl
 ---
 ## 🎯 Key Responsibilities
 
-- **Keyword Research and SEO Optimization** - Conducted in-depth keyword research and employed SurferSEO to optimize articles for search engines.
+- **SEO Optimization**: I did keyword research and used SurferSEO to make sure the articles ranked well in search engines.
     
-- **Content Creation** - Authored over half a dozen articles that captured the founder's voice, blending humor with informative content to engage readers.
+- **Content Creation**: I wrote over six articles that reflected the founder's voice, adding humor and keeping the content engaging.
     
-- **Answering Top Questions** - Created articles addressing some of the most frequently asked questions, improving the site's relevance and authority.
+- **Addressing Common Questions**: I created articles that answered frequently asked questions, making the site more helpful and trustworthy.
     
-- **Audience Engagement** - Developed content strategies to present sensitive topics in an approachable manner, enhancing reader engagement.
+- **Audience Engagement**: I made sure the content on sensitive topics was approachable and easy for readers to engage with.
     
 ---
 ## 🚀 Achievements and Impact
 
-- ✅ **Enhanced Organic Traffic** - Contributed to the growth of the website's organic traffic from approximately 800 to over 2,400 monthly visitors.
+- ✅ **Increased Website Traffic**: My work helped boost organic traffic from around 800 to over 2,400 monthly visitors.
     
-- ✅ **Increased Search Visibility** - Articles targeted high-traffic search queries, leading to improved rankings and discoverability.
+- ✅ **Improved Search Rankings**: My articles targeted popular search queries, leading to better rankings on search engines.
     
-- ✅ **Strengthened Brand Voice** - Successfully mirrored the founder's tone, reinforcing brand identity and consistency across publications.
+- ✅ **Strengthened Brand Voice**: I matched the founder's tone, ensuring the brand's voice was consistent across articles.
     
 ---
 ## 🛠💻 Skills and Tools

@@ -36,13 +36,11 @@ YAML Updated: 2025-04-23
 ---
 ## 📌 Project Summary
 
-While working with _Shoptimized_, a premium Shopify theme provider known for its focus on eCommerce conversion rate optimization (CRO), I created in-depth, long-form content that bridged the gap between consumer behavior data and actionable CRO strategies for online merchants.
+**Problem**: Shoptimized needed clear, data-driven content to help eCommerce store owners improve their sales.
 
-My role encompassed both **content strategy and technical documentation**, with the goal of educating users and establishing _Shoptimized_ as an authority in the eCommerce space. 
+**What I did**: I wrote over 8 blog posts on conversion rate optimization (CRO) topics, like loyalty programs and free shipping. I also created technical guides to help users set up and use the Shoptimized theme. These guides included step-by-step instructions with visuals, such as screenshots and GIFs.
 
-I produced over eight CRO-focused articles backed by real-world studies (including Baymard Institue data) and created technical onboarding guides—complete with annotated screenshots and GIFs—to help customers implement features quickly and effectively.
-
-This project deepened my expertise in data-driven content marketing and ecommerce UX best practices, while also expanding my experience in technical writing for SaaS/ecommerce platforms.
+**Result**: My content helped increase user trust and engagement, improved the blog’s SEO, and made it easier for users to get started with the theme. It also reduced the number of support tickets by providing clear onboarding materials.
 
 ---
 
@@ -61,15 +59,13 @@ This project deepened my expertise in data-driven content marketing and ecommerc
 
 ## 🎯 Key Responsibilities
 
-- **Long-form CRO Content Writing** - Wrote 8+ high-performing blog articles covering eCommerce best practices surrounding about pages, loyalty programs, free shipping and buyer psychology, promo codes, and more - often citing Baymard Institute research to support claims.
+- ✅ **Wrote 8+ high-conversion articles** that helped users improve their eCommerce strategies.
     
-- **Data-Driven Thought Leadership** - Translated complex usability studies and behavioral psychology into digestible, actionable advice for eCommerce store owners, reinforcing the value of the _Shoptimized_ theme.
+- ✅ **Boosted SEO** by using real data to back up the content, increasing site traffic and user engagement.
     
-- **Product Education and Marketing Alignment** - Showcased how Shoptimized’s built-in features solved common pain points, making the connection between real-world CRO tactics and easy-to-implement theme solutions.
+- ✅ **Helped users adopt the Shoptimized theme** by connecting its features with real business needs.
     
-- **Technical Documentation** - Created internal help guides for onboarding customers, including annotated screenshots and instructional GIFs, reducing support ticket volume and improving user satisfaction.
-    
-- **Tone and Brand Consistency** - Maintained consistent tone of voice across all assets, ensuring alignment with Shoptimized’s brand as both authoritative and accessible to entrepreneurs.
+- ✅ **Reduced support tickets** by creating easy-to-follow guides for new users.
     
 
 ---

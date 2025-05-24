@@ -14,11 +14,7 @@ YAML Updated:
 ---
 ## 📌 Summary
 
-Provided strategic onboarding consultation for CreatorPilot, an influencer marketing platform. 
-
-Guided the founder in mapping a differentiated onboarding experience designed to increase engagement and conversion. 
-
-Delivered high-impact ideas for user touchpoints that make the platform stand out in a competitive space.
+I helped CreatorPilot, an influencer marketing platform, improve their user onboarding process. I worked with the founder to design an onboarding experience that would increase user engagement and conversions. I also suggested ways to make the platform stand out in a competitive market.
 
 ---
 
@@ -37,22 +33,22 @@ Delivered high-impact ideas for user touchpoints that make the platform stand ou
 
 ## 🎯 Key Responsibilities
 
-- **Onboarding Strategy Call** – Led a detailed discovery and strategy session to understand the product’s user flow and bottlenecks.
+- **Onboarding Strategy Call**: Led a session to understand the product’s user flow and identify issues.
     
-- **User Engagement Planning** – Identified key opportunities for improving first-time user engagement and retention.
+- **User Engagement Planning**: Found ways to improve first-time user engagement and retention.
     
-- **Differentiation Analysis** – Proposed unique onboarding experiences to help the platform stand out from similar influencer tools.
+- **Differentiation Analysis**: Suggested unique onboarding experiences to make the platform stand out from competitors.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Clear Onboarding Vision Delivered** – The founder gained a step-by-step plan to revamp user onboarding.
+- ✅ **Clear Onboarding Plan**: Delivered a step-by-step plan to improve the user onboarding process.
     
-- ✅ **Competitive Differentiation Insights** – Provided tactical ideas that gave the onboarding a unique and engaging flavor.
+- ✅ **Competitive Differentiation**: Offered practical ideas to make onboarding more engaging and unique.
     
-- ✅ **Founder Clarity and Confidence** – Ensured the founder left the call with confidence in the next steps and implementation priorities.
+- ✅ **Founder Confidence**: Gave the founder a clear direction for next steps and what to focus on for implementation.
     
 
 ---

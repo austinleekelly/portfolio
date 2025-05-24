@@ -33,9 +33,7 @@ YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 
-Subcontracted by Inkwell Content Services to develop a freemium (free-to-paid) nurturing and onboarding email strategy for a freelancer-focused invoicing SaaS. 
-
-I led the strategic planning and content organization efforts, transforming client-provided assets into a structured onboarding flow aimed at increasing user engagement, building trust, and driving paid conversions.
+I was subcontracted by Inkwell Content Services to create a strategy for onboarding and nurturing emails for a freelancer-focused invoicing SaaS. I planned and organized content to help users move from the free version to the paid version, improving engagement and trust along the way.
 
 ---
 
@@ -54,22 +52,21 @@ I led the strategic planning and content organization efforts, transforming clie
 
 ## 🎯 Key Responsibilities
 
-- **Planned onboarding and lead nurturing strategy** – Designed a conversion-focused email flow to guide new users from signup to paid activation.
+- **Planned onboarding and lead nurturing strategy**: Created an email flow to guide users from signing up to becoming paying customers.
     
-- **Audited and organized client content** – Evaluated webinars, articles, user research, and reviews to align messaging with buyer journey stages.
+- **Audited and organized client content**: Reviewed webinars, articles, user research, and reviews to make sure the messaging matched where the user was in their journey.
     
-- **Segmented target audiences** – Defined audience personas and mapped email content to address specific needs, objections, and use cases.
-    
+- **Segmented target audiences**: Defined user personas and tailored email content to meet specific needs and concerns.
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Laid the groundwork for scalable user onboarding** that aligned marketing and product content with user intent.
+- ✅ **Laid the groundwork for scalable user onboarding**: Created a strategy that aligned marketing and product content with user intent.
     
-- ✅ **Increased clarity and cohesion** across client assets by reorganizing scattered content into a cohesive narrative for nurturing workflows.
+- ✅ **Increased clarity and cohesion**: Organized scattered content into a clear, unified strategy for email workflows.
     
-- ✅ **Empowered client team** with a strategy-ready framework for future email automation and optimization efforts.
+- ✅ **Empowered the client team**: Gave the client a ready-to-use framework for future email automation and optimization.
     
 
 ---

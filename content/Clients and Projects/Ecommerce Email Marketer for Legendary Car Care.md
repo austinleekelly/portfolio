@@ -44,9 +44,7 @@ YAML Updated: 2025-04-29
 ---
 ## 📌 Summary
 
-As an ecommerce email marketer for Legendary Car Care, I developed high-converting email automation flows and promotional campaigns that drove revenue and engagement. 
-
-My work delivered industry-beating open rates and measurable lift in sales performance for this automotive car care brand.
+I worked as an ecommerce email marketer for Legendary Car Care. I developed email automation flows and promotional campaigns that helped boost sales and engagement. My emails achieved high open rates and increased revenue for the brand.
 
 ---
 
@@ -65,24 +63,24 @@ My work delivered industry-beating open rates and measurable lift in sales perfo
 
 ## 🎯 Key Responsibilities
 
-- **Email Flow Development** – Created, tested, and optimized automated email flows including Welcome, Abandoned Cart, Browse Abandonment, and Post-Purchase sequences.
+- **Email Flow Development** – I created, tested, and optimized email flows like Welcome, Abandoned Cart, Browse Abandonment, and Post-Purchase emails.
     
-- **Campaign Management** – Strategically planned and executed broadcast campaigns around promotions, product education, and seasonal events.
+- **Campaign Management** – I planned and ran email campaigns for promotions, product info, and seasonal events.
     
-- **Performance Monitoring** – Used metrics to refine subject lines, CTAs, and send times to maximize deliverability and conversions.
+- **Performance Monitoring** – I tracked email metrics to adjust subject lines, CTAs, and send times for better delivery and higher conversion rates.
     
 
 ---
 
 ## 🚀 Achievements and Impact
 
-- ✅ **Abandoned Cart Recovery** – A single abandoned cart email reached a 50% open rate, 18% click rate, and a 5% order rate.
+- ✅ **Abandoned Cart Recovery** – One abandoned cart email had a 50% open rate, 18% click rate, and 5% order rate.
     
-- ✅ **High-Converting Automation** – One email in the welcome sequence achieved a **35% open rate**, **13% click rate**, and a **2.2% order rate**.
+- ✅ **High-Converting Automation** – A Welcome email achieved a 35% open rate, 13% click rate, and 2.2% order rate.
     
-- ✅ **Revenue-Driven Email Strategy** – Email flows and campaigns directly contributed to repeat sales and customer retention.
+- ✅ **Revenue-Driven Email Strategy** – My email campaigns helped boost repeat sales and customer retention.
     
-- ✅ **Email Engagement Leader** – Maintained an average monthly open rate of **37%** and a click-through rate of **18.6%**, well above ecommerce benchmarks.
+- ✅ **Email Engagement Leader** – Maintained an average open rate of 37% and a click rate of 18.6%, both well above industry standards.
   ![[Pic-1.png]]
     
 

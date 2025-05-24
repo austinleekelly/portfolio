@@ -6,8 +6,9 @@ tags: [Email-Marketing, Freelance, Onboarding, SaaS, Startup, UX]
 ---
 ## 📌 Summary
 
-Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connecting users with startup mentors. Emails were behaviorally triggered to match key app milestones, designed to reduce early churn, boost mentor engagement, and create momentum during the first 60 days.
+I wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform that connects users with startup mentors. The emails were triggered based on user actions in the app to guide them through key milestones, aiming to reduce early churn, improve mentor engagement, and keep users active during the first 60 days.
 
+---
 ## 📂 Role Overview
 
 - **💼 Company:** [MentorPass | Online Startup Mentors 🚀](https://www.mentorpass.co/)
@@ -18,19 +19,19 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
     
 - **📍 Location:** Remote
     
-
+---
 ## 🎯 Key Responsibilities
 
-- **Mapped user journey from account creation to second mentor call**, using triggers like “Payment,” “Book Call,” and “Call Review” to guide users step-by-step.
+- **Mapped user journey**: I mapped out the steps users take, from creating an account to booking their second mentor call. I used triggers like "Payment," "Book Call," and "Call Review" to send timely emails.
     
-- **Planned and wrote 8 triggered emails** across onboarding milestones including “Get Started,” “Setup,” and “Follow Mentors.”
+- **Planned and wrote 8 triggered emails**: I wrote emails that helped users take action at each step, such as getting started, setting up their profile, and following mentors.
     
-- **Worked closely with product and CX teams** to align email timing with user behavior and app flow.
+- **Collaborated with teams**: I worked with product and customer experience teams to ensure email timing and content matched user behavior and app flow.
     
-
+---
 ## 🚀 Achievements and Impact
 
-- ✅ **Integrated email triggers** with platform actions:
+- ✅ **Built email triggers based on user actions**:
     
     - `Payment` → Welcome + Quick Start
         
@@ -44,14 +45,13 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
         
     - `Book 2nd Call` → “Compound Value” email to build habit
         
-- ✅ Reinforced user confidence and decreased drop-off between signup and first call.
+- ✅ **Reduced early drop-off**: By reinforcing user confidence, fewer users dropped off between signing up and booking their first call.
     
-- ✅ Delivered messaging that matched product tone: friendly, smart, supportive.
+- ✅ **Aligned messaging with product tone**: Emails were friendly, smart, and supportive, matching the platform’s style.
     
 
-## 🛠💻 Skills and Tools
-
-### 🛠 **Skills**
+---
+## 🛠 Skills
 
 -  [[Skills/Writing and Marketing#Email Marketing and Automation|Behavioral Email Marketing and Automation]]
     
@@ -61,7 +61,7 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
     
 - [[Skills/Business and Ecommerce#Sales Funnel Optimization|Funnel Optimization]]
     
-
+---
 ## 📜 Applicable Certifications
 
 - [[Email Marketing Certificate (Hubspot)]]
@@ -69,9 +69,7 @@ Wrote an 8-email onboarding sequence for **MentorPass**, a SaaS platform connect
 - [[Certified Marketing Strategy Associate (SMstudy)]]
 - [[Online Marketing Fundamentals (Google)]]
 - [[Klaviyo Sales Certification (Klaviyo)]]
-
+---
 ## 🌟 Relevant Testimonials
 
 * [[Testimonials#Great service and high-quality copywriting|"Great service and high-quality copywriting..."]]
-## 🔗 Related Links
- - 🌐 **Company Website:** [MentorPass | Online Startup Mentors 🚀](https://www.mentorpass.co/)
