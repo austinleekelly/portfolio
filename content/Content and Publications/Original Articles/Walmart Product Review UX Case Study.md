@@ -1,75 +1,84 @@
 ---
 created: 2025-05-23T09:04:43-05:00
 modified: 2025-05-24T11:56:56-05:00
-title: Fixing Misleading Ratings on Walmart.com - A UX Copy Solution to Separate Product Feedback from Shipping Complaints
+title: "Separating Shipping Complaints from Product Reviews: A Walmart UX Copy Solution"
 ---
 > **Disclaimer:**  
-This article is an independent analysis created for educational and portfolio purposes. I am not affiliated with Walmart, and the views expressed here are my own. 
->
-This content is not sponsored, endorsed, or reviewed by Walmart. Any product names, brand names, or trademarks mentioned are the property of their respective owners. 
->
-My goal is to highlight a common user experience issue and suggest a possible profitable solution - not to criticize or misrepresent Walmart or its partners.
+> This article is an independent analysis made for educational and portfolio use. I am not affiliated with Walmart. The opinions here are my own.  
+> 
+> This content is not sponsored, endorsed, or reviewed by Walmart. Product and brand names are the property of their owners.  
+> 
+> The goal is to highlight a common user experience issue and suggest a possible solution. It is not to criticize Walmart or its partners.
 
-In ecommerce, clarity isn’t optional. It’s essential.
+## Introduction
+Many top products on Walmart.com have low ratings. 
 
-On Walmart.com, many top products have low ratings. It's not because the products are bad, but because frustrated customers mix product complaints with shipping issues in their reviews. This blurs the true quality of the products, hurts customer trust, and hides real problems.
+This is often not because the products are bad. Instead, customers mix complaints about shipping with product reviews.
+
+This makes it hard to tell which problems are with the product and which are with delivery. It hurts trust and hides real issues.
 
 ---
 
-This case study shows a key UX problem causing this and offers a simple content solution: a **review clarification prompt** that helps separate delivery complaints from product reviews. The outcome? More accurate ratings, higher buyer confidence, and a fairer playing field for top-selling items.
+## Case Study Overview
+This case study explains a key user experience problem. It proposes a simple fix: a review clarification prompt. This prompt helps separate product feedback from shipping complaints.
+
+The result is clearer ratings, better buyer confidence, and fairer treatment of popular products.
 
 ---
 ## The Problem: Product Ratings Penalized for Shipping Issues
 > 75% of sampled 1-star reviews for Angel Soft toilet paper were about shipping, not the product.
 
-Walmart.com sells items directly and through third-party sellers. This mix expands choices but causes varied delivery experiences.
+Walmart sells both directly and through third-party sellers. This mix means delivery experiences vary.
 
-The review system doesn’t separate product feedback from shipping complaints. 
+The review system does not separate product issues from shipping problems.
 
 **Here’s the issue:**
 
-- A customer receives an item late or damaged
+- A customer gets an order late, damaged, has a bad experience, etc.
     
-- They leave a 1-star review
+- They leave a 1-star product review.
     
-- The product rating drops even though the problem wasn’t the product itself
+- The product’s rating falls, even though the product itself was fine.
     
 
 **This causes:**
 
-- Unfairly lowered product ratings
+- Unfairly lowered product ratings.
     
-- Misleading averages that hide real insights
+- Misleading averages that hide real insights.
     
-- Lost sales and eroded trust in Walmart and its sellers
+- Lost sales and eroded trust in Walmart and its sellers.
 
 ---
 ## How Big Is the Problem?
 
-Looking at Walmart’s best sellers, many 1-star reviews actually complain about shipping, not the product.
+Many 1-star reviews for Walmart’s best sellers complain about shipping, not products.
 
 **Most Reviewed Products Within Some of Walmart’s Top-Selling Categories (Sampling 20 Most Recent Reviews Per Product)**
 *(Sources: [Expert Beacon](https://expertbeacon.com/11-most-sold-items-at-walmart/), [Marketing Scoop](https://www.marketingscoop.com/consumer/11-most-sold-items-at-walmaWalmart))*
 
-| Item                                                                                                                                                                               | Category               | Total Ratings | 1-Star Reviews About Shipping (out of 20 sampled)<br> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------- | ----------------------------------------------------- |
-| [Angel Soft Toilet Paper](https://www.walmart.com/ip/Angel-Soft-2-Ply-Toilet-Paper-9-Mega-Rolls/708542578?classType=VARIANT&athbdg=L1100&from=/search)                             | Toilet Paper           | 81.7K         | 15 (75%)                                              |
-| [7-Quart Slow Cooker](https://www.walmart.com/ip/Crock-Pot-Manual-7-Quart-Slow-Cooker-Black/40703590)                                                                              | Slow Cookers           | 9509          | 9 (45%)                                               |
-| [32”(720P) LED Smart Television](https://www.walmart.com/ip/onn-32-Class-HD-720P-LED-Roku-Smart-Television-100012589/314022535?classType=REGULAR&from=/search)                     | Televisions            | 54.9K         | 9 (45%)                                               |
-| [Equate Flushable Wet Wipes](https://www.walmart.com/ip/Equate-Flushable-Wipes-Fresh-Scent-5-packs-of-48-wipes-240-Total-Wipes/873764?classType=VARIANT&athbdg=L1100&from=/search) | Flushable Wipes        | 54.4K         | 13 (65%)                                              |
-| [Sparkle Paper Towels](https://www.walmart.com/ip/Sparkle-Tear-a-Square-Paper-Towels-6-Double-Rolls/656274757?classType=REGULAR&athbdg=L1100&from=/search)                         | Paper Towels           | 37.8K         | 11 (55%)                                              |
-| [Mainstays Bed Pillow](https://www.walmart.com/ip/Mainstays-Comfort-Complete-Bed-Pillow-Standard-Queen/744932389?classType=VARIANT&athbdg=L1200&from=/search)                      | Pillows                | 26.4K         | 2 (10%)                                               |
-| [TAL Stainless Steel Water Bottle](https://www.walmart.com/ip/TAL-Stainless-Steel-Ranger-Water-Bottle-with-Easy-Sip-Straw-26oz-Black/986184222?classType=VARIANT&from=/search)     | Reusable Water Bottles | 5,442         | 5 (25%)                                               |
-*Each product’s 1-star review column reflects a manual examination of 20 of the most recent one-star reviews.*
+| Item                                                                                                                                                                               | Category               | Total Ratings | 1-Star Reviews About Shipping<br> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------- | --------------------------------- |
+| [Angel Soft Toilet Paper](https://www.walmart.com/ip/Angel-Soft-2-Ply-Toilet-Paper-9-Mega-Rolls/708542578?classType=VARIANT&athbdg=L1100&from=/search)                             | Toilet Paper           | 81.7K         | 15 (75%)                          |
+| [7-Quart Slow Cooker](https://www.walmart.com/ip/Crock-Pot-Manual-7-Quart-Slow-Cooker-Black/40703590)                                                                              | Slow Cookers           | 9509          | 9 (45%)                           |
+| [32”(720P) LED Smart Television](https://www.walmart.com/ip/onn-32-Class-HD-720P-LED-Roku-Smart-Television-100012589/314022535?classType=REGULAR&from=/search)                     | Televisions            | 54.9K         | 9 (45%)                           |
+| [Equate Flushable Wet Wipes](https://www.walmart.com/ip/Equate-Flushable-Wipes-Fresh-Scent-5-packs-of-48-wipes-240-Total-Wipes/873764?classType=VARIANT&athbdg=L1100&from=/search) | Flushable Wipes        | 54.4K         | 13 (65%)                          |
+| [Sparkle Paper Towels](https://www.walmart.com/ip/Sparkle-Tear-a-Square-Paper-Towels-6-Double-Rolls/656274757?classType=REGULAR&athbdg=L1100&from=/search)                         | Paper Towels           | 37.8K         | 11 (55%)                          |
+| [Mainstays Bed Pillow](https://www.walmart.com/ip/Mainstays-Comfort-Complete-Bed-Pillow-Standard-Queen/744932389?classType=VARIANT&athbdg=L1200&from=/search)                      | Pillows                | 26.4K         | 2 (10%)                           |
+| [TAL Stainless Steel Water Bottle](https://www.walmart.com/ip/TAL-Stainless-Steel-Ranger-Water-Bottle-with-Easy-Sip-Straw-26oz-Black/986184222?classType=VARIANT&from=/search)     | Reusable Water Bottles | 5,442         | 5 (25%)                           |
+
+*Data comes from sampling the 20 most recent one-star reviews for each product.*
+
+Up to 75% of negative reviews for popular products are about shipping, not product quality.
 
 ---
-## What Customers Are Saying (That Shouldn’t Hurt Product Ratings)
+## What Customers Say (That Should Not Hurt Product Ratings)
 
-These are just a few examples from a single product's one-star reviews.
+Here are examples of real one-star reviews that focus on shipping problems:
 
 ---
 
-> “I paid for the 3 Hours or Less for $5.00 and I didn't get credit for the $5.00 according to my order which I should have. 5 of my items that I have been trying to get from Walmart for the last 3 deliveries are always out of stock. My order was 45 minutes late being delivered. I have not been happy with Walmart for a couple of months now. Thinking of switching to Amazon or Target.”  
+> “I paid for the 3 Hours or Less for \$5.00 and I didn't get credit for the \$5.00 according to my order which I should have. 5 of my items that I have been trying to get from Walmart for the last 3 deliveries are always out of stock. My order was 45 minutes late being delivered. I have not been happy with Walmart for a couple of months now. Thinking of switching to Amazon or Target.”  
 ![[Pasted image 20250523113120.png]]
 
 ---
@@ -89,154 +98,147 @@ These are just a few examples from a single product's one-star reviews.
 > “I am insulted you would even send this. I never received the order or my refund for the order after 2 weeks. Send my refund and you won't have to worry about me ordering anything else from Walmart nor bothering me. Thank you.”
 ![[Pasted image 20250523112754.png]]
 
-These are real issues, but they reflect shipping, not product quality.
+These are real issues with delivery. But they unfairly lower product ratings and mislead buyers.
 
 ---
 ## Why This Matters to Walmart’s Revenue
 
-Assuming only 5% of unhappy customers leave reviews, 750 shipping-related 1-star reviews for one product mean about 15,000 affected shoppers.
+Even a few shipping-related 1-star reviews can cause big revenue loss.
 
-If 10% of those reduce their Walmart shopping by 10% annually (assuming $1,000 spend), Walmart could lose roughly $150,000 a year from just that one product.
+According to [Gominga](https://gominga.com/insights/online-review-statistics/#:~:text=Reputation%20Management&text=Customers%20are%2021%25%20more%20likely,never%20responded%20to%20their%20review), 96% of dissatisfied customers never leave a review, meaning each negative rating may represent up to 20 unhappy shoppers.
 
-Fixing this can recapture revenue and improve customer loyalty.
+Using conservative estimates:
+* If a single product on Walmart.com accumulates 50 such reviews, that could reflect 1,000 negatively affected customers.
+* If only 10% of them reduce their annual Walmart spending by 10%
+* Based on the average annual spend of $3,578 per shopper ([Business Insider](https://www.businessinsider.com/walmart-typical-customer-demographics-shopper-profile-numerator#:~:text=The%20typical%20customer%20shops%20with,online%20or%20in%2Dapp%20sales)) 
+* That still results in a loss of roughly **$35,780** per year from just that one experience voiced from a product review.
 
----
-
-## Current Review Flow
+This does not count the effect on other customers. Across many products, the impact could be millions of dollars.
+### Current Review Flow
 At the time of writing, this is the current logic flow for a product review. 
-
-### Step 1
+#### Step 1: Product Review Lander
 ![[msedge_ztWlDjpFp3.png]]
-**Above:** Upon clicking review, the star rating is displayed first, assuming the customer will review about the product only. 
-### Step 2
+**Above:** Right now, when customers review a product, they first see the star rating. The system assumes feedback is only about the product.
+#### Step 2: More Product Review Details
 ![[YfiJNUuw2g.png]]
-**Above:** The review form proceeds to the second step allowing the user to enter more details.
-## Proposed Solution: Add a Review Clarification Prompt
+**Above:** Next, they enter detailed comments without a chance to say if the issue was with delivery or the item.
+### Proposed Solution: Add a Review Routing Step
 
-Introduce a simple UX step when customers start a review:
-### Step 1: Ask What the Review Is About
+Add a simple question at the start of the review process:
+#### Step 1: Ask What the Review Is About
 
-**“What would you like to share feedback about?”**
+> **“What would you like to share feedback about?”**
 
 - The item itself
     
 - My shipping or delivery experience
 
-### Step 2: Route Accordingly
+![[Frame 1 (1).jpg]]
+**Above:** Proposed simple question at the start of the review.
+#### Step 2: Route Accordingly
 
-- If **shipping or delivery** is chosen:  
-	- Show a message:  _“We're sorry to hear that. Delivery issues are best handled by Customer Care. Let’s get that sorted.”_  
-	- Link to “Report a Delivery Issue” or live chat.
-- If **the item itself** is chosen:  
-	- Proceed with the standard product review form.
+- If the customer picks shipping or delivery:
+	- Show a message: 
+	  > “We're sorry to hear that. Delivery issues are best handled by Customer Care. Let’s get that sorted.”
+	- Provide a link to report the delivery issue or start live chat support.
+- If the customer chooses **the item itself**:  
+	- Continue with the normal product review form.
 
-### Review Submission Flowchart
-
-
+#### Review Submission Flowchart
 
 ```mermaid
 flowchart TD
-    A[User clicks 'Write a Review'] --> B{What is your feedback about?}
-    B -->|The item itself| C[Continue to Product Review Form]
-    B -->|Shipping or Delivery| D[Redirect to Delivery Issue Form]
-    D --> E[Prompt: Let’s get that sorted out]
-    E --> F[Link to Support or Delivery Issue Report]
+    A[User starts review] --> B{What is your feedback about?}
+    B -->|Item| C[Product Review Form]
+    B -->|Shipping| D[Delivery Issue Form]
+    D --> E[Message: Let’s get that sorted]
+    E --> F[Link to Support]
 
 ```
 
 ---
 
-### Additional Review Logic: Smart Keyword Detection
+### ### Extra Step: Smart Keyword Detection
 
-To further reduce misdirected negative reviews, keyword detection can be integrated into the product review submission process. 
+Add real-time scanning of review text for shipping-related keywords like "late," "missing," "delivery," or "refund."
 
-This logic scans user input in real time to identify language that suggests the issue lies outside of the product itself (such as shipping delays, fulfillment errors, or customer service problems.) 
+If detected, show a gentle message:
 
-If detected, the system can gently redirect the user with a message like, “It looks like you may be experiencing a service-related issue. Would you like help resolving it instead of leaving a product review?”
+> “It looks like you may be reporting a delivery issue. Would you like help with that instead of a product review?”
 
-This proactive approach doesn’t rely on the user carefully reading the prompt. Instead, it uses a dynamic keyword detection list to identify common phrases tied to service-related frustrations. Below are sample keyword groupings that can trigger rerouting:
+This helps catch misdirected reviews even if customers miss the first prompt.
 
-| **Category**                | **Example Keywords/Phrases**                                                                  |
-| --------------------------- | --------------------------------------------------------------------------------------------- |
-| **Delivery Issues**         | late delivery, delayed, not delivered, delivery date missed, still waiting                    |
-| **Order Fulfillment**       | out of stock, items missing, subscription issues, wrong items, unwanted items, didn’t receive |
-| **Customer Service**        | no update, couldn’t get help, contacted customer service, no resolution, poor communication   |
-| **Refund/Billing Problems** | didn’t get credit, charged for undelivered items, canceled but still charged                  |
-| **Brand Switching Threats** | thinking of switching to Amazon, thinking of switching to Target                              |
-By surfacing appropriate support channels at the right time, this logic preserves the integrity of product reviews while improving customer experience.
+#### Product Review Smart Keyword Detection Example
 
-### Smart Keyword Detection Example
+![[879w default (2).jpg]]
 
-![[879w default (1).jpg]]
-**Above:** This example shows how the smart keyword detection UX copy could appear.
+**Above:** Example smart keyword detection in action.
 
 ---
 
 ## Why This Works
 
-- Keeps product ratings accurate by filtering out delivery complaints
+- Keeps product ratings accurate by filtering out delivery complaints.
     
-- Protects seller reputations from unfair penalties
+- Protects 3rd party sellers (and Walmart brand products) from unfair negative reviews.
     
-- Builds customer trust by guiding them to the right support
+- Helps customers get support faster by guiding them to the right place.
     
-- Matches best practices used by Amazon, Etsy, and other major ecommerce sites
+---
+## Understanding Walmart’s Complex Fulfillment System
+
+Walmart uses a mix of in-store pickup, local delivery, and shipping. This creates varied customer experiences.
+
+Because of this, the review system needs to clearly separate product feedback from delivery feedback.
+
+Walmart has started adding:
+
+- Product review support flows
+    
+- Keyword detection in reviews
+    
+- Clear help links in Order History
+    
+
+These steps will reduce wrong reviews and improve delivery problem resolution.
 
 ---
 
 ## Next Steps for Walmart Stakeholders
 
-To validate and scale this solution, consider the following action plan:
-
-### 1. Pilot Test the Clarification Prompt
-
-- **Target**: Select 3-5 high-traffic product categories with a high volume of shipping-related 1-star reviews.
+- **Pilot the Clarification Prompt**
     
-- **Goal**: Test whether the clarification prompt reduces off-topic reviews and improves rating accuracy.
-    
-- **KPIs to Track**:
-    
-    - % reduction in shipping-related language in product reviews
+    - Test with 3-5 product categories that get many shipping complaints.
         
-    - % change in average product rating
+    - Measure if the prompt lowers off-topic reviews and improves ratings.
         
-    - % increase in resolved delivery issues via support channels
+- **Track Business Impact**
+    
+    - Watch sales and conversion rates.
         
-
-### 2. Monitor Business Impact
-
-- **Sales Metrics**: Track conversion rates before and after the prompt is introduced.
+    - Survey customers on their review experience.
+        
+    - Check if delivery support requests increase.
+        
+- **Gather Feedback**
     
-- **Customer Satisfaction (CSAT/NPS)**: Survey users who leave reviews to measure perceived ease and fairness of the process.
+    - Ask Customer Service and sellers about clarity after the change.
+        
+    - Review tone and relevance of new product reviews.
+        
+- **Make Improvements**
     
-- **Support Volume**: Measure changes in delivery issue reporting via Customer Care.
+    - Adjust wording and UX based on data and feedback.
+        
+- **Roll Out to More Categories**
     
-
-### 3. Gather Qualitative Feedback
-
-- **Internal**: Survey frontline Customer Service teams and Marketplace sellers for input on post-implementation clarity.
-    
-- **External**: Monitor review content for tone, helpfulness, and relevance post-implementation.
-    
-
-### 4. Iterate Based on Insights
-
-- Refine copy based on customer behavior and feedback.
-    
-- Adjust UX flow if friction or confusion is observed during the pilot.
-    
-
-### 5. Scale Across Platform
-
-- Roll out to additional categories.
-    
-- Integrate with Walmart's app and web platforms to maintain consistency.
+    - Expand the solution across Walmart’s web and app platforms.
 
 ---
 ## Summary
 
-Clear, direct UX copy can fix real business problems. 
+Asking customers what their review is about before they write it can fix a big problem.
 
-By asking customers what their feedback is about before they write a review, Walmart can reduce confusion, improve rating accuracy, and improve buyer trust and satisfaction.
+It improves rating accuracy, builds trust, and helps customers get the right support.
 
-This case study shows how a small change in copy and UX design can make a big impact on ecommerce success.
+This simple UX change could have a big positive impact on Walmart’s ecommerce success.
