@@ -55,7 +55,7 @@ Built onboarding sequences to increase user engagement in eCom Shopify funnel bu
 - [[Onboarding UX Email Copywriter for MentorPass]]  
 Simplified complex onboarding experience for coaching platform.
 
-- [[Onboarding UX Email Copywriter for Snappy Kraken]]  
+- [[Onboarding UX Copywriter for Snappy Kraken]]  
 Worked closely with dev and marketing to align copy with the user’s mental model.
 
 - [[Onboarding UX Email Consultant for Inkwell Content]]

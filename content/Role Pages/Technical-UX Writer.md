@@ -36,7 +36,7 @@ Whether writing recovery SOPs for an IT team or designing onboarding sequences f
 
 ### ✍️ UX Writing and Lifecycle Messaging
 
-- Wrote onboarding and retention sequences for [[Onboarding UX Email Copywriter for Snappy Kraken|Snappy Kraken]] and [[Onboarding UX Email Copywriter for MentorPass|MentorPass]], reducing churn and supporting projected [[Onboarding UX Email Copywriter for Snappy Kraken#^0b25c6|$100K+ ARR gains]].
+- Wrote onboarding and retention sequences for [[Onboarding UX Copywriter for Snappy Kraken|Snappy Kraken]] and [[Onboarding UX Email Copywriter for MentorPass|MentorPass]], reducing churn and supporting projected [[Onboarding UX Copywriter for Snappy Kraken#^0b25c6|$100K+ ARR gains]].
     
 - Strategized content and flows to reduce early churn, boost time-to-value, and lower support friction.
     

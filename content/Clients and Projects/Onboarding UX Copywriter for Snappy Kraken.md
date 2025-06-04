@@ -1,8 +1,9 @@
 ---
 created: 2025-04-02T12:32:30-05:00
-modified: 2025-04-29T17:24:34-05:00
+modified: 2025-05-26T16:16:55-05:00
 Needs Revised: true
 tags: [Case-Study, Email-Marketing, Freelance, Onboarding, SaaS, UX]
+title: Onboarding UX Email and In-App Copywriter for Snappy Kraken
 ---
 ## 📌 Summary
 
@@ -26,9 +27,9 @@ I reduced churn by 50% and added over **$100,000 in projected annual revenue** f
     
 - Audited all existing onboarding content and support docs.
     
-- Designed an **8-email sequence** aligned with user needs and key milestones.
+- Designed an **8-email sequence** (with in-app messaging) to meet user needs and key milestones.
     
-- Wrote original emails and created multiple versions for A/B testing.
+- Wrote original emails and in-app messaging and created multiple versions for A/B testing.
     
 - Developed a plan to reduce support tickets by addressing common issues in the user journey.
     
@@ -64,9 +65,9 @@ Instead of changing pricing or offering discounts, we created an onboarding flow
     
 2. **Onboarding Audit:** Reviewed welcome, setup, and help flows.
     
-3. **Messaging Strategy:** Designed email sequence based on message-market-moment fit.
+3. **Messaging Strategy:** Designed email sequence and in-app messaging based on message-market-moment fit.
     
-4. **Copywriting:** Wrote and structured the 8-email sequence.
+4. **Copywriting:** Wrote and structured the 8-email sequence (with in-app messaging).
     
 5. **Testing Strategy:** Developed A/B testing variants for subject lines and CTAs.
 

@@ -98,7 +98,7 @@ title: 🌟 Testimonials
 
 <br>
 
-### 🧭✍  [[Onboarding UX Email Copywriter for Snappy Kraken]]
+### 🧭✍  [[Onboarding UX Copywriter for Snappy Kraken]]
 
 > [!success]- "Knows how to take complex concepts and simplify them, make them clear, and make them extremely actionable..."
 > “Austin knows how to take complex concepts and simplify them, make them clear, and make them extremely actionable.
