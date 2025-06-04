@@ -1,7 +1,7 @@
 ---
 created: 2025-06-04T10:35:07-05:00
 modified: 2025-06-04T10:35:28-05:00
-title: "Driving Clarity: UX Copy Edits for the Spark Driver App"
+title: "Driving Clarity: UX Copy Strategies for Walmart’s Spark Driver App"
 ---
 > **Disclaimer:**  
 > This article is an independent UX copywriting exercise created for educational and portfolio use. I am not affiliated with Walmart or Spark Driver. 
