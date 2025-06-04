@@ -10,7 +10,7 @@ title: "Driving Clarity: UX Copy Strategies for Walmart’s Spark Driver App"
 >
 > This content is not sponsored, endorsed, or reviewed by Walmart.
 # Introduction
-David Ogilvy once said to write as if your audience is **“in a hurry, frustrated, and likely confused.”**
+David Ogilvy, advertising legend, once said to write as if your audience is **in a hurry, frustrated, and likely confused.**
 
 That mindset is essential for UX and communications copy - especially when writing for gig workers navigating real-world delivery logistics. 
 
