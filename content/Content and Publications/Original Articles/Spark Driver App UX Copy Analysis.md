@@ -110,9 +110,11 @@ Each copy section analysis is structured using the following template:
 **🎯 User Goal / State:** Driver wants to confirm the correct order is being picked up and complete the handoff without confusion.
 
 **🧩 Current Header Copy:** `Labels scanned`
-**🛠️ Proposed Header Copy:** `Order labels scanned`
 
+**🛠️ Proposed Header Copy:** `Order labels scanned`
+<br>
 **🧩 Current CTA Copy:** `START SCANNING`
+
 **🛠️ Proposed CTA Copy:** `SCAN ORDER LABELS`
 
 
