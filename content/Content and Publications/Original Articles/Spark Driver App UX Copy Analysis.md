@@ -35,7 +35,9 @@ Each copy section analysis is structured using the following template:
 
 ---
 # Key Microcopy Touchpoints
-## 1. Parking Spot Selection![[OmenCommandCenterBackground_tIRx7zAIkQ.png]]
+## 1. Parking Spot Selection
+
+![[OmenCommandCenterBackground_tIRx7zAIkQ.png]]
 
 **📍 Screen Context:** Appears after the driver arrives at the store. Their next step is to choose a parking spot to alert store staff that they’re ready.
 
@@ -57,6 +59,7 @@ Each copy section analysis is structured using the following template:
 ---
 
 ## 2. Order Status Timeline
+
 ![[OmenCommandCenterBackground_pTh21PZYtZ 1.png]]
 
 **📍 Screen Context:** Timeline view showing order progress inside the store.
@@ -99,6 +102,7 @@ Each copy section analysis is structured using the following template:
 
 ---
 ## Scanning Order Labels
+
 ![[OmenCommandCenterBackground_dLq4XlPEo4.png]]
 
 **📍 Screen Context:** After arriving, the driver is prompted to scan order labels to confirm pickup order(s).
