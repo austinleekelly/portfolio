@@ -112,7 +112,7 @@ Each copy section analysis is structured using the following template:
 **🧩 Current Header Copy:** `Labels scanned`
 
 **🛠️ Proposed Header Copy:** `Order scanned`
-<br>
+<br><br>
 **🧩 Current CTA Copy:** `START SCANNING`
 
 **🛠️ Proposed CTA Copy:** `SCAN ORDER LABELS`
