@@ -191,7 +191,7 @@ Walmart uses a mix of in-store pickup, local delivery, and shipping. This create
 
 Because of this, the review system needs to clearly separate product feedback from delivery feedback.
 
-Walmart has started adding:
+If Walmart starts adding:
 
 - Product review support flows
     
