@@ -72,7 +72,7 @@ Each copy section analysis is structured using the following template:
 
 **🧠 Rationale:** 
 * `Not started` can sound inactive and cause unnecessary concern.
-- `Preparing`  is a neutral term commonly used in delivery apps like Domino’s, providing clearer expectations.
+- `Preparing`  is a neutral term commonly used in delivery apps like Domino’s, providing clearer expectations. The step's segment indicator can be shown as inactive if the preparation has not begun.
 - This change reduces friction for multitasking drivers who rely on quick and intuitive visual cues.
 
 
