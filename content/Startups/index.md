@@ -4,7 +4,7 @@ modified: 2025-04-29T15:33:08-05:00
 title: 🚀 Startups
 ---
 > [!info] **What You'll Find Here**  
-> This page features feedback from people and organizations I've worked with across different industries and roles - including SaaS, IT, education, and freelance projects. These testimonials reflect the quality of my work, communication style, and the value I’ve brought to teams and clients.
+> Ventures I've founded and run on my own - spanning IT services, ecommerce, creative services, and SaaS. Each one reflects hands-on ownership across operations, marketing, and product, and the practical lessons that come with building something from scratch.
 
 ## How to Navigate:
 

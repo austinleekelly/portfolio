@@ -46,10 +46,11 @@ My experience spans **B2B messaging**, **SEO**, **technical writing**, and **ema
 
 ## Copywriting
 
-### SaaS Onboarding and UX Copywriting
+### UX Copywriting
 > Creating clear, user-friendly copy that simplifies the onboarding process and enhances the user experience.
 
 💼**Relevant Work:**
+- [[Walmart - UX and Communications Copywriter]]
 - [[Long Form Content and Technical Writer for Shoptimized]]
 - [[Onboarding UX Consulting for CreatorPilot]]
 - [[Onboarding UX Consulting for OutreachBin]]
@@ -95,6 +96,9 @@ My experience spans **B2B messaging**, **SEO**, **technical writing**, and **ema
 > Writing user guides, manuals, and other technical documentation that simplify complex concepts for end-users.
 > 
 > **Sample Document:** [[Whisper Desktop]]
+
+💼**Relevant Work:**
+- [[Walmart - UX and Communications Copywriter]]
 
 ---
 

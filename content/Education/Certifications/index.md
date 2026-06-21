@@ -6,6 +6,20 @@ title: 📜 Certifications
 > [!info] Info  
 > Below you'll find a collection of my certifications, organized by **institution** and searchable using **tags**. Each certification entry includes a breakdown of key skills, completion date, and relevant links or verification details.
 
+## ⭐ Most Relevant Right Now
+
+- [[Postman API Fundamentals Student Expert Certificate]] - API fundamentals, directly applied in current AI tool development work.
+- [[Project Management (Alison)]] - Project management foundations, applied to self-directing tool builds and cross-functional work.
+- [[IS-242B Effective Communication (FEMA)]] - Communication fundamentals, applied to content governance and stakeholder work.
+- [[IS-240B Leadership and Influence (FEMA)]] - Leadership and influence without direct authority, applied across cross-functional collaboration.
+- [[Scrum Fundamentals Certified (SMstudy)]] - Agile fundamentals, applied to iterative tool development.
+
+## 🔄 In Progress
+
+- **Google AI Certificate** - In progress.
+- **Machine Learning Specialization (Andrew Ng, Coursera)** - In progress.
+- **Tableau Desktop Specialist** - Planned.
+
 ## How to Navigate:
 
 1. **Browse by Institution**: Certifications are grouped under the organization that issued them (e.g., [[Certifications/Department of Homeland Security|Department of Homeland Security]], [[Digital Marketer/|Digital Marketer]], [[Klaviyo/|Klaviyo]]). Click into a folder to explore all certifications from that source.

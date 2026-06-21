@@ -17,6 +17,21 @@ title: 📚 Documentation and Dev Tools
 
 ---
 
+## 🤖 AI Development Tools
+
+- **Claude (Anthropic)** - Used daily for content drafting, editing, governance review, and as the model powering internal AI tools.  
+- **Code Puppy** - Internal platform used to design and build AI-powered tools and agents through vibe coding.  
+- **Anthropic API** - Connects custom-built tools to Claude for tasks like content cross-referencing, document conversion, and compliance review.  
+
+---
+
+## 🔀 Version Control and Publishing
+
+- **GitHub** - Hosts and version-controls this portfolio site and supporting code for internal tools.  
+- **Quartz** - Static site generator that converts this Obsidian vault into a published, navigable portfolio site.  
+
+---
+
 ## 🗂 Knowledge Management and Wikis
 
 - **Confluence** - **Actively learning** for IT processes and project wikis in enterprise teams.
@@ -29,8 +44,6 @@ title: 📚 Documentation and Dev Tools
 - **Lucidchart** - Used for org charts, network diagrams, and UX flow planning.  
 - **Draw.io (diagrams.net)** - Free diagramming tool for systems and process flows.  
 - **Miro** - Virtual whiteboard for brainstorming and user journey mapping.  
-- **Whimsical** - Fast visual planning for wireframes, flows, and mind maps.  
-- **Cacoo** - Team-based diagramming for workflows and technical architecture.
 
 ---
 

@@ -5,20 +5,23 @@ title: Austin Kelly
 ---
 ![[me.png|250]]
 
-> [!warning] Your patience is appreciated  
-> This site is constantly evolving. Some links or pages might be in progress. If you’re looking for something specific, [[Contact|contact me here]].
+Hi, I’m **Austin Kelly** - a **technical writer and AI tools builder** working at the intersection of **content systems, agentic AI, and operational workflows**.
 
-Hi, I’m **Austin Kelly**  -  a **strong communicator and systems thinker** at the intersection of **IT, content, and automation**.
+I currently work on Walmart's Last Mile Delivery team, where I draft, edit, and govern content that supports drivers and agents, including agent workflows. 
 
-With a background in **technical support and freelance writing** - including **technical documentation, content strategy, and direct-response copywriting** - I’ve worked across **corporate, government, SaaS, and ecommerce** sectors. I specialize in turning complex ideas into clear, usable content that improves workflows, educates users, and supports product goals.
+Alongside that, I build AI-powered tools that make content teams faster and more accurate - one tool alone cut documentation time from three hours to three minutes. 
 
-This portfolio highlights my **experience, writing samples, and project work** - demonstrating how I combine practical tech skills with sharp, audience-aware writing.
+My background in technical writing helps me see how the parts of a large, fast-moving business connect, and I bring that systems view into everything I build.
+
+This portfolio highlights my **experience, writing samples, and tool work** - demonstrating how I combine technical writing, content strategy, and hands-on AI development to make teams more efficient.
 
 ---
 
 ## 🧭 Explore the Portfolio
 
-- 🖥️ **[[Work Experience/index|Professional Experience]]** – Roles in IT support, automation, writing, and operations.
+- 🖥️ **[[Work Experience/index|Professional Experience]]** – Roles in AI tooling, content systems, IT support, automation, writing, and operations.
+    
+- 🤖 **[[Software/Documentation and Dev Tools|AI Tools and Automation]]** – AI-powered tools I've built to make content and workflow teams faster and more accurate.
     
 - ✍️ **[[Content and Publications/index|Content and Publications]]** – A selection of articles, technical documentation, and marketing assets I’ve written or contributed to.
     

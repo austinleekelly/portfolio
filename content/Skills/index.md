@@ -4,13 +4,19 @@ modified: 2025-04-29T15:33:08-05:00
 title: 🛠 Skills
 ---
 > [!info] **What You'll Find Here:**  
-> A categorized overview of my real-world skill sets across business, eCommerce, IT support, technical troubleshooting, writing, and digital marketing - each with hands-on context and examples.
+> A categorized overview of my real-world skill sets across AI tooling, business, eCommerce, IT support, technical troubleshooting, writing, and digital marketing - each with hands-on context and examples.
 
 ## How to Navigate:
 
 1. **Browse by Category**: Content is organized into focused categories to help you quickly scan for relevant skills, experience, or tools by domain.
 2. **Use Search**: Looking for something specific? Use the search bar to find keywords, industries, platforms, or project types across all sections.
 
+
+---
+
+## 🤖 [[AI Tooling and Automation]]  
+> Skills related to building, governing, and deploying AI-powered tools and agents that automate work and improve content accuracy.  
+*Examples: Agentic tool development, vibe coding, workflow automation, content compliance review, prompt design*
 
 ---
 

@@ -4,12 +4,19 @@ modified: 2025-04-29T15:33:08-05:00
 title: 👔 Work Experience
 ---
 > [!info] **What You'll Find Here:**  
-> A curated overview of my non-freelance roles across IT support, systems management, and economic development. These positions span municipal government, enterprise healthcare, manufacturing, and business development - each offering hands-on impact and cross-functional collaboration.
+> A curated overview of my roles across AI tooling, content systems, technical writing, IT support, and economic development. These positions span enterprise ecommerce, municipal government, healthcare, manufacturing, and business development - each offering hands-on impact and cross-functional collaboration.
 
 ## How to Navigate:
 
 1. **Browse by Category**: Content is organized into focused categories to help you quickly scan for relevant skills, experience, or tools by domain.
 2. **Use Search**: Looking for something specific? Use the search bar to find keywords, industries, platforms, or project types across all sections.
+
+---
+
+## 📦 [[Walmart - UX and Communications Copywriter]]  
+> Draft, edit, review, and govern content for driver and agent support across Last Mile Delivery, including agent workflows. Build AI-powered tools on Code Puppy that have cut documentation time, expanded content access, and automated compliance review.  
+> 
+*July 2025 - Present | Full-time | Bentonville, AR*
 
 ---
 
