@@ -16,9 +16,7 @@ title: 📜 Certifications
 
 ## 🔄 In Progress
 
-- **Google AI Certificate** - In progress.
 - **Machine Learning Specialization (Andrew Ng, Coursera)** - In progress.
-- **Tableau Desktop Specialist** - Planned.
 
 ## How to Navigate:
 

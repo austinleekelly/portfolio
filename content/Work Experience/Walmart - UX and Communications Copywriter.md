@@ -50,7 +50,7 @@ At Walmart, I draft, edit, review, and govern content that enables support for d
 
 - **Content Authoring and Governance** - Draft, edit, review, and govern content for driver and agent support, including agent-facing workflows that guide how support agents respond to Spark Driver issues.
 
-- **Agent Workflow Management** - Maintain and improve agent workflows in a proprietary platform used by contact center agents supporting Spark Drivers across the country.
+- **Agent Workflow Management** - Maintain and improve agent workflows in a platform used by contact center agents supporting Spark Drivers across the country.
 
 - **AI Tool Development** - Design and build AI-powered tools on Code Puppy using vibe coding and the Anthropic API, creating internal utilities that reduce manual effort and improve content accuracy.
 
@@ -66,7 +66,7 @@ At Walmart, I draft, edit, review, and govern content that enables support for d
 
 - ✅ **Expanded agent workflow access across LMD** with Flowbase Lite, a read-only viewer for ~200 agent workflows previously inaccessible to stakeholders without platform credentials.
 
-- ✅ **Automated compliance review** with DEKU (Driver Enablement Knowledge Utility), a Code Puppy agent that cross-references content for language discrepancies, logic conflicts, and legal and compliance risk.
+- ✅ **Automated compliance review** with DEKU, a content cross-referencing agent built on Code Puppy that checks for language discrepancies, logic conflicts, and legal and compliance risk.
 
 - ✅ **Eliminated vendor dependency for PDF exports** by building CAPSULE, a browser-based tool that lets any team member bulk download Spark Driver Resource Center content previews on demand.
 

@@ -22,6 +22,6 @@ echo "🚀 Triggering local Quartz rebuild..."
 
 # Move to the quartz directory and run a one-time build
 cd "$QUARTZ_DIR" || exit
-npx quartz build
+npx quartz build --serve
 
 echo "✨ All done! Your updated content is ready."
