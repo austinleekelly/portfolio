@@ -1,9 +1,9 @@
 ---
 aliases: [Whisper-Desktop---A-User-Friendly-Tool-for-Fast-Transcriptions]
 created: 2025-04-11T12:35:50-05:00
-modified: 2025-05-13T15:51:50-05:00
+modified: 2026-06-21T15:40:46-05:00
 tags: [Long-Form-Content, Original, Technical-Writing]
-title: 🌻 Whisper Desktop - A User Friendly Tool for Fast Transcriptions
+title: Whisper Desktop - A User Friendly Tool for Fast Transcriptions
 ---
 _This technical writing sample is based on my personal use of Whisper Desktop, aimed at the casual user._
 

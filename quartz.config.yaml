@@ -13,6 +13,8 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "**/private/**"
+    - "**/Private/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -143,7 +145,7 @@ plugins:
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -275,6 +277,16 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/og-image
+    enabled: false
+    options:
+      colorScheme: lightMode
+      width: 1200
+      height: 630
+      excludeRoot: false
+      defaultTitle: Untitled
+      defaultDescription: No description provided
     order: 50
 layout:
   groups:

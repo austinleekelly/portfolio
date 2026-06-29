@@ -5,3 +5,30 @@
 .page-title {
   font-family: "Bebas Neue", var(--headerFont);
 }
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 0.4rem;
+}
+
+.tags > * {
+  white-space: nowrap;
+}
+
+.note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.note-properties-tags .tag-link {
+  white-space: nowrap;
+}
+
+.note-properties-tags .note-properties-separator {
+  display: none;
+}

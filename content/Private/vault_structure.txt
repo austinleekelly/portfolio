@@ -1,0 +1,958 @@
+Folder PATH listing
+Volume serial number is 162C-6BA9
+C:.
+³   Contact.md
+³   index.md
+³   Testimonials.md
+³   Volunteering.md
+³   
+ÃÄÄÄ.obsidian
+³   ³   app.json
+³   ³   appearance.json
+³   ³   bookmarks.json
+³   ³   community-plugins.json
+³   ³   copilot-index-706987424eae8f1566b2288ee7333067.json
+³   ³   core-plugins.json
+³   ³   graph.json
+³   ³   hotkeys.json
+³   ³   templates.json
+³   ³   types.json
+³   ³   workspace.json
+³   ³   
+³   ÃÄÄÄicons
+³   ³   ³   font-awesome-solid.zip
+³   ³   ³   
+³   ³   ÀÄÄÄfont-awesome-solid
+³   ³           Briefcase.svg
+³   ³           Certificate.svg
+³   ³           CircleCheck.svg
+³   ³           GraduationCap.svg
+³   ³           Heart.svg
+³   ³           Star.svg
+³   ³           
+³   ÃÄÄÄplugins
+³   ³   ÃÄÄÄadvanced-cursors
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄcode-styler
+³   ³   ³   ³   main.js
+³   ³   ³   ³   manifest.json
+³   ³   ³   ³   styles.css
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄreference-files
+³   ³   ³           cache.json
+³   ³   ³           
+³   ³   ÃÄÄÄcopilot
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄcopy-inline-code
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄdataview
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄglobal-search-and-replace
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄharper
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       
+³   ³   ÃÄÄÄmulti-properties
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobisidian-note-linker
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobsidian-bulk-rename-plugin
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobsidian-charts
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobsidian-icon-folder
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobsidian-linter
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobsidian-outliner
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄobsidian-projects
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÃÄÄÄsmart-connections
+³   ³   ³       data.json
+³   ³   ³       main.js
+³   ³   ³       manifest.json
+³   ³   ³       styles.css
+³   ³   ³       
+³   ³   ÀÄÄÄtag-wrangler
+³   ³           main.js
+³   ³           manifest.json
+³   ³           
+³   ÀÄÄÄthemes
+³       ÀÄÄÄMinimal
+³               manifest.json
+³               theme.css
+³               
+ÃÄÄÄ.smart-env
+³   ³   smart_env.json
+³   ³   
+³   ÃÄÄÄmulti
+³   ³       Application_Tracker_md.ajson
+³   ³       Clients_and_Projects_Business_Broker_for_Shoptimized_md.ajson
+³   ³       Clients_and_Projects_Cold_Email_Campaign_and_Lander_Copy_for_iAutoAgent_md.ajson
+³   ³       Clients_and_Projects_Cold_Email_Campaign_for_The_Product_Plug_md.ajson
+³   ³       Clients_and_Projects_Cold_Email_Campaign_for_ZenOKR_md.ajson
+³   ³       Clients_and_Projects_Ecommerce_Email_Consulting_for_Health_Mate_Saunas_md.ajson
+³   ³       Clients_and_Projects_Ecommerce_Email_Marketer_at_Legendary_Car_Care_md.ajson
+³   ³       Clients_and_Projects_Ecommerce_Email_Marketer_for_Legendary_Car_Care_md.ajson
+³   ³       Clients_and_Projects_Email_Copywriter_at_Inkwell_Content_md.ajson
+³   ³       Clients_and_Projects_Email_Copywriter_for_Inkwell_Content_md.ajson
+³   ³       Clients_and_Projects_index_md.ajson
+³   ³       Clients_and_Projects_Inkwell_Content_md.ajson
+³   ³       Clients_and_Projects_LCC_md.ajson
+³   ³       Clients_and_Projects_Long-form_Content_Writer_for_C_B__Publishing_B_V__md.ajson
+³   ³       Clients_and_Projects_Long_Form_Content_and_Technical_Writer_for_Shoptimized_md.ajson
+³   ³       Clients_and_Projects_Loox_Case_Study_-_Content_Marketing_for_Shopify_App_md.ajson
+³   ³       Clients_and_Projects_Loox_Case_Study_-_Content_Marketing_for_Shopify_App_md.ajson
+³   ³       Clients_and_Projects_Newsletter_Editor_for_Futurepedia_md.ajson
+³   ³       Clients_and_Projects_Onboarding_UX_Consulting_for_CreatorPilot_md.ajson
+³   ³       Clients_and_Projects_Onboarding_UX_Consulting_for_OutreachBin_md.ajson
+³   ³       Clients_and_Projects_Onboarding_UX_Email_Consultant_for_Inkwell_Content_md.ajson
+³   ³       Clients_and_Projects_Onboarding_UX_Email_Copywriter_for_FunnelBuildr_md.ajson
+³   ³       Clients_and_Projects_Onboarding_UX_Email_Copywriter_for_MentorPass_md.ajson
+³   ³       Clients_and_Projects_Onboarding_UX_Email_Copywriter_for_Snappy_Kraken_md.ajson
+³   ³       Clients_and_Projects_Sales_Page_Copywriter_for_Purity_Woods_Inc_md.ajson
+³   ³       Clients_and_Projects_Social_Media_Copywriter_for_Escape_Rooms_Daytona_Beach_Code_To_Escape_md.ajson
+³   ³       Clients_and_Projects_UX_Email_Consultant_for_Inkwell_Content_md.ajson
+³   ³       Contact_md.ajson
+³   ³       Content_and_Publications_Guest_Posts_md.ajson
+³   ³       Content_and_Publications_index_md.ajson
+³   ³       Content_and_Publications_Niches_and_Industries_I've_Written_About_(and_Guest_Posts)_md.ajson
+³   ³       Content_and_Publications_Original_Articles_Action_as_Trust_-_Why_Bold_Moves_Matter_More_Than_Perfect_Ideas_md.ajson
+³   ³       Content_and_Publications_Original_Articles_Behind_the_Curtain_(How_I_Built_This_Portfolio_with_Obsidian,_Quartz4_&_ChatGPT)_md.ajson
+³   ³       Content_and_Publications_Original_Articles_Behind_the_Curtain_md.ajson
+³   ³       Content_and_Publications_Original_Articles_Empathy-First_Marketing_-_How_to_Build_Trust_and_Avoid_the_Pitfalls_of_Hype_Culture_md.ajson
+³   ³       Content_and_Publications_Original_Articles_index_md.ajson
+³   ³       Content_and_Publications_Original_Articles_Mastering_the_Essential_Tools_for_Remote_API_and_SaaS_Documentation_-_What_Recruiters_Really_Want_md.ajson
+³   ³       Content_and_Publications_Original_Articles_The_Unexpected_Problem_with_Value_First_md.ajson
+³   ³       Content_and_Publications_Original_Articles_Untitled_md.ajson
+³   ³       Content_and_Publications_Sample_Technical_Writing_index_md.ajson
+³   ³       Content_and_Publications_Sample_Technical_Writing_Whisper_Desktop_-_A_User-Friendly_Tool_for_Fast_Transcriptions_md.ajson
+³   ³       Content_and_Publications_Sample_Technical_Writing_Whisper_Desktop_md.ajson
+³   ³       copilot-conversations_Tailor_a_resume_for_me_from_my_notes_based_on@20250423_161043_md.ajson
+³   ³       Education_Certifications_Alison_Project_Management_(Alison)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Advanced_PCAP_Analysis_and_Signature_Development_(APA)_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Advanced_Windows_Scripting_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Analysis_Pipeline_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Cloud_Computing_Security__(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_CMaaS_Technical_Overview_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Coding_101_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Continuous_Diagnostics_and_Mitigation_(CDM)_(DHS_gov-CISA)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Critical_Infrastructure_Protection_101_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Cyber_Fundamentals_for_Law_Enforcement_Investigations_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Cyber_Risk_Management_for_Managers_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Cyber_Security_Investigations_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_DNSSEC_Training_Workshop_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Dynamic_Testing_using_HPE_WebInspect__(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Emerging_Cyber_Security_Threats_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Foundations_of_Incident_Management_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Introduction_to_Investigation_of_Digital_Assets_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Introduction_to_Threat_Hunting_Teams_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_IPv6_Security_Essentials_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_LAN_Security_Using_Switch_Features_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Linux_Operating_System_Security_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Mobile_and_Device_Security_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Mobile_Forensics_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Network_Layer_1_&_2_Troubleshooting__(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Offensive_and_Defensive_Network_Operations_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Radio_Frequency_Identification_(RFID)_Security_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Root_Cause_Analysis_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Securing_Infrastructure_Devices_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Securing_the_Network_Perimeter_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Security_and_DNS_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Software_Assurance_Executive_Course_(SAE)_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Static_Code_Analysis_using_Synopsis_Coverity_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Windows_Operating_System_Security_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Department_of_Homeland_Security_Wireless_Network_Security_(DHS_gov)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Content_Marketing_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Customer_Acquisition_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Customer_Value_Optimization_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Direct-Response_Copywriting_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Ecommerce_Marketing_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Email_Marketing_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Search_Marketing_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_Digital_Marketer_Social_Media_Specialist_(Digital_Marketer)_md.ajson
+³   ³       Education_Certifications_FEMA_IS-240B_Leadership_and_Influence_(FEMA)_md.ajson
+³   ³       Education_Certifications_FEMA_IS-242B_Effective_Communication_(FEMA)_md.ajson
+³   ³       Education_Certifications_FEMA_IS-453_Introduction_to_Homeland_Security_Planning_md.ajson
+³   ³       Education_Certifications_Google_Online_Marketing_Fundamentals_(Google)_md.ajson
+³   ³       Education_Certifications_Hubspot_Content_Marketing_Certificate_(Hubspot)_md.ajson
+³   ³       Education_Certifications_Hubspot_Email_Marketing_Certificate_(Hubspot)_md.ajson
+³   ³       Education_Certifications_Hubspot_Growth_Driven_Design_(Hubspot)_md.ajson
+³   ³       Education_Certifications_Hubspot_Inbound_Certified_(Hubspot)_md.ajson
+³   ³       Education_Certifications_index_md.ajson
+³   ³       Education_Certifications_Klaviyo_Klaviyo_Partner_Certification_(Klaviyo)_md.ajson
+³   ³       Education_Certifications_Klaviyo_Klaviyo_Product_Certification_(Klaviyo)_md.ajson
+³   ³       Education_Certifications_Klaviyo_Klaviyo_Sales_Certification_(Klaviyo)_md.ajson
+³   ³       Education_Certifications_Klaviyo_Klaviyo_SMS_Agency_Certification_(Klaviyo)_md.ajson
+³   ³       Education_Certifications_Klaviyo_Klaviyo_Systems_Integrator_Certification_(Klaviyo)_md.ajson
+³   ³       Education_Certifications_Klaviyo_SMS_Strategy_Certified_(Klaviyo)_md.ajson
+³   ³       Education_Certifications_Master_Class_Management_Master_Certificate_in_Business_Management_(Master_Class_Management)_md.ajson
+³   ³       Education_Certifications_Microsoft+_Global_Knowledge_Configuring,_Managing,_and_Troubleshooting_Microsoft_Exchange_Server_2010_(Microsoft_+_Global_Knowledge)_md.ajson
+³   ³       Education_Certifications_Microsoft+_Global_Knowledge_M50255_-_Managing_Windows_Environments_with_Group_Policy_(Global_Knowledge_+_Microsoft)_md.ajson
+³   ³       Education_Certifications_Microsoft+_Global_Knowledge_MS6294_-_Planning_and_Managing_Windows_7_Desktop_Deployments_and_Environments_(Global_Knowledge_+_Microsoft)_md.ajson
+³   ³       Education_Certifications_Postman_Postman_API_Fundamentals_Student_Expert_Certificate_md.ajson
+³   ³       Education_Certifications_Postman_Untitled_md.ajson
+³   ³       Education_Certifications_SMstudy_Certified_Digital_Marketing_Associate_(SMstudy)_md.ajson
+³   ³       Education_Certifications_SMstudy_Certified_Marketing_Strategy_Associate_(SMstudy)_md.ajson
+³   ³       Education_Certifications_SMstudy_Certified_Negotiation_Associate_(SMstudy)_md.ajson
+³   ³       Education_Certifications_SMstudy_Scrum_Fundamentals_Certified_(SMstudy)_md.ajson
+³   ³       Education_index_md.ajson
+³   ³       Hobbies_Board_games_md.ajson
+³   ³       Hobbies_Homelab_md.ajson
+³   ³       Hobbies_index_md.ajson
+³   ³       Hobbies_IoT_and_Home_automation_md.ajson
+³   ³       Hobbies_Reading_and_Learning_md.ajson
+³   ³       Hobbies_Writing_and_Journaling_md.ajson
+³   ³       index_md.ajson
+³   ³       Media_Thank_You_md.ajson
+³   ³       Private_AI_Workbench_ChatGPT_Python_Script_Instructions_md.ajson
+³   ³       Private_AI_Workbench_Main_prompt_facts_for_site_structuring_md.ajson
+³   ³       Private_AI_Workbench_Resume_Tailoring_md.ajson
+³   ³       Private_AI_Workbench_Skills_Scan_md.ajson
+³   ³       Private_AI_Workbench_Skill_and_Software_Category_Dump_md.ajson
+³   ³       Private_AI_Workbench_Untitled_md.ajson
+³   ³       Private_copilot-conversations_Tailor_a_resume_for_me_from_my_notes_based_on@20250423_161043_md.ajson
+³   ³       Private_Draft_Articles_ChatGPT_with_Transcripts_md.ajson
+³   ³       Private_Draft_Articles_Mastering_the_Essential_Tools_for_Remote_API_and_SaaS_Documentation_-_What_Recruiters_Really_Want_md.ajson
+³   ³       Private_Draft_Articles_Reverse-Engineered_API_Reference_for_TSDS_ODS_SDK_(Unofficial)_md.ajson
+³   ³       Private_Draft_Articles_Texas_Student_Data_System_Project_md.ajson
+³   ³       Private_Draft_Articles_TSDS_ODS_Getting_Started_Guide_(Unofficial)_md.ajson
+³   ³       Private_Draft_Articles_Untitled_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Skopenow_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Austin_Kelly_-_Cover_Letter_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Austin_Kelly_-_Product_Support_Specialist_for_Thomson_Reuters_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Austin_Kelly_-_Product_Support_Specialist_for_Thomson_Reuters_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Austin_Kelly_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Austin_Lee_Kelly_-_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Austin_Lee_Kelly_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Thomson_Reuters_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Austin_Kelly_-_Product_Support_Specialist_Resume_for_Tremendous_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Austin_Kelly_-_Product_Support_Specialist_Resume_for_Tremendous_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Austin_Lee_Kelly_-_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Austin_Lee_Kelly_-_Product_Support_Specialist_Resume_for_Tremendous_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Product_Support_Specialist_-_Tremendous_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Product_Support_Specialist_-_Tremendous_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_-_Tremendous_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_Austin_Kelly_-_Cover_Letter_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_Cover_Letter_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Product_Support_Specialist_Untitled_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Prompt-Applied_LLM_Engineer_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Prompt_Engineer_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Product_Support_&_Documentation_Specialist_at_ColdTrack_Austin_Kelly_-_Product_Support_Specialist_for_Thomson_Reuters_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Product_Support_&_Documentation_Specialist_at_ColdTrack_Technical_Product_Support_&_Documentation_Specialist_for_ColdTrack_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Product_Support_&_Documentation_Specialist_at_ColdTrack_Technical_Product_Support_&_Documentation_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Product_Support_&_Documentation_Specialist_at_ColdTrack_Technical_Writer_for_Bitwarden_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Austin_Kelly_-_Product_Support_Specialist_Resume_for_Tremendous_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Austin_Kelly_-_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Austin_Kelly_-_Technical_Writer-Cybersecurity_for_Ensemble_Health_Partners_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Austin_Kelly_-_Technical_Writer-Cybersecurity_for_Ensemble_Health_Partners_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Austin_Kelly_-_Technical_Writer-Cybersecurity_for_Ensemble_Health_Partners_Resume_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Product_Support_Specialist_-_Tremendous_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Austin_Kelly_-_Technical_Writer_-_Bitwarden_-_Cover_Letter_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Austin_Kelly_-_Technical_Writer_for_Bitwarden_-_Resume_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Cover_Letter_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Technical_Writer_at_Ping_Identity_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Technical_Writer_for_Bitwarden_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Technical_Writer_for_Bitwarden_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Bitwarden_Untitled_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Ping_Identity_Austin_Kelly_-_Technical_Writer-Cybersecurity_for_Ensemble_Health_Partners_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Ping_Identity_Austin_Kelly_-_Technical_Writer_for_Ping_Identity_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Ping_Identity_Austin_Kelly_-_Technical_Writer_for_Ping_Identity_Resume_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Ping_Identity_Technical_Writer-Cybersecurity_at_Ensemble_Health_Partners_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Ping_Identity_Technical_Writer_at_Ping_Identity_1_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Technical_Writer_for_Ping_Identity_Technical_Writer_at_Ping_Identity_md.ajson
+³   ³       Private_Job_Hunt_Jobs_Untitled_md.ajson
+³   ³       Private_Job_Hunt_Job_Hunt_Tracker_md.ajson
+³   ³       Private_Job_Hunt_Job_md.ajson
+³   ³       Private_Job_Hunt_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Application_Tracker_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Austin_Lee_Kelly_-_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Austin_Lee_Kelly_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Copywriter_Resume_Template_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Resume_Tailoring_Prompts_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Resume_Templates_Austin_Lee_Kelly_-_Product_Support_Specialist_1_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Resume_Templates_Austin_Lee_Kelly_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Resume_Templates_Copywriter_Resume_Template_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Resume_Templates_Technical_Writing_Resume_Template_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Resume_Template_md.ajson
+³   ³       Private_Job_Hunt_Resume_Tailoring_Technical_Writing_Resume_Template_md.ajson
+³   ³       Private_Job_Hunt_Untitled_md.ajson
+³   ³       Private_Mastering_the_Essential_Tools_for_Remote_API_and_SaaS_Documentation_-_What_Recruiters_Really_Want_md.ajson
+³   ³       Private_Meta_Handy_Snippets_(Footnotes_and_others)_md.ajson
+³   ³       Private_Meta_Handy_Word_and_Code_Snippets_md.ajson
+³   ³       Private_Meta_Structure_Rules_md.ajson
+³   ³       Private_Meta_Testing_Page_md.ajson
+³   ³       Private_Meta_Tree_Structure_Commands_md.ajson
+³   ³       Private_Resume_Tailoring_Application_Tracker_md.ajson
+³   ³       Private_Resume_Tailoring_Austin_Lee_Kelly_-_Product_Support_Specialist_md.ajson
+³   ³       Private_Resume_Tailoring_Austin_Lee_Kelly_md.ajson
+³   ³       Private_Resume_Tailoring_Copywriter_Resume_Template_md.ajson
+³   ³       Private_Resume_Tailoring_Product_Support_Specialist_Resume_md.ajson
+³   ³       Private_Resume_Tailoring_Resume_Tailoring_md.ajson
+³   ³       Private_Resume_Tailoring_Resume_Tailoring_Prompts_md.ajson
+³   ³       Private_Resume_Tailoring_Resume_Template_1_md.ajson
+³   ³       Private_Resume_Tailoring_Resume_Template_md.ajson
+³   ³       Private_Resume_Tailoring_Technical_Writing_Resume_Template_1_md.ajson
+³   ³       Private_Resume_Tailoring_Technical_Writing_Resume_Template_md.ajson
+³   ³       Private_Resume_Tailoring_Untitled_md.ajson
+³   ³       Private_Role_Crafting_Tech_Writing_md.ajson
+³   ³       Private_Templates_Certification_Page_Template_md.ajson
+³   ³       Private_Templates_Resume_Template_md.ajson
+³   ³       Private_Templates_Skills_Page_Template_md.ajson
+³   ³       Private_Templates_Software_Page_Template_md.ajson
+³   ³       Private_Templates_Testimonials_Template_md.ajson
+³   ³       Private_Templates_Untitled_md.ajson
+³   ³       Private_Templates_Work_History_Template_md.ajson
+³   ³       Private_vault_structure_txt.ajson
+³   ³       Private_WordCloud_md.ajson
+³   ³       Role_Pages_index_md.ajson
+³   ³       Role_Pages_Technical-UX_Writer_md.ajson
+³   ³       Skills_Business_and_Ecommerce_md.ajson
+³   ³       Skills_General_Skills_md.ajson
+³   ³       Skills_index_md.ajson
+³   ³       Skills_IT_Support_and_Technical_Skills_md.ajson
+³   ³       Skills_Writing_and_Marketing_md.ajson
+³   ³       Software_Content_Management_and_SEO_md.ajson
+³   ³       Software_Documentation_and_Dev_Tools_md.ajson
+³   ³       Software_index_md.ajson
+³   ³       Software_IT,_Security,_and_Automation_Tools_md.ajson
+³   ³       Software_Marketing_Automation_and_CRM_md.ajson
+³   ³       Software_Office_and_Creative_Suites_md.ajson
+³   ³       Software_Project_Management_and_Collaboration_md.ajson
+³   ³       Startups_Founder_at_Who_Spends_What_md.ajson
+³   ³       Startups_index_md.ajson
+³   ³       Startups_Owner_at_Bath_Parlor_md.ajson
+³   ³       Startups_Owner_at_Fancy_Fox_Creative_md.ajson
+³   ³       Startups_Owner_at_Kelly_Computer_Services_md.ajson
+³   ³       Testimonials_md.ajson
+³   ³       Untitled_md.ajson
+³   ³       vault_structure_txt.ajson
+³   ³       Volunteering_md.ajson
+³   ³       Work_Experience_City_of_Fort_Smith_-_IT_Support_Specialist_md.ajson
+³   ³       Work_Experience_Fort_Smith_Chamber_of_Commerce_-_Directory_of_Information_and_Statistics_md.ajson
+³   ³       Work_Experience_index_md.ajson
+³   ³       Work_Experience_Medtronic_-_Technical_User_Support_Analyst_md.ajson
+³   ³       Work_Experience_Rheem_Manufacturing_-_IT_Network_Co-Op_md.ajson
+³   ³       
+³   ÀÄÄÄsmart_threads
+ÃÄÄÄ.trash
+³   ³   Active Directory.md
+³   ³   ActiveCampaign.md
+³   ³   Adaptability and Learning.md
+³   ³   Adobe Creative Suite.md
+³   ³   Ahrefs.md
+³   ³   Asana.md
+³   ³   Austin Kelly - Technical Writer for Bitwarden - Resume 1.pdf
+³   ³   AutoHotKey.md
+³   ³   AutoIT.md
+³   ³   Automation Tools.md
+³   ³   Basecamp.md
+³   ³   Bash.md
+³   ³   Behind the Curtain (How I Built This Portfolio with Obsidian, Quartz4 and ChatGPT).md
+³   ³   Campaign Monitor.md
+³   ³   Canva.md
+³   ³   ChatGPT.md
+³   ³   Chocolatey.md
+³   ³   ClickUp.md
+³   ³   Client Relationship Management.md
+³   ³   Cold Email Campaign for The Product Plug.md
+³   ³   Collaboration and Teamwork.md
+³   ³   Content Management Software.md
+³   ³   Conversion Rate Optimization (CRO).md
+³   ³   Customer Relationship Management (CRM).md
+³   ³   Customer Service and Communication.md
+³   ³   Customer Success Software.md
+³   ³   Dataview.md
+³   ³   DaVinci Resolve.md
+³   ³   Documentation and Knowledge Management.md
+³   ³   Drupal.md
+³   ³   Email Marketing and Automation.md
+³   ³   Email Marketing Platforms.md
+³   ³   Email Outreach Tools.md
+³   ³   File Synchronization and Collaboration.md
+³   ³   Freshdesk.md
+³   ³   GetResponse.md
+³   ³   Ghost.md
+³   ³   GitHub.md
+³   ³   Google Analytics.md
+³   ³   Google Docs.md
+³   ³   Google Drive.md
+³   ³   Google Forms.md
+³   ³   Google Optimize.md
+³   ³   Google Search Console.md
+³   ³   Google Workspace.md
+³   ³   Grammarly.md
+³   ³   Hardware and Device Management.md
+³   ³   Hemingway Editor.md
+³   ³   Hotjar.md
+³   ³   HubSpot.md
+³   ³   Hyper-V.md
+³   ³   IFTTT.md
+³   ³   Incident Management and Resolution.md
+³   ³   index 2.md
+³   ³   index.md
+³   ³   Intercom.md
+³   ³   Java.md
+³   ³   JavaScript.md
+³   ³   Jira.md
+³   ³   Joomla.md
+³   ³   Klaviyo.md
+³   ³   Landing Page Copywriting.md
+³   ³   LeadFWD.md
+³   ³   Lemlist 2.md
+³   ³   Lemlist.md
+³   ³   LibreOffice.md
+³   ³   Linux.md
+³   ³   Loom.md
+³   ³   Lucidchart.md
+³   ³   Mailchimp.md
+³   ³   Make (Integromat).md
+³   ³   Markdown.md
+³   ³   Mermaid.js.md
+³   ³   Microsoft Deployment Toolkit (MDT) and Windows Deployment Services (WDS).md
+³   ³   Microsoft Office Suite and Office 365.md
+³   ³   Microsoft Sharepoint.md
+³   ³   Miro.md
+³   ³   Misc Utility Software.md
+³   ³   Moz.md
+³   ³   Network Monitoring.md
+³   ³   Networking and Security.md
+³   ³   Notion.md
+³   ³   OBS Studio.md
+³   ³   Obsidian.md
+³   ³   Office Suite Software.md
+³   ³   Omnisend.md
+³   ³   Optimizely.md
+³   ³   OptinMonster.md
+³   ³   OutreachBin.md
+³   ³   PDQ Deploy.md
+³   ³   PowerShell.md
+³   ³   Problem Solving and Critical Thinking.md
+³   ³   Process Standardization.md
+³   ³   Product Support Specialist - Skopenow.md
+³   ³   Project Management and Task Prioritization.md
+³   ³   Project-Task managers.md
+³   ³   Proofreading and Editing.md
+³   ³   PRTG Network Monitor.md
+³   ³   Python.md
+³   ³   Quartz4.md
+³   ³   Red Hat Enterprise Linux (RHEL).md
+³   ³   Remote Desktop (RDP).md
+³   ³   Remote Support Tools.md
+³   ³   SaaS Onboarding and UX Copywriting.md
+³   ³   Sales Page Copywriter for Purity Woods Inc.md
+³   ³   Salesforce.md
+³   ³   Screaming Frog.md
+³   ³   Screenshare and Documentation.md
+³   ³   Scripting Languages.md
+³   ³   Security and Antivirus Tools.md
+³   ³   Security and Compliance Management.md
+³   ³   SEMRush.md
+³   ³   SEO and Keyword Research.md
+³   ³   SEO Tools.md
+³   ³   Serpstat.md
+³   ³   Shopify.md
+³   ³   Software Management.md
+³   ³   Software Page Template.md
+³   ³   SQL.md
+³   ³   Survey Monkey.md
+³   ³   System Administration.md
+³   ³   Tawk.to.md
+³   ³   TeamViewer.md
+³   ³   Tech Writing.md
+³   ³   Tech-UX Writer Sample 2.md
+³   ³   Technical Writer Resume at Ping Identity.md
+³   ³   Technical Writing.md
+³   ³   Testimonials Template.md
+³   ³   Ticketing Systems.md
+³   ³   Todoist.md
+³   ³   Trello.md
+³   ³   Typeform.md
+³   ³   Ubersuggest.md
+³   ³   Ubuntu.md
+³   ³   Unbounce.md
+³   ³   Untitled.md
+³   ³   Virtualization.md
+³   ³   VMware Workstation - ESXi.md
+³   ³   Voice & Tone Adaptation.md
+³   ³   VPNs.md
+³   ³   Website and Content Management.md
+³   ³   Whimsical.md
+³   ³   Windows 10.md
+³   ³   Windows OS.md
+³   ³   WordPress.md
+³   ³   Writing Tools.md
+³   ³   Yoast.md
+³   ³   Zapier.md
+³   ³   Zendesk.md
+³   ³   Zoho CRM.md
+³   ³   Zoho Office Suite.md
+³   ³   
+³   ÃÄÄÄContent Management and SEO
+³   ÃÄÄÄDocumentation and Dev Tools
+³   ÃÄÄÄFile Synchronization and Collaboration
+³   ÃÄÄÄGeneral Skills
+³   ÃÄÄÄGrabbing Data
+³   ÃÄÄÄHTML
+³   ³       HTML-CSS.md
+³   ³       
+³   ÃÄÄÄIT Support and Technical Skills
+³   ÃÄÄÄIT, Security, and Automation Tools
+³   ÃÄÄÄMarketing Automation and CRM
+³   ÃÄÄÄOffice and Creative Suites
+³   ÃÄÄÄPortfolio Design
+³   ÃÄÄÄProject Management and Collaboration
+³   ÃÄÄÄScripting and Automation
+³   ÃÄÄÄSecurity and Antivirus Tools
+³   ÃÄÄÄSystem Administration and IT Support
+³   ÃÄÄÄUnsorted
+³   ³       Notion Portfolio Workbench for ChatGPT Resume Creation (IT Support).md
+³   ³       Notion Portfolio Workbench for ChatGPT Resume Creation (Software-IT Technical Writer).md
+³   ³       
+³   ÃÄÄÄUntitled
+³   ÃÄÄÄUntitled 2
+³   ÀÄÄÄWriting and Marketing
+ÃÄÄÄClients and Projects
+³       Business Broker for Shoptimized.md
+³       Cold Email Campaign and Lander Copy for iAutoAgent.md
+³       Cold Email Campaign for ZenOKR.md
+³       Ecommerce Email Consulting for Health Mate Saunas.md
+³       Ecommerce Email Marketer for Legendary Car Care.md
+³       index.md
+³       Long Form Content and Technical Writer for Shoptimized.md
+³       Long-form Content Writer for C.B. Publishing B.V..md
+³       Loox Case Study - Content Marketing for Shopify App.md
+³       Newsletter Editor for Futurepedia.md
+³       Onboarding UX Consulting for CreatorPilot.md
+³       Onboarding UX Consulting for OutreachBin.md
+³       Onboarding UX Email Consultant for Inkwell Content.md
+³       Onboarding UX Email Copywriter for FunnelBuildr.md
+³       Onboarding UX Email Copywriter for MentorPass.md
+³       Onboarding UX Email Copywriter for Snappy Kraken.md
+³       Social Media Copywriter for Escape Rooms Daytona Beach Code To Escape.md
+³       
+ÃÄÄÄContent and Publications
+³   ³   Guest Posts.md
+³   ³   index.md
+³   ³   Niches and Industries I've Written About (and Guest Posts).md
+³   ³   
+³   ÃÄÄÄOriginal Articles
+³   ³       Action as Trust - Why Bold Moves Matter More Than Perfect Ideas.md
+³   ³       Behind the Curtain.md
+³   ³       Empathy-First Marketing - How to Build Trust and Avoid the Pitfalls of Hype Culture.md
+³   ³       index.md
+³   ³       The Unexpected Problem with Value First.md
+³   ³       
+³   ÀÄÄÄSample Technical Writing
+³           index.md
+³           Whisper Desktop.md
+³           
+ÃÄÄÄEducation
+³   ³   index.md
+³   ³   
+³   ÀÄÄÄCertifications
+³       ³   index.md
+³       ³   
+³       ÃÄÄÄAlison
+³       ³       Project Management (Alison).md
+³       ³       
+³       ÃÄÄÄDepartment of Homeland Security
+³       ³       Advanced PCAP Analysis and Signature Development (APA) (DHS.gov).md
+³       ³       Advanced Windows Scripting (DHS.gov).md
+³       ³       Analysis Pipeline (DHS.gov).md
+³       ³       Cloud Computing Security  (DHS.gov).md
+³       ³       CMaaS Technical Overview (DHS.gov).md
+³       ³       Coding 101 (DHS.gov).md
+³       ³       Continuous Diagnostics and Mitigation (CDM) (DHS.gov-CISA).md
+³       ³       Critical Infrastructure Protection 101 (DHS.gov).md
+³       ³       Cyber Fundamentals for Law Enforcement Investigations (DHS.gov).md
+³       ³       Cyber Risk Management for Managers (DHS.gov).md
+³       ³       Cyber Security Investigations (DHS.gov).md
+³       ³       DNSSEC Training Workshop (DHS.gov).md
+³       ³       Dynamic Testing using HPE WebInspect  (DHS.gov).md
+³       ³       Emerging Cyber Security Threats (DHS.gov).md
+³       ³       Foundations of Incident Management (DHS.gov).md
+³       ³       Introduction to Investigation of Digital Assets (DHS.gov).md
+³       ³       Introduction to Threat Hunting Teams (DHS.gov).md
+³       ³       IPv6 Security Essentials (DHS.gov).md
+³       ³       LAN Security Using Switch Features (DHS.gov).md
+³       ³       Linux Operating System Security (DHS.gov).md
+³       ³       Mobile and Device Security (DHS.gov).md
+³       ³       Mobile Forensics (DHS.gov).md
+³       ³       Network Layer 1 & 2 Troubleshooting  (DHS.gov).md
+³       ³       Offensive and Defensive Network Operations (DHS.gov).md
+³       ³       Radio Frequency Identification (RFID) Security (DHS.gov).md
+³       ³       Root Cause Analysis (DHS.gov).md
+³       ³       Securing Infrastructure Devices (DHS.gov).md
+³       ³       Securing the Network Perimeter (DHS.gov).md
+³       ³       Security and DNS (DHS.gov).md
+³       ³       Software Assurance Executive Course (SAE) (DHS.gov).md
+³       ³       Static Code Analysis using Synopsis Coverity (DHS.gov).md
+³       ³       Windows Operating System Security (DHS.gov).md
+³       ³       Wireless Network Security (DHS.gov).md
+³       ³       
+³       ÃÄÄÄDigital Marketer
+³       ³       Content Marketing Specialist (Digital Marketer).md
+³       ³       Customer Acquisition Specialist (Digital Marketer).md
+³       ³       Customer Value Optimization Specialist (Digital Marketer).md
+³       ³       Direct-Response Copywriting Specialist (Digital Marketer).md
+³       ³       Ecommerce Marketing Specialist (Digital Marketer).md
+³       ³       Email Marketing Specialist (Digital Marketer).md
+³       ³       Search Marketing Specialist (Digital Marketer).md
+³       ³       Social Media Specialist (Digital Marketer).md
+³       ³       
+³       ÃÄÄÄFEMA
+³       ³       IS-240B Leadership and Influence (FEMA).md
+³       ³       IS-242B Effective Communication (FEMA).md
+³       ³       IS-453 Introduction to Homeland Security Planning.md
+³       ³       
+³       ÃÄÄÄGoogle
+³       ³       Online Marketing Fundamentals (Google).md
+³       ³       
+³       ÃÄÄÄHubspot
+³       ³       Content Marketing Certificate (Hubspot).md
+³       ³       Email Marketing Certificate (Hubspot).md
+³       ³       Growth Driven Design (Hubspot).md
+³       ³       Inbound Certified (Hubspot).md
+³       ³       
+³       ÃÄÄÄKlaviyo
+³       ³       Klaviyo Partner Certification (Klaviyo).md
+³       ³       Klaviyo Product Certification (Klaviyo).md
+³       ³       Klaviyo Sales Certification (Klaviyo).md
+³       ³       Klaviyo SMS Agency Certification (Klaviyo).md
+³       ³       Klaviyo Systems Integrator Certification (Klaviyo).md
+³       ³       SMS Strategy Certified (Klaviyo).md
+³       ³       
+³       ÃÄÄÄMaster Class Management
+³       ³       Master Certificate in Business Management (Master Class Management).md
+³       ³       
+³       ÃÄÄÄMicrosoft+ Global Knowledge
+³       ³       Configuring, Managing, and Troubleshooting Microsoft Exchange Server 2010 (Microsoft + Global Knowledge).md
+³       ³       M50255 - Managing Windows Environments with Group Policy (Global Knowledge + Microsoft).md
+³       ³       MS6294 - Planning and Managing Windows 7 Desktop Deployments and Environments (Global Knowledge + Microsoft).md
+³       ³       
+³       ÃÄÄÄPostman
+³       ³       Postman API Fundamentals Student Expert Certificate.md
+³       ³       
+³       ÀÄÄÄSMstudy
+³               Certified Digital Marketing Associate (SMstudy).md
+³               Certified Marketing Strategy Associate (SMstudy).md
+³               Certified Negotiation Associate (SMstudy).md
+³               Scrum Fundamentals Certified (SMstudy).md
+³               
+ÃÄÄÄHobbies
+³       Board games.md
+³       Homelab.md
+³       index.md
+³       IoT and Home automation.md
+³       Reading and Learning.md
+³       Writing and Journaling.md
+³       
+ÃÄÄÄMedia
+³   ³   Thank You.md
+³   ³   
+³   ÃÄÄÄCertifications
+³   ³   ÃÄÄÄDHS
+³   ³   ³       (DHS) 101 - Coding - 5 Hours.pdf
+³   ³   ³       (DHS) 101 - Reverse Engineering - 2 Hours.pdf
+³   ³   ³       (DHS) 101- Critical Infrastructure Protection - 2 Hours.pdf
+³   ³   ³       (DHS) Advanced PCAP Analysis and Signature Development (APA).pdf
+³   ³   ³       (DHS) Advanced Windows Scripting - 6 Hours.pdf
+³   ³   ³       (DHS) Analysis Pipeline - 6 Hours.pdf
+³   ³   ³       (DHS) CDM Module 1 _ Overview - 2 Hours.pdf
+³   ³   ³       (DHS) CDM Module 2_ Hardware Asset Management - 1 Hour.pdf
+³   ³   ³       (DHS) CDM Module 3_ Software Asset Management - 1.pdf
+³   ³   ³       (DHS) CDM Module 4_ Configuration Settings Management - .pdf
+³   ³   ³       (DHS) CDM Module 5_ Vulnerability Management - .pdf
+³   ³   ³       (DHS) Cloud Computing Security - 1 Hour.pdf
+³   ³   ³       (DHS) CMaaS Overview - 0.pdf
+³   ³   ³       (DHS) CMaaS Technical Overview Course - 0.pdf
+³   ³   ³       (DHS) Cyber Fundamentals for Law Enforcement Investigations - 8 Hours.pdf
+³   ³   ³       (DHS) Cyber Risk Management for Managers - 6 Hours.pdf
+³   ³   ³       (DHS) Cyber Risk Management for Technicians - 11 Hours.pdf
+³   ³   ³       (DHS) Cyber Security Investigations - 9 Hours.pdf
+³   ³   ³       (DHS) Cyber Security Overview for Managers - 6 Hours.pdf
+³   ³   ³       (DHS) DNSSEC Training Workshop - 2 Hours.pdf
+³   ³   ³       (DHS) Dynamic Testing using HPE WebInspect - 1.pdf
+³   ³   ³       (DHS) Emerging Cyber Security Threats - 12 Hours.pdf
+³   ³   ³       (DHS) Foundations of Incident Management - 10.5 Hours.pdf
+³   ³   ³       (DHS) Introduction to Investigation of Digital Assets - 4 Hours.pdf
+³   ³   ³       (DHS) Introduction to Threat Hunting Teams - 1.pdf
+³   ³   ³       (DHS) Introduction to Windows Scripting - 4 Hours.pdf
+³   ³   ³       (DHS) IPv6 Security Essentials Course - 5 Hours.pdf
+³   ³   ³       (DHS) LAN Security Using Switch Features - 2 Hours.pdf
+³   ³   ³       (DHS) Linux Operating System Security - 9 Hours.pdf
+³   ³   ³       (DHS) Mobile and Device Security (2015) - 22 Hours.pdf
+³   ³   ³       (DHS) Mobile Forensics - 4 Hours.pdf
+³   ³   ³       (DHS) Network Layer 1 & 2 Troubleshooting - 3 Hours.pdf
+³   ³   ³       (DHS) Offensive and Defensive Network Operations - 13 Hours.pdf
+³   ³   ³       (DHS) Radio Frequency Identification (RFID) Security - 1 Hour.pdf
+³   ³   ³       (DHS) Root Cause Analysis - 1 hour.pdf
+³   ³   ³       (DHS) Securing Infrastructure Devices - 1 Hour.pdf
+³   ³   ³       (DHS) Securing the Network Perimeter - 1 Hour.pdf
+³   ³   ³       (DHS) Security and DNS - 1 Hour.pdf
+³   ³   ³       (DHS) Software Assurance Executive Course (SAE) - 10 Hours.pdf
+³   ³   ³       (DHS) Static Code Analysis using Synopsis Coverity - 1.pdf
+³   ³   ³       (DHS) Supply Chain Assurance using Sonatype Nexus - 2.pdf
+³   ³   ³       (DHS) Windows Operating System Security - 16 Hours.pdf
+³   ³   ³       (DHS) Wireless Network Security - 9 Hours.pdf
+³   ³   ³       (DHS)-Penetration-Testing---14-Hours---_b_Will-be-retired-as-of-1_18_2018__b_.pdf
+³   ³   ³       
+³   ³   ÃÄÄÄDM
+³   ³   ³       (DM) Content Marketing Specialist Badge.png
+³   ³   ³       (DM) Content Marketing Specialist.pdf
+³   ³   ³       (DM) Customer Acquisition Specialist Badge.png
+³   ³   ³       (DM) Customer Acquisition Specialist.pdf
+³   ³   ³       (DM) Customer Value Optimization Specialist Badge.png
+³   ³   ³       (DM) Customer Value Optimization Specialist.pdf
+³   ³   ³       (DM) Direct-Response Copywriting Specialist Badge.png
+³   ³   ³       (DM) Direct-Response Copywriting Specialist.pdf
+³   ³   ³       (DM) Ecommerce Marketing Specialist Badge.png
+³   ³   ³       (DM) Ecommerce Marketing Specialist.pdf
+³   ³   ³       (DM) Email Marketing Specialist Badge.png
+³   ³   ³       (DM) Email Marketing Specialist.pdf
+³   ³   ³       (DM) Search Marketing Specialist Badge.png
+³   ³   ³       (DM) Search Marketing Specialist.pdf
+³   ³   ³       (DM) Social Media Specialist Badge.png
+³   ³   ³       (DM) Social Media Specialist.pdf
+³   ³   ³       
+³   ³   ÃÄÄÄFEMA
+³   ³   ³       (FEMA) IS-00242B Effective Communication.pdf
+³   ³   ³       (FEMA) IS-240B Leadership and Influence.pdf
+³   ³   ³       (FEMA) IS-453 Introduction to Homeland Security Planning.pdf
+³   ³   ³       (FEMA)-Active-Shooter-What-You-Can-Do.pdf
+³   ³   ³       (FEMA)-Workplace-Violence-Awareness-Training-2017-.pdf
+³   ³   ³       
+³   ³   ÃÄÄÄKlaviyo
+³   ³   ³       (Klaviyo) Klaviyo Partner Certification.pdf
+³   ³   ³       (Klaviyo) Klaviyo Product Certification.pdf
+³   ³   ³       (Klaviyo) Klaviyo Sales Certification.pdf
+³   ³   ³       (Klaviyo) SMS Agency Certification.pdf
+³   ³   ³       (Klaviyo) SMS Strategy Certification.pdf
+³   ³   ³       (Klaviyo) Systems Integrator Certification.pdf
+³   ³   ³       
+³   ³   ÃÄÄÄMS+GK
+³   ³   ³       (GK) Configuring, Managing, and Troubleshooting Microsoft Exchange Server 2010.pdf
+³   ³   ³       (GK) Planning and Managing Windows 7 Desktop Deployments and Environments.pdf
+³   ³   ³       Microsoft-Certificate-Planning and Managing Windows 7 Desktop Deployments and Environments.pdf
+³   ³   ³       Microsoft-Configuring, Managing, and Troubleshooting Microsoft Exchange Server 2010.pdf
+³   ³   ³       Microsoft-Managing Windows Environments with Group Policy.pdf
+³   ³   ³       
+³   ³   ÃÄÄÄOthers
+³   ³   ³       (Alison) Project Management Verification.pdf
+³   ³   ³       (Google) Fundamentals of Digital Marketing.pdf
+³   ³   ³       (Hubspot) Content Marketing Certified.png
+³   ³   ³       (Hubspot) Inbound Certified.png
+³   ³   ³       (MCM) Certificate - Austin Kelly.pdf
+³   ³   ³       (MCM) Certification Reference Letter - Austin Kelly.pdf
+³   ³   ³       Early Heart Attack Care Certificate.pdf
+³   ³   ³       PFA-Online-Certificate-of-Completion.pdf
+³   ³   ³       
+³   ³   ÃÄÄÄPostman
+³   ³   ³       Postman API Fundamentals Student Expert Certificate.pdf
+³   ³   ³       
+³   ³   ÀÄÄÄSMstudy
+³   ³           (NGstudy) Certified Negotiation Associate.pdf
+³   ³           (SMstudy) Certified Digital Marketing Associate.pdf
+³   ³           (SMstudy) Certified Marketing Strategy Associate.pdf
+³   ³           (SMstudy) Scrum Fundamentals Certified.pdf
+³   ³           
+³   ÃÄÄÄImages
+³   ³       me.png
+³   ³       uafs.png
+³   ³       
+³   ÃÄÄÄProject Work
+³   ³       Highlight-Results.png
+³   ³       Pasted image 20250424154543.png
+³   ³       Pasted image 20250424154742.png
+³   ³       Pic-1.png
+³   ³       The-Ultimate-eCommerce-Tools-Resources-Directory.jpg
+³   ³       Ultimate-eCommerce-Tools-Resources-Directory-by-LimeProfits.com_-e1666032841480.png
+³   ³       
+³   ÃÄÄÄTestimonials
+³   ³       bradley-testimonial.mp4
+³   ³       linkedin-tibor.png
+³   ³       Screenshot-2021-04-05-12.53.17-PM.png
+³   ³       Untitled-picture.png
+³   ³       
+³   ÀÄÄÄTutorial Content
+³       ÀÄÄÄWhisper GUI
+³               debug-console.gif
+³               extract-whisper.gif
+³               hugging-face-in-app-link.png
+³               loading-model-2.gif
+³               loading-model.gif
+³               model-warning.png
+³               Pasted image 20250417184306.png
+³               transcribe-finished.png
+³               transcribing.gif
+³               whisper-download.gif
+³               whisper-subtitle-options.png
+³               
+ÃÄÄÄPrivate
+³   ³   vault_structure.txt
+³   ³   WordCloud.md
+³   ³   
+³   ÃÄÄÄAI Workbench
+³   ³       ChatGPT Python Script Instructions.md
+³   ³       Main prompt facts for site structuring.md
+³   ³       Skill and Software Category Dump.md
+³   ³       Skills Scan.md
+³   ³       
+³   ÃÄÄÄcopilot-conversations
+³   ³       Tailor_a_resume_for_me_from_my_notes_based_on@20250423_161043.md
+³   ³       
+³   ÃÄÄÄDraft Articles
+³   ³       ChatGPT with Transcripts.md
+³   ³       Mastering the Essential Tools for Remote API and SaaS Documentation - What Recruiters Really Want.md
+³   ³       TSDS ODS Getting Started Guide (Unofficial).md
+³   ³       
+³   ÃÄÄÄJob Hunt
+³   ³   ³   Job Hunt Tracker.md
+³   ³   ³   
+³   ³   ÃÄÄÄJobs
+³   ³   ³   ³   Prompt-Applied LLM Engineer.md
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄProduct Support Specialist - Thomson Reuters
+³   ³   ³   ³       Austin Kelly - Cover Letter - Product Support Specialist.md
+³   ³   ³   ³       Austin Kelly - Product Support Specialist for Thomson Reuters.md
+³   ³   ³   ³       Austin Lee Kelly - Product Support Specialist.pdf
+³   ³   ³   ³       Product Support Specialist.md
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄProduct Support Specialist - Tremendous
+³   ³   ³   ³       Austin Kelly - Product Support Specialist Resume for Tremendous.md
+³   ³   ³   ³       Product Support Specialist - Tremendous.md
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄTechnical Product Support & Documentation Specialist at ColdTrack
+³   ³   ³   ³       Austin Kelly - Technical Product Support & Documentation Specialist for ColdTrack.md
+³   ³   ³   ³       Technical Product Support & Documentation Specialist for ColdTrack.md
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄTechnical Writer for Bitwarden
+³   ³   ³   ³       Austin Kelly - Technical Writer - Bitwarden - Cover Letter 1.docx
+³   ³   ³   ³       Austin Kelly - Technical Writer - Bitwarden - Cover Letter.docx
+³   ³   ³   ³       Austin Kelly - Technical Writer - Bitwarden - Cover Letter.md
+³   ³   ³   ³       Austin Kelly - Technical Writer for Bitwarden - Resume.md
+³   ³   ³   ³       Austin Kelly - Technical Writer for Bitwarden - Resume.pdf
+³   ³   ³   ³       Technical Writer for Bitwarden.md
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄTechnical Writer for Ping Identity
+³   ³   ³   ³       Austin Kelly - Technical Writer for Ping Identity Resume.md
+³   ³   ³   ³       Austin Kelly - Technical Writer for Ping Identity.pdf
+³   ³   ³   ³       Technical Writer at Ping Identity.md
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄTechnical Writer-Cybersecurity at Ensemble Health Partners
+³   ³   ³           Austin Kelly - Technical Writer-Cybersecurity for Ensemble Health Partners Resume.md
+³   ³   ³           Austin Kelly - Technical Writer-Cybersecurity for Ensemble Health Partners.pdf
+³   ³   ³           Technical Writer-Cybersecurity at Ensemble Health Partners.md
+³   ³   ³           
+³   ³   ÃÄÄÄResume Tailoring
+³   ³   ³   ³   Application Tracker.md
+³   ³   ³   ³   Resume Tailoring Prompts.md
+³   ³   ³   ³   Resume Template.md
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄResume Templates
+³   ³   ³           Austin Lee Kelly - Product Support Specialist.md
+³   ³   ³           Copywriter Resume Template.md
+³   ³   ³           Technical Writing Resume Template.md
+³   ³   ³           
+³   ³   ÀÄÄÄResumes Used
+³   ÃÄÄÄMeta
+³   ³       Handy Word and Code Snippets.md
+³   ³       Structure Rules.md
+³   ³       Testing Page.md
+³   ³       Tree Structure Commands.md
+³   ³       
+³   ÃÄÄÄRole Crafting
+³   ÀÄÄÄTemplates
+³           Certification Page Template.md
+³           Skills Page Template.md
+³           Work History Template.md
+³           
+ÃÄÄÄRole Pages
+³       index.md
+³       Technical-UX Writer.md
+³       
+ÃÄÄÄSkills
+³       Business and Ecommerce.md
+³       General Skills.md
+³       index.md
+³       IT Support and Technical Skills.md
+³       Writing and Marketing.md
+³       
+ÃÄÄÄSoftware
+³       Content Management and SEO.md
+³       Documentation and Dev Tools.md
+³       index.md
+³       IT, Security, and Automation Tools.md
+³       Marketing Automation and CRM.md
+³       Office and Creative Suites.md
+³       Project Management and Collaboration.md
+³       
+ÃÄÄÄStartups
+³       Founder at Who Spends What.md
+³       index.md
+³       Owner at Bath Parlor.md
+³       Owner at Fancy Fox Creative.md
+³       Owner at Kelly Computer Services.md
+³       
+ÀÄÄÄWork Experience
+        City of Fort Smith - IT Support Specialist.md
+        Fort Smith Chamber of Commerce - Directory of Information and Statistics.md
+        index.md
+        Medtronic - Technical User Support Analyst.md
+        Rheem Manufacturing - IT Network Co-Op.md
+        
