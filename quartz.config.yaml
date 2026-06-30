@@ -8,7 +8,7 @@ configuration:
     provider: google
     tagId: G-V0RKQ91K9C
   locale: en-US
-  baseUrl: github.com/austinleekelly/portfolio
+  baseUrl: austinleekelly.com
   ignorePatterns:
     - private
     - templates
